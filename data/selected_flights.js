@@ -646,49 +646,49 @@
     },
     {
         "Flight": "SQ154",
-        "Date": "28-06-2024",
+        "Date": "28-08-2024",
         "No. Of": 3.0,
         "Airline": "SQ",
         "To": "PNH"
     },
     {
         "Flight": "SQ938",
-        "Date": "28-06-2024",
+        "Date": "28-08-2024",
         "No. Of": 5.0,
         "Airline": "SQ",
         "To": "DPS"
     },
     {
         "Flight": "NH842",
-        "Date": "28-06-2024",
+        "Date": "28-08-2024",
         "No. Of": 5.0,
         "Airline": "NH",
         "To": "HND"
     },
     {
         "Flight": "SQ622",
-        "Date": "28-06-2024",
+        "Date": "28-08-2024",
         "No. Of": 3.0,
         "Airline": "SQ",
         "To": "KIX"
     },
     {
         "Flight": "SQ960",
-        "Date": "28-06-2024",
+        "Date": "28-08-2024",
         "No. Of": 5.0,
         "Airline": "SQ",
         "To": "CGK"
     },
     {
         "Flight": "SQ126",
-        "Date": "28-06-2024",
+        "Date": "28-08-2024",
         "No. Of": 5.0,
         "Airline": "SQ",
         "To": "KUL"
     },
     {
         "Flight": "SQ128",
-        "Date": "28-06-2024",
+        "Date": "28-08-2024",
         "No. Of": 3.0,
         "Airline": "SQ",
         "To": "KUL"
