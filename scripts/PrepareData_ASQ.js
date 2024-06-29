@@ -242,12 +242,24 @@ function prepareInterviewData_asq() {
         //minus 70 minutes to get time at gate
         var departure_time_value = gate.display_time.substring(0,2) * 60 + gate.display_time.substring(2,4)*1;
         time_at_gate_value = departure_time_value - 70;
+
+        //if of the next date
+        var previous_day_mark = "";
+        if (time_at_gate_value<0) 
+        {
+          time_at_gate_value = time_at_gate_value + 24*60;
+          previous_day_mark  = "*";
+          
+        }
+
+
         var hour = String(Math.floor(time_at_gate_value / 60));
         var minutes = String(time_at_gate_value  % 60);
 
         if (minutes.length <2 )  minutes = "0" + minutes;
+        if (hour.length <2 )  hour = "0" + hour;
 
-        flight.display_time_at_gate = hour + minutes;
+        flight.display_time_at_gate =  hour + minutes + previous_day_mark;
 
         break;
       }
