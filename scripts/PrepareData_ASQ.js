@@ -173,7 +173,7 @@ function prepareInterviewData_asq() {
       var InterviewEndDate = '"InterviewEndDate"' + ":" + '"' +  interview["InterviewDate"]+ '", ' ;
       var Completed_of_interviews = '"Completed_of_interviews"' + ":" + '"' +  interview["Number of interviews"] ;
       var str = '{' + Airline_Dest + Airline + Dest + InterviewEndDate + Completed_of_interviews + '"}';
-      //interview_data_asq.push(JSON.parse(str));
+      interview_data_asq.push(JSON.parse(str));
     }
   }
   
