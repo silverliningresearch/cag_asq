@@ -210,6 +210,7 @@ function prepareInterviewData_asq() {
       flight.Date_Time = flight.Date.substring(6,10) + flight.Date.substring(3,5) + flight.Date.substring(0,2) + flight.Time;
       //flight.Date_Time = flight.Time;
       today_flight_list_asq.push(flight);
+      console.log("flight.Date: ", flight.Date);
     }
   }
   
@@ -245,7 +246,7 @@ function prepareInterviewData_asq() {
 
         //if of the next date
         var previous_day_mark = "";
-        if (time_at_gate_value<0) 
+        if (time_at_gate_value < 0) 
         {
           time_at_gate_value = time_at_gate_value + 24*60;
           previous_day_mark  = "*";
@@ -303,5 +304,5 @@ function prepareInterviewData_asq() {
     if (flight.Quota>0) daily_plan_data_asq.push(flight);
   }
 
-  //console.log("today_flight_list_asq: ", today_flight_list_asq);
+  console.log("today_flight_list_asq: ", today_flight_list_asq);
 }
