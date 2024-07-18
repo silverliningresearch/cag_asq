@@ -31,14 +31,8 @@
         "Notes": ""
     },
     {
-        "Airline_Dest": "6E-DEL",
-        "Quota": 3,
-        "Quarter": "2024-Q3",
-        "Notes": ""
-    },
-    {
         "Airline_Dest": "6E-MAA",
-        "Quota": 6,
+        "Quota": 9,
         "Quarter": "2024-Q3",
         "Notes": ""
     },
@@ -68,13 +62,19 @@
     },
     {
         "Airline_Dest": "CA-PEK",
-        "Quota": 10,
+        "Quota": 5,
+        "Quarter": "2024-Q3",
+        "Notes": ""
+    },
+    {
+        "Airline_Dest": "CA-TFU",
+        "Quota": 5,
         "Quarter": "2024-Q3",
         "Notes": ""
     },
     {
         "Airline_Dest": "CX-HKG",
-        "Quota": 13,
+        "Quota": 14,
         "Quarter": "2024-Q3",
         "Notes": ""
     },
@@ -86,7 +86,13 @@
     },
     {
         "Airline_Dest": "EK-DXB",
-        "Quota": 13,
+        "Quota": 8,
+        "Quarter": "2024-Q3",
+        "Notes": ""
+    },
+    {
+        "Airline_Dest": "EK-MEL",
+        "Quota": 5,
         "Quarter": "2024-Q3",
         "Notes": ""
     },
@@ -116,13 +122,13 @@
     },
     {
         "Airline_Dest": "KE-ICN",
-        "Quota": 6,
+        "Quota": 7,
         "Quarter": "2024-Q3",
         "Notes": ""
     },
     {
         "Airline_Dest": "KL-DPS",
-        "Quota": 5,
+        "Quota": 4,
         "Quarter": "2024-Q3",
         "Notes": ""
     },
@@ -164,7 +170,7 @@
     },
     {
         "Airline_Dest": "QF-MEL",
-        "Quota": 5,
+        "Quota": 4,
         "Quarter": "2024-Q3",
         "Notes": ""
     },
@@ -260,7 +266,7 @@
     },
     {
         "Airline_Dest": "SQ-HAN",
-        "Quota": 5,
+        "Quota": 4,
         "Quarter": "2024-Q3",
         "Notes": ""
     },
@@ -362,7 +368,7 @@
     },
     {
         "Airline_Dest": "SQ-RGN",
-        "Quota": 5,
+        "Quota": 4,
         "Quarter": "2024-Q3",
         "Notes": ""
     },
@@ -471,6 +477,12 @@
     {
         "Airline_Dest": "UK-BOM",
         "Quota": 5,
+        "Quarter": "2024-Q3",
+        "Notes": ""
+    },
+    {
+        "Airline_Dest": "VJ-HAN",
+        "Quota": 2,
         "Quarter": "2024-Q3",
         "Notes": ""
     },

@@ -66,7 +66,7 @@
     {
         "Flight": "CZ354",
         "Date": "12-07-2024",
-        "No. Of": 5.0,
+        "No. Of": "",
         "Airline": "CZ",
         "To": "CAN"
     },
@@ -80,7 +80,7 @@
     {
         "Flight": "KL835",
         "Date": "12-07-2024",
-        "No. Of": 5.0,
+        "No. Of": 4.0,
         "Airline": "KL",
         "To": "DPS"
     },
@@ -94,7 +94,7 @@
     {
         "Flight": "QF036",
         "Date": "12-07-2024",
-        "No. Of": 5.0,
+        "No. Of": 4.0,
         "Airline": "QF",
         "To": "MEL"
     },
@@ -108,30 +108,44 @@
     {
         "Flight": "BA012",
         "Date": "12-07-2024",
-        "No. Of": 5.0,
+        "No. Of": "",
         "Airline": "BA",
         "To": "LHR"
     },
     {
+        "Flight": "CA970",
+        "Date": "12-07-2024",
+        "No. Of": "",
+        "Airline": "CA",
+        "To": "PEK"
+    },
+    {
         "Flight": "EK353",
         "Date": "12-07-2024",
-        "No. Of": 5.0,
+        "No. Of": 4.0,
         "Airline": "EK",
         "To": "DXB"
     },
     {
         "Flight": "SQ762",
         "Date": "15-07-2024",
-        "No. Of": 5.0,
+        "No. Of": 4.0,
         "Airline": "SQ",
         "To": "RGN"
     },
     {
         "Flight": "6E1022",
         "Date": "15-07-2024",
-        "No. Of": 3.0,
+        "No. Of": "",
         "Airline": "6E",
         "To": "DEL"
+    },
+    {
+        "Flight": "MH604",
+        "Date": "15-07-2024",
+        "No. Of": 5.0,
+        "Airline": "MH",
+        "To": "KUL"
     },
     {
         "Flight": "6E1004",
@@ -143,7 +157,7 @@
     {
         "Flight": "SQ194",
         "Date": "15-07-2024",
-        "No. Of": 5.0,
+        "No. Of": 4.0,
         "Airline": "SQ",
         "To": "HAN"
     },
@@ -204,6 +218,20 @@
         "To": "PEN"
     },
     {
+        "Flight": "CA404",
+        "Date": "18-07-2024",
+        "No. Of": 5.0,
+        "Airline": "CA",
+        "To": "TFU"
+    },
+    {
+        "Flight": "CZ3040",
+        "Date": "18-07-2024",
+        "No. Of": 5.0,
+        "Airline": "CZ",
+        "To": "CAN"
+    },
+    {
         "Flight": "QF082",
         "Date": "18-07-2024",
         "No. Of": 5.0,
@@ -237,6 +265,13 @@
         "No. Of": 5.0,
         "Airline": "GA",
         "To": "CGK"
+    },
+    {
+        "Flight": "VJ916",
+        "Date": "21-07-2024",
+        "No. Of": 2.0,
+        "Airline": "VJ",
+        "To": "HAN"
     },
     {
         "Flight": "3K201",
@@ -353,9 +388,16 @@
     {
         "Flight": "PR502",
         "Date": "01-08-2024",
-        "No. Of": 5.0,
+        "No. Of": "",
         "Airline": "PR",
         "To": "MNL"
+    },
+    {
+        "Flight": "EK404",
+        "Date": "01-08-2024",
+        "No. Of": 5.0,
+        "Airline": "EK",
+        "To": "MEL"
     },
     {
         "Flight": "TR008",
@@ -381,14 +423,14 @@
     {
         "Flight": "CX636",
         "Date": "01-08-2024",
-        "No. Of": 4.0,
+        "No. Of": 5.0,
         "Airline": "CX",
         "To": "HKG"
     },
     {
         "Flight": "KE644",
-        "Date": "01-08-1905-07-16 00:00:00",
-        "No. Of": 2.0,
+        "Date": "01-08-2024",
+        "No. Of": 3.0,
         "Airline": "KE",
         "To": "ICN"
     },
@@ -442,6 +484,13 @@
         "To": "FRA"
     },
     {
+        "Flight": "6E1004",
+        "Date": "08-08-2024",
+        "No. Of": 3.0,
+        "Airline": "6E",
+        "To": "MAA"
+    },
+    {
         "Flight": "SQ710",
         "Date": "08-08-2024",
         "No. Of": 5.0,
@@ -479,14 +528,28 @@
     {
         "Flight": "CA970",
         "Date": "08-08-2024",
-        "No. Of": 5.0,
+        "No. Of": "",
         "Airline": "CA",
         "To": "PEK"
     },
     {
-        "Flight": "EK353",
+        "Flight": "BA012",
         "Date": "08-08-2024",
         "No. Of": 5.0,
+        "Airline": "BA",
+        "To": "LHR"
+    },
+    {
+        "Flight": "PR510",
+        "Date": "08-08-2024",
+        "No. Of": 5.0,
+        "Airline": "PR",
+        "To": "MNL"
+    },
+    {
+        "Flight": "EK353",
+        "Date": "08-08-2024",
+        "No. Of": "",
         "Airline": "EK",
         "To": "DXB"
     },
@@ -619,7 +682,7 @@
     {
         "Flight": "EK355",
         "Date": "20-08-2024",
-        "No. Of": 3.0,
+        "No. Of": 4.0,
         "Airline": "EK",
         "To": "DXB"
     },
@@ -808,7 +871,7 @@
     {
         "Flight": "MH616",
         "Date": "04-09-2024",
-        "No. Of": 5.0,
+        "No. Of": "",
         "Airline": "MH",
         "To": "KUL"
     }
