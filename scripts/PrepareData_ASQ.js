@@ -228,8 +228,20 @@ function prepareInterviewData_asq() {
 
       //convert to dd-mm-yyyy
       var gate_date = gate.Date.substring(8,10) + "-"  + gate.Date.substring(5,7) + "-"  +  gate.Date.substring(0,4)
+      var flight_for_compare =  flight.Flight;
+      if (flight.Flight.slice(2, 3) == '0') 
+      {  
+        flight_for_compare = flight.Flight.slice(0, 2) +  flight.Flight.slice(3, 5);
+        //console.log("flight_for_compare: ", flight_for_compare);
+      }
 
-      if ((gate.Flight == flight.Flight) && (gate_date == flight.Date))
+      if (flight.Flight.slice(2, 4) == '00') 
+      {  
+        flight_for_compare = flight.Flight.slice(0, 2) +  flight.Flight.slice(4, 5);
+        //console.log("flight_for_compare: ", flight_for_compare);
+      }
+
+      if ((gate.Flight == flight_for_compare) && (gate_date == flight.Date))
       {
         flight.Gate = gate.display_gate;
 
