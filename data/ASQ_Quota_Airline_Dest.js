@@ -92,7 +92,7 @@
     },
     {
         "Airline_Dest": "EK-MEL",
-        "Quota": 5,
+        "Quota": 4,
         "Quarter": "2024-Q3",
         "Notes": ""
     },
@@ -176,7 +176,7 @@
     },
     {
         "Airline_Dest": "QF-SYD",
-        "Quota": 5,
+        "Quota": 6,
         "Quarter": "2024-Q3",
         "Notes": ""
     },
@@ -266,7 +266,7 @@
     },
     {
         "Airline_Dest": "SQ-HAN",
-        "Quota": 4,
+        "Quota": 9,
         "Quarter": "2024-Q3",
         "Notes": ""
     },
@@ -302,7 +302,7 @@
     },
     {
         "Airline_Dest": "SQ-KUL",
-        "Quota": 8,
+        "Quota": 7,
         "Quarter": "2024-Q3",
         "Notes": ""
     },
@@ -343,12 +343,6 @@
         "Notes": ""
     },
     {
-        "Airline_Dest": "SQ-PEN",
-        "Quota": 5,
-        "Quarter": "2024-Q3",
-        "Notes": ""
-    },
-    {
         "Airline_Dest": "SQ-PER",
         "Quota": 10,
         "Quarter": "2024-Q3",
@@ -356,7 +350,7 @@
     },
     {
         "Airline_Dest": "SQ-PNH",
-        "Quota": 8,
+        "Quota": 10,
         "Quarter": "2024-Q3",
         "Notes": ""
     },
@@ -386,7 +380,7 @@
     },
     {
         "Airline_Dest": "SQ-SYD",
-        "Quota": 8,
+        "Quota": 9,
         "Quarter": "2024-Q3",
         "Notes": ""
     },
@@ -477,12 +471,6 @@
     {
         "Airline_Dest": "UK-BOM",
         "Quota": 5,
-        "Quarter": "2024-Q3",
-        "Notes": ""
-    },
-    {
-        "Airline_Dest": "VJ-HAN",
-        "Quota": 2,
         "Quarter": "2024-Q3",
         "Notes": ""
     },
