@@ -766,7 +766,7 @@
     {
         "Flight": "SQ406",
         "Date": "18-08-2024",
-        "No. Of": 5.0,
+        "No. Of": "",
         "Airline": "SQ",
         "To": "DEL"
     },
@@ -1063,6 +1063,13 @@
         "No. Of": 5.0,
         "Airline": "SQ",
         "To": "TPE"
+    },
+    {
+        "Flight": "SQ406",
+        "Date": "29-08-2024",
+        "No. Of": 5.0,
+        "Airline": "SQ",
+        "To": "DEL"
     },
     {
         "Flight": "SQ241",
