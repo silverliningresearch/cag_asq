@@ -133,6 +133,12 @@
         "Notes": ""
     },
     {
+        "Airline_Dest": "KR-PNH",
+        "Quota": 5,
+        "Quarter": "2024-Q3",
+        "Notes": ""
+    },
+    {
         "Airline_Dest": "MF-XMN",
         "Quota": 5,
         "Quarter": "2024-Q3",
@@ -350,7 +356,7 @@
     },
     {
         "Airline_Dest": "SQ-PNH",
-        "Quota": 10,
+        "Quota": 5,
         "Quarter": "2024-Q3",
         "Notes": ""
     },
