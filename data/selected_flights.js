@@ -990,6 +990,13 @@
     {
         "Flight": "SQ960",
         "Date": "27-08-2024",
+        "No. Of": "",
+        "Airline": "SQ",
+        "To": "CGK"
+    },
+    {
+        "Flight": "SQ962",
+        "Date": "27-08-2024",
         "No. Of": 5.0,
         "Airline": "SQ",
         "To": "CGK"
