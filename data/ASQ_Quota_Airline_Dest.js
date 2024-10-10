@@ -121,7 +121,7 @@
         "Notes": ""
     },
     {
-        "Airline_Dest": "IX-IXM",
+        "Airline_Dest": "IX-MAA",
         "Quota": 5.0,
         "Quarter": "2024-Q4",
         "Notes": ""

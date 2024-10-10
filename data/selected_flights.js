@@ -171,7 +171,7 @@
     {
         "Flight": "SQ026",
         "Date": "08-10-2024",
-        "No. Of": 3.0,
+        "No. Of": "",
         "Airline": "SQ",
         "To": "FRA"
     },
@@ -297,7 +297,7 @@
     {
         "Flight": "IX683",
         "Date": "17-10-2024",
-        "No. Of": 5.0,
+        "No. Of": "",
         "Airline": "IX",
         "To": "IXM"
     },
@@ -491,6 +491,13 @@
         "To": "BOM"
     },
     {
+        "Flight": "IX687",
+        "Date": "01-11-2024",
+        "No. Of": 5.0,
+        "Airline": "IX",
+        "To": "MAA"
+    },
+    {
         "Flight": "TR280",
         "Date": "04-11-2024",
         "No. Of": 5.0,
@@ -671,6 +678,13 @@
         "No. Of": 5.0,
         "Airline": "SQ",
         "To": "PVG"
+    },
+    {
+        "Flight": "SQ326",
+        "Date": "19-11-2024",
+        "No. Of": 3.0,
+        "Airline": "SQ",
+        "To": "FRA"
     },
     {
         "Flight": "SQ318",
