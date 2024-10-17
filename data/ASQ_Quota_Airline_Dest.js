@@ -1,12 +1,6 @@
  let AirlineDest_quota_ASQ = ` 
 [
     {
-        "Airline_Dest": "3K-BKK",
-        "Quota": 5.0,
-        "Quarter": "2024-Q4",
-        "Notes": ""
-    },
-    {
         "Airline_Dest": "3K-CGK",
         "Quota": 5.0,
         "Quarter": "2024-Q4",
@@ -14,7 +8,7 @@
     },
     {
         "Airline_Dest": "3K-DPS",
-        "Quota": 5.0,
+        "Quota": 10.0,
         "Quarter": "2024-Q4",
         "Notes": ""
     },
