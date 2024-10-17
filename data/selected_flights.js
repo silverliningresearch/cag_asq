@@ -43,13 +43,6 @@
         "To": "TRZ"
     },
     {
-        "Flight": "BA012",
-        "Date": "02-10-2024",
-        "No. Of": "",
-        "Airline": "BA",
-        "To": "LHR"
-    },
-    {
         "Flight": "TK055",
         "Date": "02-10-2024",
         "No. Of": 5.0,
@@ -69,13 +62,6 @@
         "No. Of": 5.0,
         "Airline": "SQ",
         "To": "RGN"
-    },
-    {
-        "Flight": "IX683",
-        "Date": "05-10-2024",
-        "No. Of": "",
-        "Airline": "IX",
-        "To": "IXM"
     },
     {
         "Flight": "SQ728",
@@ -169,13 +155,6 @@
         "To": "SZX"
     },
     {
-        "Flight": "SQ026",
-        "Date": "08-10-2024",
-        "No. Of": "",
-        "Airline": "SQ",
-        "To": "FRA"
-    },
-    {
         "Flight": "FD358",
         "Date": "11-10-2024",
         "No. Of": 5.0,
@@ -209,13 +188,6 @@
         "No. Of": 5.0,
         "Airline": "VJ",
         "To": "SGN"
-    },
-    {
-        "Flight": "3K513",
-        "Date": "11-10-2024",
-        "No. Of": 0.0,
-        "Airline": "3K",
-        "To": "BKK"
     },
     {
         "Flight": "3K239",
@@ -293,20 +265,6 @@
         "No. Of": 5.0,
         "Airline": "AI",
         "To": "DEL"
-    },
-    {
-        "Flight": "SQ728",
-        "Date": "17-10-2024",
-        "No. Of": "",
-        "Airline": "SQ",
-        "To": "HKT"
-    },
-    {
-        "Flight": "IX683",
-        "Date": "17-10-2024",
-        "No. Of": "",
-        "Airline": "IX",
-        "To": "IXM"
     },
     {
         "Flight": "6E1004",
@@ -720,13 +678,6 @@
         "No. Of": 5.0,
         "Airline": "BA",
         "To": "LHR"
-    },
-    {
-        "Flight": "TK055",
-        "Date": "19-11-2024",
-        "No. Of": "",
-        "Airline": "TK",
-        "To": "IST"
     },
     {
         "Flight": "TR280",
