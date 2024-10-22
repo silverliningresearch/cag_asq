@@ -80,7 +80,7 @@
     },
     {
         "Airline_Dest": "CZ-CAN",
-        "Quota": 5.0,
+        "Quota": 10.0,
         "Quarter": "2024-Q4",
         "Notes": ""
     },
@@ -224,12 +224,6 @@
     },
     {
         "Airline_Dest": "SQ-BOM",
-        "Quota": 5.0,
-        "Quarter": "2024-Q4",
-        "Notes": ""
-    },
-    {
-        "Airline_Dest": "SQ-CAN",
         "Quota": 5.0,
         "Quarter": "2024-Q4",
         "Notes": ""

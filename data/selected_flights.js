@@ -311,7 +311,7 @@
     {
         "Flight": "SQ241",
         "Date": "20-10-2024",
-        "No. Of": 5.0,
+        "No. Of": 2.0,
         "Airline": "SQ",
         "To": "SYD"
     },
@@ -484,6 +484,13 @@
         "To": "PER"
     },
     {
+        "Flight": "CZ354",
+        "Date": "04-11-2024",
+        "No. Of": 5.0,
+        "Airline": "CZ",
+        "To": "CAN"
+    },
+    {
         "Flight": "TR424",
         "Date": "04-11-2024",
         "No. Of": 5.0,
@@ -505,11 +512,11 @@
         "To": "SYD"
     },
     {
-        "Flight": "SQ850",
+        "Flight": "SQ241",
         "Date": "07-11-2024",
-        "No. Of": 5.0,
+        "No. Of": 3.0,
         "Airline": "SQ",
-        "To": "CAN"
+        "To": "SYD"
     },
     {
         "Flight": "SQ032",
@@ -541,7 +548,7 @@
     },
     {
         "Flight": "SQ510",
-        "Date": "19-11-2024",
+        "Date": "07-11-2024",
         "No. Of": 5.0,
         "Airline": "SQ",
         "To": "BLR"
