@@ -19,8 +19,14 @@
         "Notes": ""
     },
     {
+        "Airline_Dest": "5J-CRK",
+        "Quota": 5.0,
+        "Quarter": "2024-Q4",
+        "Notes": ""
+    },
+    {
         "Airline_Dest": "5J-MNL",
-        "Quota": 10.0,
+        "Quota": 5.0,
         "Quarter": "2024-Q4",
         "Notes": ""
     },

@@ -393,13 +393,6 @@
         "To": "MNL"
     },
     {
-        "Flight": "5J806",
-        "Date": "23-10-2024",
-        "No. Of": 5.0,
-        "Airline": "5J",
-        "To": "MNL"
-    },
-    {
         "Flight": "CX636",
         "Date": "23-10-2024",
         "No. Of": 5.0,
@@ -538,6 +531,13 @@
         "No. Of": 5.0,
         "Airline": "SQ",
         "To": "LHR"
+    },
+    {
+        "Flight": "MU568",
+        "Date": "07-11-2024",
+        "No. Of": 5.0,
+        "Airline": "MU",
+        "To": "PVG"
     },
     {
         "Flight": "SQ215",
@@ -764,11 +764,11 @@
         "To": "HKG"
     },
     {
-        "Flight": "MU6018",
+        "Flight": "5J538",
         "Date": "01-12-2024",
         "No. Of": 5.0,
-        "Airline": "MU",
-        "To": "PVG"
+        "Airline": "5J",
+        "To": "CRK"
     },
     {
         "Flight": "SQ706",
