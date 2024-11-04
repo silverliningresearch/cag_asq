@@ -498,7 +498,7 @@
         "To": "KUL"
     },
     {
-        "Flight": "QF082",
+        "Flight": "QF002",
         "Date": "04-11-2024",
         "No. Of": 4.0,
         "Airline": "QF",
