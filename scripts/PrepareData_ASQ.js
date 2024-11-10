@@ -302,17 +302,9 @@ function prepareInterviewData_asq() {
 
     //get selected flights
     flight.selected = "Alternative";
-    if (flight.Flight == "EK353") {
-      console.log("EK353: ", flight.Flight);
 
-    }
     for (j = 0; j < selected_flights.length; j++) {
       let selected_flight = selected_flights[j];
-
-      if (selected_flight.Flight == "EK353") {
-        console.log("EK353: ", flight.Flight);
-  
-      }
 
       if ((selected_flight.Flight == flight.Flight) && (selected_flight.Date == flight.Date))      
       {
