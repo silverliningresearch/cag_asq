@@ -51,7 +51,7 @@
     },
     {
         "Flight": "EK353",
-        "Date": "02-10-2024",
+        "Date": "03-10-2024",
         "No. Of": 3.0,
         "Airline": "EK",
         "To": "DXB"
@@ -575,13 +575,6 @@
         "To": "BKK"
     },
     {
-        "Flight": "TG408",
-        "Date": "10-11-2024",
-        "No. Of": 5.0,
-        "Airline": "TG",
-        "To": "BKK"
-    },
-    {
         "Flight": "TG410",
         "Date": "10-11-2024",
         "No. Of": 5.0,
@@ -678,6 +671,13 @@
         "No. Of": 5.0,
         "Airline": "SQ",
         "To": "PER"
+    },
+    {
+        "Flight": "TG410",
+        "Date": "19-11-2024",
+        "No. Of": 5.0,
+        "Airline": "TG",
+        "To": "BKK"
     },
     {
         "Flight": "BA012",
