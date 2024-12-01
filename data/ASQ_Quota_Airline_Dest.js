@@ -422,7 +422,7 @@
     },
     {
         "Airline_Dest": "TR-BKK",
-        "Quota": 15.0,
+        "Quota": 10.0,
         "Quarter": "2024-Q4",
         "Notes": ""
     },
@@ -452,7 +452,7 @@
     },
     {
         "Airline_Dest": "TR-PER",
-        "Quota": 5.0,
+        "Quota": 10.0,
         "Quarter": "2024-Q4",
         "Notes": ""
     },

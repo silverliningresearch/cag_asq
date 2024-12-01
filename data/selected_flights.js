@@ -708,11 +708,11 @@
         "To": "DOH"
     },
     {
-        "Flight": "TR610",
+        "Flight": "TR016",
         "Date": "23-11-2024",
         "No. Of": 5.0,
         "Airline": "TR",
-        "To": "BKK"
+        "To": "PER"
     },
     {
         "Flight": "TR616",
