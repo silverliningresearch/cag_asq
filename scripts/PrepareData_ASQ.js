@@ -67,7 +67,7 @@ function initCurrentTimeVars_asq() {
       break;            
   
     default:
-      total_quota_asq = 1;
+      total_quota_asq = 550;
       break;
   }
 }
