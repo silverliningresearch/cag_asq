@@ -52,7 +52,7 @@
     {
         "Flight": "BA016",
         "Date": "06-01-2025",
-        "No. Of": 5.0,
+        "No. Of": 4.0,
         "Airline": "BA",
         "To": "LHR"
     },
@@ -470,6 +470,13 @@
         "To": "BKK"
     },
     {
+        "Flight": "EK355",
+        "Date": "09-02-2025",
+        "No. Of": 3.0,
+        "Airline": "EK",
+        "To": "DXB"
+    },
+    {
         "Flight": "SQ422",
         "Date": "14-02-2025",
         "No. Of": 5.0,
@@ -505,11 +512,11 @@
         "To": "PEN"
     },
     {
-        "Flight": "EK405",
+        "Flight": "EK404",
         "Date": "19-02-2025",
         "No. Of": 3.0,
         "Airline": "EK",
-        "To": "DXB"
+        "To": "MEL"
     },
     {
         "Flight": "TR896",
@@ -531,13 +538,6 @@
         "No. Of": 5.0,
         "Airline": "TR",
         "To": "BKK"
-    },
-    {
-        "Flight": "EK348",
-        "Date": "19-02-2025",
-        "No. Of": 3.0,
-        "Airline": "EK",
-        "To": "PNH"
     },
     {
         "Flight": "TG408",
@@ -808,7 +808,7 @@
     {
         "Flight": "MH616",
         "Date": "10-03-2025",
-        "No. Of": 4.0,
+        "No. Of": 5.0,
         "Airline": "MH",
         "To": "KUL"
     }

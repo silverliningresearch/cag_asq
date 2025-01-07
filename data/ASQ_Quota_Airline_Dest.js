@@ -80,7 +80,7 @@
     },
     {
         "Airline_Dest": "BA-LHR",
-        "Quota": 5.0,
+        "Quota": 4.0,
         "Quarter": "2025-Q1",
         "Notes": ""
     },
@@ -115,7 +115,7 @@
         "Notes": ""
     },
     {
-        "Airline_Dest": "EK-PNH",
+        "Airline_Dest": "EK-MEL",
         "Quota": 3.0,
         "Quarter": "2025-Q1",
         "Notes": ""
@@ -164,7 +164,7 @@
     },
     {
         "Airline_Dest": "MH-KUL",
-        "Quota": 9.0,
+        "Quota": 10.0,
         "Quarter": "2025-Q1",
         "Notes": ""
     },
