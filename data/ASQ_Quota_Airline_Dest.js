@@ -62,7 +62,7 @@
     },
     {
         "Airline_Dest": "AI-PNQ",
-        "Quota": 5.0,
+        "Quota": 3.0,
         "Quarter": "2025-Q1",
         "Notes": ""
     },
@@ -302,7 +302,7 @@
     },
     {
         "Airline_Dest": "SQ-HKT",
-        "Quota": 5.0,
+        "Quota": 7.0,
         "Quarter": "2025-Q1",
         "Notes": ""
     },

@@ -57,11 +57,11 @@
         "To": "LHR"
     },
     {
-        "Flight": "AI381",
+        "Flight": "SQ726",
         "Date": "09-01-2025",
-        "No. Of": 5.0,
-        "Airline": "AI",
-        "To": "DEL"
+        "No. Of": 3.0,
+        "Airline": "SQ",
+        "To": "HKT"
     },
     {
         "Flight": "6E1016",
@@ -73,7 +73,7 @@
     {
         "Flight": "AI2110",
         "Date": "09-01-2025",
-        "No. Of": 5.0,
+        "No. Of": 3.0,
         "Airline": "AI",
         "To": "PNQ"
     },
@@ -283,7 +283,7 @@
     {
         "Flight": "SQ732",
         "Date": "21-01-2025",
-        "No. Of": 5.0,
+        "No. Of": 4.0,
         "Airline": "SQ",
         "To": "HKT"
     },
@@ -342,6 +342,13 @@
         "No. Of": 5.0,
         "Airline": "GA",
         "To": "CGK"
+    },
+    {
+        "Flight": "SQ116",
+        "Date": "24-01-2025",
+        "No. Of": 5.0,
+        "Airline": "SQ",
+        "To": "KUL"
     },
     {
         "Flight": "3K201",
@@ -603,11 +610,11 @@
         "To": "KUL"
     },
     {
-        "Flight": "SQ128",
+        "Flight": "AI2116",
         "Date": "22-02-2025",
         "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "KUL"
+        "Airline": "AI",
+        "To": "DEL"
     },
     {
         "Flight": "SQ207",
