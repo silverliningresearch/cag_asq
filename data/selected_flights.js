@@ -225,13 +225,6 @@
         "To": "ICN"
     },
     {
-        "Flight": "TR658",
-        "Date": "18-01-2025",
-        "No. Of": 5.0,
-        "Airline": "TR",
-        "To": "HKT"
-    },
-    {
         "Flight": "QR943",
         "Date": "18-01-2025",
         "No. Of": 5.0,
@@ -349,6 +342,13 @@
         "No. Of": 5.0,
         "Airline": "SQ",
         "To": "KUL"
+    },
+    {
+        "Flight": "TR652",
+        "Date": "24-01-2025",
+        "No. Of": 5.0,
+        "Airline": "TR",
+        "To": "HKT"
     },
     {
         "Flight": "3K201",
@@ -512,55 +512,6 @@
         "To": "LHR"
     },
     {
-        "Flight": "TR426",
-        "Date": "19-02-2025",
-        "No. Of": 5.0,
-        "Airline": "TR",
-        "To": "PEN"
-    },
-    {
-        "Flight": "EK404",
-        "Date": "19-02-2025",
-        "No. Of": 3.0,
-        "Airline": "EK",
-        "To": "MEL"
-    },
-    {
-        "Flight": "TR896",
-        "Date": "19-02-2025",
-        "No. Of": 5.0,
-        "Airline": "TR",
-        "To": "TPE"
-    },
-    {
-        "Flight": "PR508",
-        "Date": "19-02-2025",
-        "No. Of": 5.0,
-        "Airline": "PR",
-        "To": "MNL"
-    },
-    {
-        "Flight": "TR610",
-        "Date": "19-02-2025",
-        "No. Of": 5.0,
-        "Airline": "TR",
-        "To": "BKK"
-    },
-    {
-        "Flight": "TG408",
-        "Date": "19-02-2025",
-        "No. Of": 3.0,
-        "Airline": "TG",
-        "To": "BKK"
-    },
-    {
-        "Flight": "QF292",
-        "Date": "19-02-2025",
-        "No. Of": 5.0,
-        "Airline": "QF",
-        "To": "SYD"
-    },
-    {
         "Flight": "SQ154",
         "Date": "22-02-2025",
         "No. Of": 5.0,
@@ -615,6 +566,55 @@
         "No. Of": 5.0,
         "Airline": "AI",
         "To": "DEL"
+    },
+    {
+        "Flight": "TR426",
+        "Date": "26-02-2025",
+        "No. Of": 5.0,
+        "Airline": "TR",
+        "To": "PEN"
+    },
+    {
+        "Flight": "EK404",
+        "Date": "26-02-2025",
+        "No. Of": 3.0,
+        "Airline": "EK",
+        "To": "MEL"
+    },
+    {
+        "Flight": "TR896",
+        "Date": "26-02-2025",
+        "No. Of": 5.0,
+        "Airline": "TR",
+        "To": "TPE"
+    },
+    {
+        "Flight": "PR508",
+        "Date": "26-02-2025",
+        "No. Of": 5.0,
+        "Airline": "PR",
+        "To": "MNL"
+    },
+    {
+        "Flight": "TR610",
+        "Date": "26-02-2025",
+        "No. Of": 5.0,
+        "Airline": "TR",
+        "To": "BKK"
+    },
+    {
+        "Flight": "TG408",
+        "Date": "26-02-2025",
+        "No. Of": 3.0,
+        "Airline": "TG",
+        "To": "BKK"
+    },
+    {
+        "Flight": "QF292",
+        "Date": "26-02-2025",
+        "No. Of": 5.0,
+        "Airline": "QF",
+        "To": "SYD"
     },
     {
         "Flight": "SQ207",
