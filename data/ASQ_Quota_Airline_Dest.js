@@ -55,6 +55,12 @@
         "Notes": ""
     },
     {
+        "Airline_Dest": "AF-CDG",
+        "Quota": 5.0,
+        "Quarter": "2025-Q1",
+        "Notes": ""
+    },
+    {
         "Airline_Dest": "AI-DEL",
         "Quota": 5.0,
         "Quarter": "2025-Q1",
@@ -242,12 +248,6 @@
     },
     {
         "Airline_Dest": "SQ-CAN",
-        "Quota": 5.0,
-        "Quarter": "2025-Q1",
-        "Notes": ""
-    },
-    {
-        "Airline_Dest": "SQ-CDG",
         "Quota": 5.0,
         "Quarter": "2025-Q1",
         "Notes": ""
@@ -463,12 +463,6 @@
         "Notes": ""
     },
     {
-        "Airline_Dest": "TR-PER",
-        "Quota": 5.0,
-        "Quarter": "2025-Q1",
-        "Notes": ""
-    },
-    {
         "Airline_Dest": "TR-SZB",
         "Quota": 5.0,
         "Quarter": "2025-Q1",
@@ -476,7 +470,7 @@
     },
     {
         "Airline_Dest": "TR-TPE",
-        "Quota": 10.0,
+        "Quota": 15.0,
         "Quarter": "2025-Q1",
         "Notes": ""
     },

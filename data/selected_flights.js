@@ -337,7 +337,7 @@
         "To": "CGK"
     },
     {
-        "Flight": "SQ116",
+        "Flight": "SQ122",
         "Date": "24-01-2025",
         "No. Of": 5.0,
         "Airline": "SQ",
@@ -428,11 +428,11 @@
         "To": "FRA"
     },
     {
-        "Flight": "SQ332",
+        "Flight": "ID7156",
         "Date": "06-02-2025",
         "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "CDG"
+        "Airline": "ID",
+        "To": "CGK"
     },
     {
         "Flight": "TR280",
@@ -449,11 +449,18 @@
         "To": "PEK"
     },
     {
-        "Flight": "TR008",
+        "Flight": "AF181",
+        "Date": "09-02-2025",
+        "No. Of": 5.0,
+        "Airline": "AF",
+        "To": "CDG"
+    },
+    {
+        "Flight": "TR896",
         "Date": "09-02-2025",
         "No. Of": 5.0,
         "Airline": "TR",
-        "To": "PER"
+        "To": "TPE"
     },
     {
         "Flight": "TR424",
@@ -629,13 +636,6 @@
         "No. Of": 5.0,
         "Airline": "SQ",
         "To": "PVG"
-    },
-    {
-        "Flight": "ID7154",
-        "Date": "01-03-2025",
-        "No. Of": 5.0,
-        "Airline": "ID",
-        "To": "CGK"
     },
     {
         "Flight": "SQ318",
