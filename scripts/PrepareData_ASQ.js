@@ -316,5 +316,5 @@ function prepareInterviewData_asq() {
     if (flight.Quota>0) daily_plan_data_asq.push(flight);
   }
 
-  console.log("today_flight_list_asq: ", today_flight_list_asq);
+  //console.log("today_flight_list_asq: ", today_flight_list_asq);
 }
