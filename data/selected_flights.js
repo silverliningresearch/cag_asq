@@ -449,18 +449,11 @@
         "To": "PEK"
     },
     {
-        "Flight": "AF181",
-        "Date": "09-02-2025",
-        "No. Of": 5.0,
-        "Airline": "AF",
-        "To": "CDG"
-    },
-    {
-        "Flight": "TR896",
+        "Flight": "TR008",
         "Date": "09-02-2025",
         "No. Of": 5.0,
         "Airline": "TR",
-        "To": "TPE"
+        "To": "PER"
     },
     {
         "Flight": "TR424",
@@ -519,6 +512,13 @@
         "To": "LHR"
     },
     {
+        "Flight": "TG414",
+        "Date": "14-02-2025",
+        "No. Of": 3.0,
+        "Airline": "TG",
+        "To": "BKK"
+    },
+    {
         "Flight": "SQ154",
         "Date": "22-02-2025",
         "No. Of": 5.0,
@@ -575,13 +575,6 @@
         "To": "DEL"
     },
     {
-        "Flight": "TR426",
-        "Date": "26-02-2025",
-        "No. Of": 5.0,
-        "Airline": "TR",
-        "To": "PEN"
-    },
-    {
         "Flight": "EK404",
         "Date": "26-02-2025",
         "No. Of": 3.0,
@@ -610,18 +603,18 @@
         "To": "BKK"
     },
     {
-        "Flight": "TG408",
-        "Date": "26-02-2025",
-        "No. Of": 3.0,
-        "Airline": "TG",
-        "To": "BKK"
-    },
-    {
         "Flight": "QF292",
         "Date": "26-02-2025",
         "No. Of": 5.0,
         "Airline": "QF",
         "To": "SYD"
+    },
+    {
+        "Flight": "AF257",
+        "Date": "26-02-2025",
+        "No. Of": 5.0,
+        "Airline": "AF",
+        "To": "CDG"
     },
     {
         "Flight": "SQ207",
@@ -692,6 +685,13 @@
         "No. Of": 5.0,
         "Airline": "TR",
         "To": "SZB"
+    },
+    {
+        "Flight": "TR108",
+        "Date": "04-03-2025",
+        "No. Of": 5.0,
+        "Airline": "TR",
+        "To": "SWA"
     },
     {
         "Flight": "TR610",

@@ -458,7 +458,13 @@
     },
     {
         "Airline_Dest": "TR-PEN",
-        "Quota": 10.0,
+        "Quota": 5.0,
+        "Quarter": "2025-Q1",
+        "Notes": ""
+    },
+    {
+        "Airline_Dest": "TR-PER",
+        "Quota": 5.0,
         "Quarter": "2025-Q1",
         "Notes": ""
     },
@@ -470,7 +476,7 @@
     },
     {
         "Airline_Dest": "TR-TPE",
-        "Quota": 15.0,
+        "Quota": 10.0,
         "Quarter": "2025-Q1",
         "Notes": ""
     },
