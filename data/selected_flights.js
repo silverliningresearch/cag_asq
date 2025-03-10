@@ -757,16 +757,16 @@
         "To": "PVG"
     },
     {
-        "Flight": "SQ235",
+        "Flight": "MH610",
         "Date": "07-03-2025",
         "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "BNE"
+        "Airline": "MH",
+        "To": "KUL"
     },
     {
         "Flight": "SQ706",
         "Date": "10-03-2025",
-        "No. Of": 5.0,
+        "No. Of": 4.0,
         "Airline": "SQ",
         "To": "BKK"
     },
@@ -813,11 +813,18 @@
         "To": "DPS"
     },
     {
-        "Flight": "MH616",
+        "Flight": "SQ720",
         "Date": "10-03-2025",
-        "No. Of": 5.0,
-        "Airline": "MH",
-        "To": "KUL"
+        "No. Of": 4.0,
+        "Airline": "SQ",
+        "To": "BKK"
+    },
+    {
+        "Flight": "QF052",
+        "Date": "10-03-2025",
+        "No. Of": 2.0,
+        "Airline": "QF",
+        "To": "BNE"
     }
 ]    
 

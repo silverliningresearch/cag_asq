@@ -193,6 +193,12 @@
         "Notes": ""
     },
     {
+        "Airline_Dest": "QF-BNE",
+        "Quota": 2.0,
+        "Quarter": "2025-Q1",
+        "Notes": ""
+    },
+    {
         "Airline_Dest": "QF-PER",
         "Quota": 5.0,
         "Quarter": "2025-Q1",
@@ -224,7 +230,7 @@
     },
     {
         "Airline_Dest": "SQ-BKK",
-        "Quota": 8.0,
+        "Quota": 11.0,
         "Quarter": "2025-Q1",
         "Notes": ""
     },
@@ -236,7 +242,7 @@
     },
     {
         "Airline_Dest": "SQ-BNE",
-        "Quota": 10.0,
+        "Quota": 5.0,
         "Quarter": "2025-Q1",
         "Notes": ""
     },
