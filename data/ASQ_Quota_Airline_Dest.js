@@ -32,13 +32,7 @@
     },
     {
         "Airline_Dest": "6E-BLR",
-        "Quota": 3.0,
-        "Quarter": "2025-Q2",
-        "Notes": ""
-    },
-    {
-        "Airline_Dest": "6E-BOM",
-        "Quota": 3.0,
+        "Quota": 6.0,
         "Quarter": "2025-Q2",
         "Notes": ""
     },
@@ -55,13 +49,13 @@
         "Notes": ""
     },
     {
-        "Airline_Dest": "AI-DEL",
+        "Airline_Dest": "AI-BOM",
         "Quota": 5.0,
         "Quarter": "2025-Q2",
         "Notes": ""
     },
     {
-        "Airline_Dest": "AI-PNQ",
+        "Airline_Dest": "AI-DEL",
         "Quota": 5.0,
         "Quarter": "2025-Q2",
         "Notes": ""
