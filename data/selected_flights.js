@@ -176,11 +176,11 @@
         "To": "KUL"
     },
     {
-        "Flight": "QZ503",
+        "Flight": "AK704",
         "Date": "14-07-2025",
         "No. Of": 5.0,
-        "Airline": "QZ",
-        "To": "DPS"
+        "Airline": "AK",
+        "To": "KUL"
     },
     {
         "Flight": "AK1794",
