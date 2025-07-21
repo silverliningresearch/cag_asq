@@ -37,7 +37,7 @@
         "Notes": ""
     },
     {
-        "Airline_Dest": "AI-PNQ",
+        "Airline_Dest": "AI-DEL",
         "Quota": 5,
         "Quarter": "2025-Q3",
         "Notes": ""

@@ -71,11 +71,11 @@
         "To": "BOM"
     },
     {
-        "Flight": "AI2110",
+        "Flight": "SQ156",
         "Date": "08-07-2025",
         "No. Of": 5.0,
-        "Airline": "AI",
-        "To": "PNQ"
+        "Airline": "SQ",
+        "To": "PNH"
     },
     {
         "Flight": "SQ622",
@@ -227,7 +227,7 @@
     {
         "Flight": "TR642",
         "Date": "17-07-2025",
-        "No. Of": 5.0,
+        "No. Of": 2.0,
         "Airline": "TR",
         "To": "USM"
     },
@@ -272,13 +272,6 @@
         "No. Of": 3.0,
         "Airline": "6E",
         "To": "CCU"
-    },
-    {
-        "Flight": "SQ156",
-        "Date": "20-07-2025",
-        "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "PNH"
     },
     {
         "Flight": "SQ622",
@@ -351,13 +344,6 @@
         "To": "SFO"
     },
     {
-        "Flight": "AK702",
-        "Date": "03-08-2025",
-        "No. Of": 5.0,
-        "Airline": "AK",
-        "To": "KUL"
-    },
-    {
         "Flight": "5J818",
         "Date": "03-08-2025",
         "No. Of": 5.0,
@@ -384,6 +370,20 @@
         "No. Of": 5.0,
         "Airline": "CX",
         "To": "HKG"
+    },
+    {
+        "Flight": "QZ507",
+        "Date": "03-08-2025",
+        "No. Of": 5.0,
+        "Airline": "QZ",
+        "To": "DPS"
+    },
+    {
+        "Flight": "AI2116",
+        "Date": "03-08-2025",
+        "No. Of": 5.0,
+        "Airline": "AI",
+        "To": "DEL"
     },
     {
         "Flight": "SQ850",
@@ -428,6 +428,13 @@
         "To": "PEK"
     },
     {
+        "Flight": "TR466",
+        "Date": "07-08-2025",
+        "No. Of": 5.0,
+        "Airline": "TR",
+        "To": "KUL"
+    },
+    {
         "Flight": "TR274",
         "Date": "11-08-2025",
         "No. Of": 5.0,
@@ -463,11 +470,11 @@
         "To": "PEN"
     },
     {
-        "Flight": "TR468",
+        "Flight": "TR648",
         "Date": "11-08-2025",
-        "No. Of": 5.0,
+        "No. Of": 3.0,
         "Airline": "TR",
-        "To": "KUL"
+        "To": "USM"
     },
     {
         "Flight": "QF072",
@@ -805,7 +812,6 @@
         "Airline": "MH",
         "To": "KUL"
     }
-
 ]    
 
  `;
