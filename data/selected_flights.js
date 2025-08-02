@@ -344,11 +344,11 @@
         "To": "SFO"
     },
     {
-        "Flight": "5J818",
+        "Flight": "QZ503",
         "Date": "03-08-2025",
         "No. Of": 5.0,
-        "Airline": "5J",
-        "To": "MNL"
+        "Airline": "QZ",
+        "To": "DPS"
     },
     {
         "Flight": "QZ505",
@@ -372,11 +372,11 @@
         "To": "HKG"
     },
     {
-        "Flight": "QZ507",
+        "Flight": "5J806",
         "Date": "03-08-2025",
         "No. Of": 5.0,
-        "Airline": "QZ",
-        "To": "DPS"
+        "Airline": "5J",
+        "To": "MNL"
     },
     {
         "Flight": "AI2116",

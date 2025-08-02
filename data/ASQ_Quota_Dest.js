@@ -1,6 +1,6 @@
  let Dest_quota_ASQ = ` 
 [
-      {
+    {
         "Dest": "KUL",
         "Quota": 36.0,
         "Quarter": "2025-Q3",
@@ -744,7 +744,6 @@
         "Quarter": "2025-Q3",
         "Notes": ""
     }
-
 ]    
 
  `;
