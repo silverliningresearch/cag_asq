@@ -372,13 +372,6 @@
         "To": "HKG"
     },
     {
-        "Flight": "5J806",
-        "Date": "03-08-2025",
-        "No. Of": 5.0,
-        "Airline": "5J",
-        "To": "MNL"
-    },
-    {
         "Flight": "AI2116",
         "Date": "03-08-2025",
         "No. Of": 5.0,
@@ -421,18 +414,11 @@
         "To": "CDG"
     },
     {
-        "Flight": "SQ806",
+        "Flight": "5J806",
         "Date": "07-08-2025",
         "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "PEK"
-    },
-    {
-        "Flight": "TR466",
-        "Date": "07-08-2025",
-        "No. Of": 5.0,
-        "Airline": "TR",
-        "To": "KUL"
+        "Airline": "5J",
+        "To": "MNL"
     },
     {
         "Flight": "TR274",
@@ -470,6 +456,13 @@
         "To": "PEN"
     },
     {
+        "Flight": "TR472",
+        "Date": "11-08-2025",
+        "No. Of": 5.0,
+        "Airline": "TR",
+        "To": "KUL"
+    },
+    {
         "Flight": "TR648",
         "Date": "11-08-2025",
         "No. Of": 3.0,
@@ -505,11 +498,11 @@
         "To": "LHR"
     },
     {
-        "Flight": "TG414",
+        "Flight": "SQ806",
         "Date": "15-08-2025",
         "No. Of": 5.0,
-        "Airline": "TG",
-        "To": "BKK"
+        "Airline": "SQ",
+        "To": "PEK"
     },
     {
         "Flight": "SQ918",
@@ -517,6 +510,13 @@
         "No. Of": 4.0,
         "Airline": "SQ",
         "To": "MNL"
+    },
+    {
+        "Flight": "TG410",
+        "Date": "15-08-2025",
+        "No. Of": 5.0,
+        "Airline": "TG",
+        "To": "BKK"
     },
     {
         "Flight": "TR304",
