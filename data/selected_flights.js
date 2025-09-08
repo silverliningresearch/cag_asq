@@ -561,7 +561,7 @@
         "To": "SUB"
     },
     {
-        "Flight": "QF292",
+        "Flight": "QF082",
         "Date": "19-08-2025",
         "No. Of": 5.0,
         "Airline": "QF",
@@ -598,7 +598,7 @@
     {
         "Flight": "SQ962",
         "Date": "23-08-2025",
-        "No. Of": 5.0,
+        "No. Of": 4.0,
         "Airline": "SQ",
         "To": "CGK"
     },
@@ -652,11 +652,11 @@
         "To": "LHR"
     },
     {
-        "Flight": "SQ406",
+        "Flight": "SQ960",
         "Date": "03-09-2025",
-        "No. Of": 5.0,
+        "No. Of": 4.0,
         "Airline": "SQ",
-        "To": "DEL"
+        "To": "CGK"
     },
     {
         "Flight": "SQ215",
@@ -708,11 +708,18 @@
         "To": "BKK"
     },
     {
-        "Flight": "TR616",
+        "Flight": "SQ836",
         "Date": "06-09-2025",
         "No. Of": 5.0,
-        "Airline": "TR",
-        "To": "BKK"
+        "Airline": "SQ",
+        "To": "PVG"
+    },
+    {
+        "Flight": "SQ247",
+        "Date": "06-09-2025",
+        "No. Of": 5.0,
+        "Airline": "SQ",
+        "To": "MEL"
     },
     {
         "Flight": "EK355",
@@ -750,18 +757,18 @@
         "To": "CGK"
     },
     {
-        "Flight": "SQ836",
+        "Flight": "ID7156",
         "Date": "09-09-2025",
-        "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "PVG"
+        "No. Of": 2.0,
+        "Airline": "ID",
+        "To": "CGK"
     },
     {
-        "Flight": "SQ247",
+        "Flight": "TR616",
         "Date": "09-09-2025",
         "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "MEL"
+        "Airline": "TR",
+        "To": "BKK"
     },
     {
         "Flight": "SQ706",

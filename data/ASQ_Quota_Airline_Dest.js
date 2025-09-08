@@ -92,7 +92,7 @@
     },
     {
         "Airline_Dest": "ID-CGK",
-        "Quota": 5,
+        "Quota": 7,
         "Quarter": "2025-Q3",
         "Notes": ""
     },
@@ -206,7 +206,7 @@
     },
     {
         "Airline_Dest": "SQ-CGK",
-        "Quota": 10,
+        "Quota": 13,
         "Quarter": "2025-Q3",
         "Notes": ""
     },
@@ -224,7 +224,7 @@
     },
     {
         "Airline_Dest": "SQ-DEL",
-        "Quota": 10,
+        "Quota": 5,
         "Quarter": "2025-Q3",
         "Notes": ""
     },
