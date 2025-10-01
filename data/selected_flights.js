@@ -73,21 +73,21 @@
     {
         "Flight": "SQ136",
         "Date": "07-10-2025",
-        "No. Of": 5.0,
+        "No. Of": 4.0,
         "Airline": "SQ",
         "To": "PEN"
     },
     {
         "Flight": "SQ622",
         "Date": "07-10-2025",
-        "No. Of": 4.0,
+        "No. Of": 3.0,
         "Airline": "SQ",
         "To": "KIX"
     },
     {
         "Flight": "SQ928",
         "Date": "07-10-2025",
-        "No. Of": 3.0,
+        "No. Of": 5.0,
         "Airline": "SQ",
         "To": "SUB"
     },
@@ -120,18 +120,11 @@
         "To": "SYD"
     },
     {
-        "Flight": "SQ508",
+        "Flight": "SQ308",
         "Date": "10-10-2025",
         "No. Of": 5.0,
         "Airline": "SQ",
-        "To": "BLR"
-    },
-    {
-        "Flight": "MU546",
-        "Date": "10-10-2025",
-        "No. Of": 5.0,
-        "Airline": "MU",
-        "To": "PVG"
+        "To": "LHR"
     },
     {
         "Flight": "SQ878",
@@ -169,6 +162,13 @@
         "To": "SZX"
     },
     {
+        "Flight": "KE648",
+        "Date": "13-10-2025",
+        "No. Of": 5.0,
+        "Airline": "KE",
+        "To": "ICN"
+    },
+    {
         "Flight": "AK702",
         "Date": "13-10-2025",
         "No. Of": 5.0,
@@ -197,32 +197,11 @@
         "To": "HAN"
     },
     {
-        "Flight": "CX734",
-        "Date": "13-10-2025",
-        "No. Of": 5.0,
-        "Airline": "CX",
-        "To": "HKG"
-    },
-    {
         "Flight": "5J806",
         "Date": "13-10-2025",
         "No. Of": 5.0,
         "Airline": "5J",
         "To": "MNL"
-    },
-    {
-        "Flight": "CX636",
-        "Date": "13-10-2025",
-        "No. Of": 5.0,
-        "Airline": "CX",
-        "To": "HKG"
-    },
-    {
-        "Flight": "KE644",
-        "Date": "13-10-2025",
-        "No. Of": 5.0,
-        "Airline": "KE",
-        "To": "ICN"
     },
     {
         "Flight": "TR658",
@@ -311,16 +290,16 @@
     {
         "Flight": "SQ740",
         "Date": "19-10-2025",
-        "No. Of": 5.0,
+        "No. Of": 4.0,
         "Airline": "SQ",
         "To": "HKT"
     },
     {
-        "Flight": "6E1014",
+        "Flight": "6E1092",
         "Date": "19-10-2025",
-        "No. Of": 3.0,
+        "No. Of": 2.0,
         "Airline": "6E",
-        "To": "DEL"
+        "To": "BLR"
     },
     {
         "Flight": "SQ524",
@@ -400,23 +379,37 @@
         "To": "DMK"
     },
     {
-        "Flight": "AI2108",
+        "Flight": "CX716",
         "Date": "02-11-2025",
         "No. Of": 5.0,
-        "Airline": "AI",
-        "To": "BOM"
+        "Airline": "CX",
+        "To": "HKG"
+    },
+    {
+        "Flight": "CX636",
+        "Date": "02-11-2025",
+        "No. Of": 5.0,
+        "Airline": "CX",
+        "To": "HKG"
+    },
+    {
+        "Flight": "KE644",
+        "Date": "02-11-2025",
+        "No. Of": 5.0,
+        "Airline": "KE",
+        "To": "ICN"
     },
     {
         "Flight": "SQ850",
         "Date": "06-11-2025",
-        "No. Of": 5.0,
+        "No. Of": 3.0,
         "Airline": "SQ",
         "To": "CAN"
     },
     {
         "Flight": "SQ012",
         "Date": "06-11-2025",
-        "No. Of": 5.0,
+        "No. Of": 4.0,
         "Airline": "SQ",
         "To": "NRT"
     },
@@ -433,6 +426,13 @@
         "No. Of": 5.0,
         "Airline": "SQ",
         "To": "CDG"
+    },
+    {
+        "Flight": "GA833",
+        "Date": "06-11-2025",
+        "No. Of": 5.0,
+        "Airline": "GA",
+        "To": "CGK"
     },
     {
         "Flight": "GA855",
@@ -468,6 +468,13 @@
         "No. Of": 5.0,
         "Airline": "TR",
         "To": "PER"
+    },
+    {
+        "Flight": "TR352",
+        "Date": "10-11-2025",
+        "No. Of": 5.0,
+        "Airline": "TR",
+        "To": "SGN"
     },
     {
         "Flight": "TR424",
@@ -512,11 +519,11 @@
         "To": "SYD"
     },
     {
-        "Flight": "SQ318",
+        "Flight": "AI3640",
         "Date": "14-11-2025",
         "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "LHR"
+        "Airline": "AI",
+        "To": "DEL"
     },
     {
         "Flight": "TG414",
@@ -526,18 +533,18 @@
         "To": "BKK"
     },
     {
-        "Flight": "MH616",
+        "Flight": "6E1010",
         "Date": "14-11-2025",
-        "No. Of": 4.0,
-        "Airline": "MH",
-        "To": "KUL"
+        "No. Of": 3.0,
+        "Airline": "6E",
+        "To": "BLR"
     },
     {
-        "Flight": "TR304",
-        "Date": "18-11-2025",
+        "Flight": "MH610",
+        "Date": "14-11-2025",
         "No. Of": 5.0,
-        "Airline": "TR",
-        "To": "SGN"
+        "Airline": "MH",
+        "To": "KUL"
     },
     {
         "Flight": "TR426",
@@ -750,6 +757,13 @@
         "To": "CGK"
     },
     {
+        "Flight": "SQ494",
+        "Date": "09-12-2025",
+        "No. Of": 4.0,
+        "Airline": "SQ",
+        "To": "DXB"
+    },
+    {
         "Flight": "SQ836",
         "Date": "09-12-2025",
         "No. Of": 5.0,
@@ -773,14 +787,14 @@
     {
         "Flight": "SQ178",
         "Date": "12-12-2025",
-        "No. Of": 5.0,
+        "No. Of": 4.0,
         "Airline": "SQ",
         "To": "SGN"
     },
     {
         "Flight": "MH614",
         "Date": "12-12-2025",
-        "No. Of": 5.0,
+        "No. Of": 3.0,
         "Airline": "MH",
         "To": "KUL"
     },

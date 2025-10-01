@@ -7,13 +7,13 @@
         "Notes": ""
     },
     {
-        "Airline_Dest": "6E-CCU",
-        "Quota": 3.0,
+        "Airline_Dest": "6E-BLR",
+        "Quota": 5.0,
         "Quarter": "2025-Q4",
         "Notes": ""
     },
     {
-        "Airline_Dest": "6E-DEL",
+        "Airline_Dest": "6E-CCU",
         "Quota": 3.0,
         "Quarter": "2025-Q4",
         "Notes": ""
@@ -26,7 +26,13 @@
     },
     {
         "Airline_Dest": "AI-BOM",
-        "Quota": 10.0,
+        "Quota": 5.0,
+        "Quarter": "2025-Q4",
+        "Notes": ""
+    },
+    {
+        "Airline_Dest": "AI-DEL",
+        "Quota": 5.0,
         "Quarter": "2025-Q4",
         "Notes": ""
     },
@@ -80,7 +86,7 @@
     },
     {
         "Airline_Dest": "GA-CGK",
-        "Quota": 10.0,
+        "Quota": 15.0,
         "Quarter": "2025-Q4",
         "Notes": ""
     },
@@ -98,7 +104,7 @@
     },
     {
         "Airline_Dest": "KE-ICN",
-        "Quota": 5.0,
+        "Quota": 10.0,
         "Quarter": "2025-Q4",
         "Notes": ""
     },
@@ -116,13 +122,13 @@
     },
     {
         "Airline_Dest": "MH-KUL",
-        "Quota": 9.0,
+        "Quota": 8.0,
         "Quarter": "2025-Q4",
         "Notes": ""
     },
     {
         "Airline_Dest": "MU-PVG",
-        "Quota": 10.0,
+        "Quota": 5.0,
         "Quarter": "2025-Q4",
         "Notes": ""
     },
@@ -175,12 +181,6 @@
         "Notes": ""
     },
     {
-        "Airline_Dest": "SQ-BLR",
-        "Quota": 5.0,
-        "Quarter": "2025-Q4",
-        "Notes": ""
-    },
-    {
         "Airline_Dest": "SQ-BNE",
         "Quota": 10.0,
         "Quarter": "2025-Q4",
@@ -194,7 +194,7 @@
     },
     {
         "Airline_Dest": "SQ-CAN",
-        "Quota": 5.0,
+        "Quota": 3.0,
         "Quarter": "2025-Q4",
         "Notes": ""
     },
@@ -235,6 +235,12 @@
         "Notes": ""
     },
     {
+        "Airline_Dest": "SQ-DXB",
+        "Quota": 4.0,
+        "Quarter": "2025-Q4",
+        "Notes": ""
+    },
+    {
         "Airline_Dest": "SQ-FRA",
         "Quota": 6.0,
         "Quarter": "2025-Q4",
@@ -248,7 +254,7 @@
     },
     {
         "Airline_Dest": "SQ-HKT",
-        "Quota": 5.0,
+        "Quota": 4.0,
         "Quarter": "2025-Q4",
         "Notes": ""
     },
@@ -266,7 +272,7 @@
     },
     {
         "Airline_Dest": "SQ-KIX",
-        "Quota": 9.0,
+        "Quota": 8.0,
         "Quarter": "2025-Q4",
         "Notes": ""
     },
@@ -308,13 +314,13 @@
     },
     {
         "Airline_Dest": "SQ-NRT",
-        "Quota": 10.0,
+        "Quota": 9.0,
         "Quarter": "2025-Q4",
         "Notes": ""
     },
     {
         "Airline_Dest": "SQ-PEN",
-        "Quota": 5.0,
+        "Quota": 4.0,
         "Quarter": "2025-Q4",
         "Notes": ""
     },
@@ -338,13 +344,13 @@
     },
     {
         "Airline_Dest": "SQ-SGN",
-        "Quota": 5.0,
+        "Quota": 4.0,
         "Quarter": "2025-Q4",
         "Notes": ""
     },
     {
         "Airline_Dest": "SQ-SUB",
-        "Quota": 3.0,
+        "Quota": 5.0,
         "Quarter": "2025-Q4",
         "Notes": ""
     },
