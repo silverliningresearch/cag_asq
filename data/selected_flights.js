@@ -204,11 +204,11 @@
         "To": "MNL"
     },
     {
-        "Flight": "TR658",
+        "Flight": "TR274",
         "Date": "16-10-2025",
         "No. Of": 5.0,
         "Airline": "TR",
-        "To": "HKT"
+        "To": "CGK"
     },
     {
         "Flight": "TK209",
@@ -575,11 +575,11 @@
         "To": "TFU"
     },
     {
-        "Flight": "TR278",
+        "Flight": "TR652",
         "Date": "18-11-2025",
         "No. Of": 5.0,
         "Airline": "TR",
-        "To": "CGK"
+        "To": "HKT"
     },
     {
         "Flight": "QF082",
