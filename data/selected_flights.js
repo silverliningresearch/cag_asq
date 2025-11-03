@@ -365,11 +365,11 @@
         "To": "MNL"
     },
     {
-        "Flight": "QZ505",
+        "Flight": "AK706",
         "Date": "02-11-2025",
         "No. Of": 5.0,
-        "Airline": "QZ",
-        "To": "DPS"
+        "Airline": "AK",
+        "To": "KUL"
     },
     {
         "Flight": "FD356",

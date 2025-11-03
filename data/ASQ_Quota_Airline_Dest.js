@@ -44,7 +44,7 @@
     },
     {
         "Airline_Dest": "AK-KUL",
-        "Quota": 10.0,
+        "Quota": 15.0,
         "Quarter": "2025-Q4",
         "Notes": ""
     },
@@ -170,7 +170,7 @@
     },
     {
         "Airline_Dest": "QZ-DPS",
-        "Quota": 10.0,
+        "Quota": 5.0,
         "Quarter": "2025-Q4",
         "Notes": ""
     },
