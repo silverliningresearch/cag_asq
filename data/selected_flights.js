@@ -477,34 +477,6 @@
         "To": "SGN"
     },
     {
-        "Flight": "TR424",
-        "Date": "10-11-2025",
-        "No. Of": 5.0,
-        "Airline": "TR",
-        "To": "PEN"
-    },
-    {
-        "Flight": "TR468",
-        "Date": "10-11-2025",
-        "No. Of": 5.0,
-        "Airline": "TR",
-        "To": "KUL"
-    },
-    {
-        "Flight": "QF072",
-        "Date": "10-11-2025",
-        "No. Of": 5.0,
-        "Airline": "QF",
-        "To": "PER"
-    },
-    {
-        "Flight": "EK355",
-        "Date": "10-11-2025",
-        "No. Of": 3.0,
-        "Airline": "EK",
-        "To": "DXB"
-    },
-    {
         "Flight": "SQ422",
         "Date": "14-11-2025",
         "No. Of": 5.0,
@@ -575,11 +547,11 @@
         "To": "TFU"
     },
     {
-        "Flight": "TR652",
+        "Flight": "QF072",
         "Date": "18-11-2025",
         "No. Of": 5.0,
-        "Airline": "TR",
-        "To": "HKT"
+        "Airline": "QF",
+        "To": "PER"
     },
     {
         "Flight": "QF082",
@@ -636,6 +608,34 @@
         "No. Of": 5.0,
         "Airline": "SQ",
         "To": "DPS"
+    },
+    {
+        "Flight": "TR280",
+        "Date": "24-11-2025",
+        "No. Of": 5.0,
+        "Airline": "TR",
+        "To": "DPS"
+    },
+    {
+        "Flight": "TR678",
+        "Date": "24-11-2025",
+        "No. Of": 5.0,
+        "Airline": "TR",
+        "To": "HKT"
+    },
+    {
+        "Flight": "EK315",
+        "Date": "24-11-2025",
+        "No. Of": 3.0,
+        "Airline": "EK",
+        "To": "DXB"
+    },
+    {
+        "Flight": "TR474",
+        "Date": "24-11-2025",
+        "No. Of": 5.0,
+        "Airline": "TR",
+        "To": "SZB"
     },
     {
         "Flight": "SQ207",
