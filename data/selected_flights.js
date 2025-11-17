@@ -491,11 +491,11 @@
         "To": "SYD"
     },
     {
-        "Flight": "AI3640",
+        "Flight": "SQ958",
         "Date": "14-11-2025",
         "No. Of": 5.0,
-        "Airline": "AI",
-        "To": "DEL"
+        "Airline": "SQ",
+        "To": "CGK"
     },
     {
         "Flight": "TG414",
@@ -554,18 +554,18 @@
         "To": "PER"
     },
     {
-        "Flight": "QF082",
+        "Flight": "QF292",
         "Date": "18-11-2025",
         "No. Of": 5.0,
         "Airline": "QF",
         "To": "SYD"
     },
     {
-        "Flight": "SQ600",
+        "Flight": "AI2381",
         "Date": "22-11-2025",
         "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "ICN"
+        "Airline": "AI",
+        "To": "DEL"
     },
     {
         "Flight": "NH842",
@@ -582,11 +582,11 @@
         "To": "MAA"
     },
     {
-        "Flight": "SQ962",
+        "Flight": "SQ944",
         "Date": "22-11-2025",
         "No. Of": 5.0,
         "Airline": "SQ",
-        "To": "CGK"
+        "To": "DPS"
     },
     {
         "Flight": "SQ126",
@@ -601,13 +601,6 @@
         "No. Of": 5.0,
         "Airline": "SQ",
         "To": "KUL"
-    },
-    {
-        "Flight": "SQ948",
-        "Date": "22-11-2025",
-        "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "DPS"
     },
     {
         "Flight": "TR280",
@@ -636,6 +629,13 @@
         "No. Of": 5.0,
         "Airline": "TR",
         "To": "SZB"
+    },
+    {
+        "Flight": "SQ606",
+        "Date": "24-11-2025",
+        "No. Of": 5.0,
+        "Airline": "SQ",
+        "To": "ICN"
     },
     {
         "Flight": "SQ207",
