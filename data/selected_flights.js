@@ -528,7 +528,7 @@
     {
         "Flight": "TR642",
         "Date": "18-11-2025",
-        "No. Of": 5.0,
+        "No. Of": 2.0,
         "Airline": "TR",
         "To": "USM"
     },
@@ -547,9 +547,16 @@
         "To": "TFU"
     },
     {
+        "Flight": "TR648",
+        "Date": "18-11-2025",
+        "No. Of": 3.0,
+        "Airline": "TR",
+        "To": "USM"
+    },
+    {
         "Flight": "QF072",
         "Date": "18-11-2025",
-        "No. Of": 5.0,
+        "No. Of": 1.0,
         "Airline": "QF",
         "To": "PER"
     },
@@ -636,6 +643,13 @@
         "No. Of": 5.0,
         "Airline": "SQ",
         "To": "ICN"
+    },
+    {
+        "Flight": "QF072",
+        "Date": "24-11-2025",
+        "No. Of": 4.0,
+        "Airline": "QF",
+        "To": "PER"
     },
     {
         "Flight": "SQ207",
