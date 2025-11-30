@@ -661,7 +661,7 @@
     {
         "Flight": "SQ830",
         "Date": "03-12-2025",
-        "No. Of": 3.0,
+        "No. Of": 5.0,
         "Airline": "SQ",
         "To": "PVG"
     },
@@ -689,7 +689,7 @@
     {
         "Flight": "SQ215",
         "Date": "03-12-2025",
-        "No. Of": 5.0,
+        "No. Of": 3.0,
         "Airline": "SQ",
         "To": "PER"
     },

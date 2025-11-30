@@ -326,13 +326,13 @@
     },
     {
         "Airline_Dest": "SQ-PER",
-        "Quota": 10.0,
+        "Quota": 8.0,
         "Quarter": "2025-Q4",
         "Notes": ""
     },
     {
         "Airline_Dest": "SQ-PVG",
-        "Quota": 8.0,
+        "Quota": 10.0,
         "Quarter": "2025-Q4",
         "Notes": ""
     },
