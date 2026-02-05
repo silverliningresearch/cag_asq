@@ -260,7 +260,7 @@
     },
     {
         "Airline_Dest": "SQ-DEL",
-        "Quota": 9.0,
+        "Quota": 11.0,
         "Quarter": "2026-Q1",
         "Notes": ""
     },
@@ -272,7 +272,7 @@
     },
     {
         "Airline_Dest": "SQ-DXB",
-        "Quota": 6.0,
+        "Quota": 3.0,
         "Quarter": "2026-Q1",
         "Notes": ""
     },
@@ -326,7 +326,7 @@
     },
     {
         "Airline_Dest": "SQ-KUL",
-        "Quota": 8.0,
+        "Quota": 10.0,
         "Quarter": "2026-Q1",
         "Notes": ""
     },
@@ -428,7 +428,7 @@
     },
     {
         "Airline_Dest": "TR-CGK",
-        "Quota": 5.0,
+        "Quota": 3.0,
         "Quarter": "2026-Q1",
         "Notes": ""
     },
@@ -440,7 +440,7 @@
     },
     {
         "Airline_Dest": "TR-HKT",
-        "Quota": 3.0,
+        "Quota": 5.0,
         "Quarter": "2026-Q1",
         "Notes": ""
     },
@@ -452,7 +452,7 @@
     },
     {
         "Airline_Dest": "TR-KUL",
-        "Quota": 13.0,
+        "Quota": 11.0,
         "Quarter": "2026-Q1",
         "Notes": ""
     },
@@ -464,7 +464,7 @@
     },
     {
         "Airline_Dest": "TR-MNL",
-        "Quota": 9.0,
+        "Quota": 10.0,
         "Quarter": "2026-Q1",
         "Notes": ""
     },
@@ -482,7 +482,7 @@
     },
     {
         "Airline_Dest": "TR-SGN",
-        "Quota": 5.0,
+        "Quota": 4.0,
         "Quarter": "2026-Q1",
         "Notes": ""
     },
@@ -524,7 +524,7 @@
     },
     {
         "Airline_Dest": "VN-SGN",
-        "Quota": 8.0,
+        "Quota": 9.0,
         "Quarter": "2026-Q1",
         "Notes": ""
     }
