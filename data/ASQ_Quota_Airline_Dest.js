@@ -260,7 +260,7 @@
     },
     {
         "Airline_Dest": "SQ-DEL",
-        "Quota": 11.0,
+        "Quota": 6.0,
         "Quarter": "2026-Q1",
         "Notes": ""
     },
@@ -338,7 +338,7 @@
     },
     {
         "Airline_Dest": "SQ-MEL",
-        "Quota": 10.0,
+        "Quota": 15.0,
         "Quarter": "2026-Q1",
         "Notes": ""
     },
@@ -428,7 +428,7 @@
     },
     {
         "Airline_Dest": "TR-CGK",
-        "Quota": 3.0,
+        "Quota": 5.0,
         "Quarter": "2026-Q1",
         "Notes": ""
     },
@@ -452,7 +452,7 @@
     },
     {
         "Airline_Dest": "TR-KUL",
-        "Quota": 11.0,
+        "Quota": 8.0,
         "Quarter": "2026-Q1",
         "Notes": ""
     },
@@ -482,7 +482,7 @@
     },
     {
         "Airline_Dest": "TR-SGN",
-        "Quota": 4.0,
+        "Quota": 5.0,
         "Quarter": "2026-Q1",
         "Notes": ""
     },
