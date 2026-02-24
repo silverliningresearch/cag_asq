@@ -645,11 +645,11 @@
         "To": "PEN"
     },
     {
-        "Flight": "SQ912",
+        "Flight": "MH628",
         "Date": "22-02-2026",
-        "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "MNL"
+        "No. Of": 3.0,
+        "Airline": "MH",
+        "To": "KUL"
     },
     {
         "Flight": "6E1026",
@@ -673,11 +673,11 @@
         "To": "CGK"
     },
     {
-        "Flight": "MH610",
+        "Flight": "6E1004",
         "Date": "22-02-2026",
         "No. Of": 3.0,
-        "Airline": "MH",
-        "To": "KUL"
+        "Airline": "6E",
+        "To": "MAA"
     },
     {
         "Flight": "SQ207",
@@ -757,11 +757,11 @@
         "To": "KUL"
     },
     {
-        "Flight": "6E1026",
+        "Flight": "SQ916",
         "Date": "13-03-2026",
-        "No. Of": 3.0,
-        "Airline": "6E",
-        "To": "MAA"
+        "No. Of": 5.0,
+        "Airline": "SQ",
+        "To": "MNL"
     },
     {
         "Flight": "SQ122",
