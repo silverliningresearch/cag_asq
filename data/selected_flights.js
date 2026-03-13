@@ -771,11 +771,11 @@
         "To": "KUL"
     },
     {
-        "Flight": "VJ890",
+        "Flight": "VJ812",
         "Date": "13-03-2026",
         "No. Of": 4.0,
         "Airline": "VJ",
-        "To": "DAD"
+        "To": "SGN"
     },
     {
         "Flight": "SQ876",
@@ -799,11 +799,11 @@
         "To": "DPS"
     },
     {
-        "Flight": "SQ482",
+        "Flight": "SQ174",
         "Date": "16-03-2026",
         "No. Of": 5.0,
         "Airline": "SQ",
-        "To": "JNB"
+        "To": "DAD"
     },
     {
         "Flight": "BR216",

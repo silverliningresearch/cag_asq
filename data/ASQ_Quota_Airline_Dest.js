@@ -259,6 +259,12 @@
         "Notes": ""
     },
     {
+        "Airline_Dest": "SQ-DAD",
+        "Quota": 5.0,
+        "Quarter": "2026-Q1",
+        "Notes": ""
+    },
+    {
         "Airline_Dest": "SQ-DEL",
         "Quota": 6.0,
         "Quarter": "2026-Q1",
@@ -303,12 +309,6 @@
     {
         "Airline_Dest": "SQ-ICN",
         "Quota": 13.0,
-        "Quarter": "2026-Q1",
-        "Notes": ""
-    },
-    {
-        "Airline_Dest": "SQ-JNB",
-        "Quota": 5.0,
         "Quarter": "2026-Q1",
         "Notes": ""
     },
@@ -511,14 +511,14 @@
         "Notes": ""
     },
     {
-        "Airline_Dest": "VJ-DAD",
-        "Quota": 4.0,
+        "Airline_Dest": "VJ-HAN",
+        "Quota": 5.0,
         "Quarter": "2026-Q1",
         "Notes": ""
     },
     {
-        "Airline_Dest": "VJ-HAN",
-        "Quota": 5.0,
+        "Airline_Dest": "VJ-SGN",
+        "Quota": 4.0,
         "Quarter": "2026-Q1",
         "Notes": ""
     },
