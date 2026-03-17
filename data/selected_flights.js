@@ -792,10 +792,10 @@
         "To": "BNE"
     },
     {
-        "Flight": "GA843",
+        "Flight": "TR288",
         "Date": "16-03-2026",
         "No. Of": 5.0,
-        "Airline": "GA",
+        "Airline": "TR",
         "To": "DPS"
     },
     {
@@ -855,11 +855,11 @@
         "To": "MEL"
     },
     {
-        "Flight": "TR352",
+        "Flight": "CX690",
         "Date": "18-03-2026",
         "No. Of": 5.0,
-        "Airline": "TR",
-        "To": "SGN"
+        "Airline": "CX",
+        "To": "HKG"
     },
     {
         "Flight": "TR390",

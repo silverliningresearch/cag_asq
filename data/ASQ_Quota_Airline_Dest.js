@@ -68,7 +68,7 @@
     },
     {
         "Airline_Dest": "CX-HKG",
-        "Quota": 10.0,
+        "Quota": 15.0,
         "Quarter": "2026-Q1",
         "Notes": ""
     },
@@ -99,12 +99,6 @@
     {
         "Airline_Dest": "GA-CGK",
         "Quota": 11.0,
-        "Quarter": "2026-Q1",
-        "Notes": ""
-    },
-    {
-        "Airline_Dest": "GA-DPS",
-        "Quota": 5.0,
         "Quarter": "2026-Q1",
         "Notes": ""
     },
@@ -434,7 +428,7 @@
     },
     {
         "Airline_Dest": "TR-DPS",
-        "Quota": 5.0,
+        "Quota": 10.0,
         "Quarter": "2026-Q1",
         "Notes": ""
     },
@@ -476,12 +470,6 @@
     },
     {
         "Airline_Dest": "TR-PER",
-        "Quota": 5.0,
-        "Quarter": "2026-Q1",
-        "Notes": ""
-    },
-    {
-        "Airline_Dest": "TR-SGN",
         "Quota": 5.0,
         "Quarter": "2026-Q1",
         "Notes": ""
