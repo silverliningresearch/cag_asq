@@ -15,11 +15,11 @@
         "To": "HAN"
     },
     {
-        "Flight": "AI2119",
+        "Flight": "6E1022",
         "Date": "07-04-2026",
-        "No. Of": 5.0,
-        "Airline": "AI",
-        "To": "DEL"
+        "No. Of": 3.0,
+        "Airline": "6E",
+        "To": "BOM"
     },
     {
         "Flight": "SQ912",
@@ -533,11 +533,11 @@
         "To": "CGK"
     },
     {
-        "Flight": "6E1022",
+        "Flight": "AI2119",
         "Date": "21-05-2026",
-        "No. Of": 3.0,
-        "Airline": "6E",
-        "To": "BOM"
+        "No. Of": 5.0,
+        "Airline": "AI",
+        "To": "DEL"
     },
     {
         "Flight": "TG404",
