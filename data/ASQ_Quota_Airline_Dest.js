@@ -25,12 +25,6 @@
         "Notes": ""
     },
     {
-        "Airline_Dest": "6E-BLR",
-        "Quota": 3.0,
-        "Quarter": "2026-Q2",
-        "Notes": ""
-    },
-    {
         "Airline_Dest": "SQ-BLR",
         "Quota": 5.0,
         "Quarter": "2026-Q2",
@@ -50,7 +44,7 @@
     },
     {
         "Airline_Dest": "6E-BOM",
-        "Quota": 6.0,
+        "Quota": 9.0,
         "Quarter": "2026-Q2",
         "Notes": ""
     },
@@ -170,13 +164,7 @@
     },
     {
         "Airline_Dest": "EK-DXB",
-        "Quota": 9.0,
-        "Quarter": "2026-Q2",
-        "Notes": ""
-    },
-    {
-        "Airline_Dest": "SQ-DXB",
-        "Quota": 3.0,
+        "Quota": 12.0,
         "Quarter": "2026-Q2",
         "Notes": ""
     },
@@ -265,12 +253,6 @@
         "Notes": ""
     },
     {
-        "Airline_Dest": "EK-KTI",
-        "Quota": 3.0,
-        "Quarter": "2026-Q2",
-        "Notes": ""
-    },
-    {
         "Airline_Dest": "SQ-KTI",
         "Quota": 5.0,
         "Quarter": "2026-Q2",
@@ -302,7 +284,7 @@
     },
     {
         "Airline_Dest": "TR-KUL",
-        "Quota": 10.0,
+        "Quota": 13.0,
         "Quarter": "2026-Q2",
         "Notes": ""
     },
