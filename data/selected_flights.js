@@ -379,13 +379,6 @@
         "To": "MEL"
     },
     {
-        "Flight": "VN656",
-        "Date": "06-05-2026",
-        "No. Of": 5.0,
-        "Airline": "VN",
-        "To": "SGN"
-    },
-    {
         "Flight": "SQ422",
         "Date": "09-05-2026",
         "No. Of": 5.0,
@@ -734,6 +727,13 @@
         "No. Of": 5.0,
         "Airline": "SQ",
         "To": "LHR"
+    },
+    {
+        "Flight": "VN662",
+        "Date": "08-06-2026",
+        "No. Of": 5.0,
+        "Airline": "VN",
+        "To": "HAN"
     },
     {
         "Flight": "SQ836",

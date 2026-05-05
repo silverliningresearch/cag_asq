@@ -181,6 +181,12 @@
         "Notes": ""
     },
     {
+        "Airline_Dest": "VN-HAN",
+        "Quota": 5.0,
+        "Quarter": "2026-Q2",
+        "Notes": ""
+    },
+    {
         "Airline_Dest": "CX-HKG",
         "Quota": 10.0,
         "Quarter": "2026-Q2",
@@ -440,12 +446,6 @@
     },
     {
         "Airline_Dest": "VJ-SGN",
-        "Quota": 5.0,
-        "Quarter": "2026-Q2",
-        "Notes": ""
-    },
-    {
-        "Airline_Dest": "VN-SGN",
         "Quota": 5.0,
         "Quarter": "2026-Q2",
         "Notes": ""
