@@ -442,13 +442,6 @@
         "To": "DAD"
     },
     {
-        "Flight": "CX758",
-        "Date": "15-05-2026",
-        "No. Of": 5.0,
-        "Airline": "CX",
-        "To": "HKG"
-    },
-    {
         "Flight": "QZ265",
         "Date": "15-05-2026",
         "No. Of": 5.0,
@@ -463,7 +456,14 @@
         "To": "KUL"
     },
     {
-        "Flight": "ID7152",
+        "Flight": "CX636",
+        "Date": "15-05-2026",
+        "No. Of": 5.0,
+        "Airline": "CX",
+        "To": "HKG"
+    },
+    {
+        "Flight": "ID7158",
         "Date": "15-05-2026",
         "No. Of": 5.0,
         "Airline": "ID",
