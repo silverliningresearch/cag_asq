@@ -540,18 +540,18 @@
         "To": "ICN"
     },
     {
-        "Flight": "SQ944",
-        "Date": "21-05-2026",
-        "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "DPS"
-    },
-    {
-        "Flight": "SQ126",
+        "Flight": "SQ122",
         "Date": "21-05-2026",
         "No. Of": 5.0,
         "Airline": "SQ",
         "To": "KUL"
+    },
+    {
+        "Flight": "SQ946",
+        "Date": "21-05-2026",
+        "No. Of": 5.0,
+        "Airline": "SQ",
+        "To": "DPS"
     },
     {
         "Flight": "8M234",
@@ -589,11 +589,11 @@
         "To": "SUB"
     },
     {
-        "Flight": "PR512",
+        "Flight": "6E1012",
         "Date": "24-05-2026",
-        "No. Of": 5.0,
-        "Airline": "PR",
-        "To": "MNL"
+        "No. Of": 3.0,
+        "Airline": "6E",
+        "To": "BOM"
     },
     {
         "Flight": "LH781",
@@ -694,11 +694,11 @@
         "To": "BKK"
     },
     {
-        "Flight": "6E1012",
+        "Flight": "PR512",
         "Date": "05-06-2026",
-        "No. Of": 3.0,
-        "Airline": "6E",
-        "To": "BOM"
+        "No. Of": 5.0,
+        "Airline": "PR",
+        "To": "MNL"
     },
     {
         "Flight": "SQ876",
