@@ -194,7 +194,7 @@
     },
     {
         "Airline_Dest": "TR-DPS",
-        "Quota": 13.0,
+        "Quota": 15.0,
         "Quarter": "2026-Q3",
         "Notes": ""
     },
@@ -206,13 +206,13 @@
     },
     {
         "Airline_Dest": "TR-TPE",
-        "Quota": 15.0,
+        "Quota": 10.0,
         "Quarter": "2026-Q3",
         "Notes": ""
     },
     {
         "Airline_Dest": "TR-PEN",
-        "Quota": 10.0,
+        "Quota": 15.0,
         "Quarter": "2026-Q3",
         "Notes": ""
     },
@@ -307,14 +307,8 @@
         "Notes": ""
     },
     {
-        "Airline_Dest": "6E-BLR",
-        "Quota": 3.0,
-        "Quarter": "2026-Q3",
-        "Notes": ""
-    },
-    {
         "Airline_Dest": "6E-BOM",
-        "Quota": 3.0,
+        "Quota": 6.0,
         "Quarter": "2026-Q3",
         "Notes": ""
     },
@@ -344,7 +338,7 @@
     },
     {
         "Airline_Dest": "MH-KUL",
-        "Quota": 10.0,
+        "Quota": 8.0,
         "Quarter": "2026-Q3",
         "Notes": ""
     },
