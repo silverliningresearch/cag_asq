@@ -79722,6 +79722,16 @@
     },
     {
         "Date": "01-08-2026",
+        "Time": "1705",
+        "Time_at_Gate": "1555",
+        "Dest": "MFM",
+        "DTerm": "T2",
+        "Flight": "NX907",
+        "AirlineCode": "NX",
+        "quota_id": "NX-MFM"
+    },
+    {
+        "Date": "01-08-2026",
         "Time": "1005",
         "Time_at_Gate": "0855",
         "Dest": "MNL",
@@ -82232,16 +82242,6 @@
     },
     {
         "Date": "01-08-2026",
-        "Time": "1400",
-        "Time_at_Gate": "1250",
-        "Dest": "KNO",
-        "DTerm": "T4",
-        "Flight": "ID7146",
-        "AirlineCode": "ID",
-        "quota_id": "ID-KNO"
-    },
-    {
-        "Date": "01-08-2026",
         "Time": "1615",
         "Time_at_Gate": "1505",
         "Dest": "CGK",
@@ -82339,16 +82339,6 @@
         "Flight": "MY364",
         "AirlineCode": "MY",
         "quota_id": "MY-KCH"
-    },
-    {
-        "Date": "01-08-2026",
-        "Time": "1705",
-        "Time_at_Gate": "1555",
-        "Dest": "MFM",
-        "DTerm": "T4",
-        "Flight": "NX907",
-        "AirlineCode": "NX",
-        "quota_id": "NX-MFM"
     },
     {
         "Date": "01-08-2026",
@@ -84062,16 +84052,6 @@
     },
     {
         "Date": "02-08-2026",
-        "Time": "2100",
-        "Time_at_Gate": "1950",
-        "Dest": "MEL",
-        "DTerm": "T2",
-        "Flight": "JQ008",
-        "AirlineCode": "JQ",
-        "quota_id": "JQ-MEL"
-    },
-    {
-        "Date": "02-08-2026",
         "Time": "1925",
         "Time_at_Gate": "1815",
         "Dest": "DPS",
@@ -84239,6 +84219,16 @@
         "Flight": "NH844",
         "AirlineCode": "NH",
         "quota_id": "NH-HND"
+    },
+    {
+        "Date": "02-08-2026",
+        "Time": "1705",
+        "Time_at_Gate": "1555",
+        "Dest": "MFM",
+        "DTerm": "T2",
+        "Flight": "NX907",
+        "AirlineCode": "NX",
+        "quota_id": "NX-MFM"
     },
     {
         "Date": "02-08-2026",
@@ -86872,16 +86862,6 @@
     },
     {
         "Date": "02-08-2026",
-        "Time": "1705",
-        "Time_at_Gate": "1555",
-        "Dest": "MFM",
-        "DTerm": "T4",
-        "Flight": "NX907",
-        "AirlineCode": "NX",
-        "quota_id": "NX-MFM"
-    },
-    {
-        "Date": "02-08-2026",
         "Time": "1020",
         "Time_at_Gate": "0910",
         "Dest": "KUL",
@@ -88742,6 +88722,16 @@
     },
     {
         "Date": "03-08-2026",
+        "Time": "1705",
+        "Time_at_Gate": "1555",
+        "Dest": "MFM",
+        "DTerm": "T2",
+        "Flight": "NX907",
+        "AirlineCode": "NX",
+        "quota_id": "NX-MFM"
+    },
+    {
+        "Date": "03-08-2026",
         "Time": "1005",
         "Time_at_Gate": "0855",
         "Dest": "MNL",
@@ -89622,6 +89612,16 @@
     },
     {
         "Date": "03-08-2026",
+        "Time": "2200",
+        "Time_at_Gate": "2050",
+        "Dest": "SFO",
+        "DTerm": "T2",
+        "Flight": "UA3964",
+        "AirlineCode": "UA",
+        "quota_id": "UA-SFO"
+    },
+    {
+        "Date": "03-08-2026",
         "Time": "1550",
         "Time_at_Gate": "1440",
         "Dest": "DAC",
@@ -90182,8 +90182,8 @@
     },
     {
         "Date": "03-08-2026",
-        "Time": "0820",
-        "Time_at_Gate": "0710",
+        "Time": "1430",
+        "Time_at_Gate": "1320",
         "Dest": "ADL",
         "DTerm": "T3",
         "Flight": "SQ277",
@@ -91299,16 +91299,6 @@
         "Flight": "MY364",
         "AirlineCode": "MY",
         "quota_id": "MY-KCH"
-    },
-    {
-        "Date": "03-08-2026",
-        "Time": "1705",
-        "Time_at_Gate": "1555",
-        "Dest": "MFM",
-        "DTerm": "T4",
-        "Flight": "NX907",
-        "AirlineCode": "NX",
-        "quota_id": "NX-MFM"
     },
     {
         "Date": "03-08-2026",
@@ -95612,16 +95602,6 @@
     },
     {
         "Date": "04-08-2026",
-        "Time": "1400",
-        "Time_at_Gate": "1250",
-        "Dest": "KNO",
-        "DTerm": "T4",
-        "Flight": "ID7146",
-        "AirlineCode": "ID",
-        "quota_id": "ID-KNO"
-    },
-    {
-        "Date": "04-08-2026",
         "Time": "1615",
         "Time_at_Gate": "1505",
         "Dest": "CGK",
@@ -95647,16 +95627,6 @@
         "Dest": "CGK",
         "DTerm": "T4",
         "Flight": "ID7154",
-        "AirlineCode": "ID",
-        "quota_id": "ID-CGK"
-    },
-    {
-        "Date": "04-08-2026",
-        "Time": "1445",
-        "Time_at_Gate": "1335",
-        "Dest": "CGK",
-        "DTerm": "T4",
-        "Flight": "ID7156",
         "AirlineCode": "ID",
         "quota_id": "ID-CGK"
     },
@@ -95719,16 +95689,6 @@
         "Flight": "MY364",
         "AirlineCode": "MY",
         "quota_id": "MY-KCH"
-    },
-    {
-        "Date": "04-08-2026",
-        "Time": "1705",
-        "Time_at_Gate": "1555",
-        "Dest": "MFM",
-        "DTerm": "T4",
-        "Flight": "NX907",
-        "AirlineCode": "NX",
-        "quota_id": "NX-MFM"
     },
     {
         "Date": "04-08-2026",
@@ -97452,6 +97412,16 @@
     },
     {
         "Date": "05-08-2026",
+        "Time": "1705",
+        "Time_at_Gate": "1555",
+        "Dest": "MFM",
+        "DTerm": "T2",
+        "Flight": "NX907",
+        "AirlineCode": "NX",
+        "quota_id": "NX-MFM"
+    },
+    {
+        "Date": "05-08-2026",
         "Time": "1005",
         "Time_at_Gate": "0855",
         "Dest": "MNL",
@@ -98329,6 +98299,16 @@
         "Flight": "TW166",
         "AirlineCode": "TW",
         "quota_id": "TW-CJU"
+    },
+    {
+        "Date": "05-08-2026",
+        "Time": "2130",
+        "Time_at_Gate": "2020",
+        "Dest": "SFO",
+        "DTerm": "T2",
+        "Flight": "UA3964",
+        "AirlineCode": "UA",
+        "quota_id": "UA-SFO"
     },
     {
         "Date": "05-08-2026",
@@ -99582,16 +99562,6 @@
     },
     {
         "Date": "05-08-2026",
-        "Time": "1200",
-        "Time_at_Gate": "1050",
-        "Dest": "DIL",
-        "DTerm": "T4",
-        "Flight": "8G998",
-        "AirlineCode": "8G",
-        "quota_id": "8G-DIL"
-    },
-    {
-        "Date": "05-08-2026",
         "Time": "1610",
         "Time_at_Gate": "1500",
         "Dest": "PVG",
@@ -99942,16 +99912,6 @@
     },
     {
         "Date": "05-08-2026",
-        "Time": "1445",
-        "Time_at_Gate": "1335",
-        "Dest": "CGK",
-        "DTerm": "T4",
-        "Flight": "ID7156",
-        "AirlineCode": "ID",
-        "quota_id": "ID-CGK"
-    },
-    {
-        "Date": "05-08-2026",
         "Time": "1245",
         "Time_at_Gate": "1135",
         "Dest": "CGK",
@@ -100009,16 +99969,6 @@
         "Flight": "MY364",
         "AirlineCode": "MY",
         "quota_id": "MY-KCH"
-    },
-    {
-        "Date": "05-08-2026",
-        "Time": "1705",
-        "Time_at_Gate": "1555",
-        "Dest": "MFM",
-        "DTerm": "T4",
-        "Flight": "NX907",
-        "AirlineCode": "NX",
-        "quota_id": "NX-MFM"
     },
     {
         "Date": "05-08-2026",
@@ -101909,6 +101859,16 @@
         "Flight": "NH844",
         "AirlineCode": "NH",
         "quota_id": "NH-HND"
+    },
+    {
+        "Date": "07-08-2026",
+        "Time": "1705",
+        "Time_at_Gate": "1555",
+        "Dest": "MFM",
+        "DTerm": "T2",
+        "Flight": "NX907",
+        "AirlineCode": "NX",
+        "quota_id": "NX-MFM"
     },
     {
         "Date": "07-08-2026",
@@ -104542,16 +104502,6 @@
     },
     {
         "Date": "07-08-2026",
-        "Time": "1705",
-        "Time_at_Gate": "1555",
-        "Dest": "MFM",
-        "DTerm": "T4",
-        "Flight": "NX907",
-        "AirlineCode": "NX",
-        "quota_id": "NX-MFM"
-    },
-    {
-        "Date": "07-08-2026",
         "Time": "1020",
         "Time_at_Gate": "0910",
         "Dest": "KUL",
@@ -106359,6 +106309,16 @@
         "Flight": "NH844",
         "AirlineCode": "NH",
         "quota_id": "NH-HND"
+    },
+    {
+        "Date": "11-08-2026",
+        "Time": "1705",
+        "Time_at_Gate": "1555",
+        "Dest": "MFM",
+        "DTerm": "T2",
+        "Flight": "NX907",
+        "AirlineCode": "NX",
+        "quota_id": "NX-MFM"
     },
     {
         "Date": "11-08-2026",
@@ -108979,16 +108939,6 @@
         "Flight": "MY364",
         "AirlineCode": "MY",
         "quota_id": "MY-KCH"
-    },
-    {
-        "Date": "11-08-2026",
-        "Time": "1705",
-        "Time_at_Gate": "1555",
-        "Dest": "MFM",
-        "DTerm": "T4",
-        "Flight": "NX907",
-        "AirlineCode": "NX",
-        "quota_id": "NX-MFM"
     },
     {
         "Date": "11-08-2026",
@@ -111892,16 +111842,6 @@
     },
     {
         "Date": "13-08-2026",
-        "Time": "0055",
-        "Time_at_Gate": "2345",
-        "Dest": "PKX",
-        "DTerm": "T3",
-        "Flight": "MU5032",
-        "AirlineCode": "MU",
-        "quota_id": "MU-PKX"
-    },
-    {
-        "Date": "13-08-2026",
         "Time": "1240",
         "Time_at_Gate": "1130",
         "Dest": "KMG",
@@ -113412,16 +113352,6 @@
     },
     {
         "Date": "13-08-2026",
-        "Time": "1705",
-        "Time_at_Gate": "1555",
-        "Dest": "MFM",
-        "DTerm": "T4",
-        "Flight": "NX907",
-        "AirlineCode": "NX",
-        "quota_id": "NX-MFM"
-    },
-    {
-        "Date": "13-08-2026",
         "Time": "1020",
         "Time_at_Gate": "0910",
         "Dest": "KUL",
@@ -113459,16 +113389,6 @@
         "Flight": "OD808",
         "AirlineCode": "OD",
         "quota_id": "OD-KUL"
-    },
-    {
-        "Date": "13-08-2026",
-        "Time": "1210",
-        "Time_at_Gate": "1100",
-        "Dest": "DMK",
-        "DTerm": "T4",
-        "Flight": "SL101",
-        "AirlineCode": "SL",
-        "quota_id": "SL-DMK"
     },
     {
         "Date": "13-08-2026",
@@ -115299,6 +115219,16 @@
         "Flight": "NH844",
         "AirlineCode": "NH",
         "quota_id": "NH-HND"
+    },
+    {
+        "Date": "14-08-2026",
+        "Time": "1705",
+        "Time_at_Gate": "1555",
+        "Dest": "MFM",
+        "DTerm": "T2",
+        "Flight": "NX907",
+        "AirlineCode": "NX",
+        "quota_id": "NX-MFM"
     },
     {
         "Date": "14-08-2026",
@@ -117919,16 +117849,6 @@
         "Flight": "MY364",
         "AirlineCode": "MY",
         "quota_id": "MY-KCH"
-    },
-    {
-        "Date": "14-08-2026",
-        "Time": "1705",
-        "Time_at_Gate": "1555",
-        "Dest": "MFM",
-        "DTerm": "T4",
-        "Flight": "NX907",
-        "AirlineCode": "NX",
-        "quota_id": "NX-MFM"
     },
     {
         "Date": "14-08-2026",
@@ -122482,16 +122402,6 @@
     },
     {
         "Date": "15-08-2026",
-        "Time": "1705",
-        "Time_at_Gate": "1555",
-        "Dest": "MFM",
-        "DTerm": "T4",
-        "Flight": "NX907",
-        "AirlineCode": "NX",
-        "quota_id": "NX-MFM"
-    },
-    {
-        "Date": "15-08-2026",
         "Time": "1020",
         "Time_at_Gate": "0910",
         "Dest": "KUL",
@@ -122529,16 +122439,6 @@
         "Flight": "OD808",
         "AirlineCode": "OD",
         "quota_id": "OD-KUL"
-    },
-    {
-        "Date": "15-08-2026",
-        "Time": "1210",
-        "Time_at_Gate": "1100",
-        "Dest": "DMK",
-        "DTerm": "T4",
-        "Flight": "SL101",
-        "AirlineCode": "SL",
-        "quota_id": "SL-DMK"
     },
     {
         "Date": "15-08-2026",
@@ -124379,6 +124279,16 @@
         "Flight": "NH844",
         "AirlineCode": "NH",
         "quota_id": "NH-HND"
+    },
+    {
+        "Date": "16-08-2026",
+        "Time": "1705",
+        "Time_at_Gate": "1555",
+        "Dest": "MFM",
+        "DTerm": "T2",
+        "Flight": "NX907",
+        "AirlineCode": "NX",
+        "quota_id": "NX-MFM"
     },
     {
         "Date": "16-08-2026",
@@ -127022,16 +126932,6 @@
     },
     {
         "Date": "16-08-2026",
-        "Time": "1705",
-        "Time_at_Gate": "1555",
-        "Dest": "MFM",
-        "DTerm": "T4",
-        "Flight": "NX907",
-        "AirlineCode": "NX",
-        "quota_id": "NX-MFM"
-    },
-    {
-        "Date": "16-08-2026",
         "Time": "1020",
         "Time_at_Gate": "0910",
         "Dest": "KUL",
@@ -128869,6 +128769,16 @@
         "Flight": "NH844",
         "AirlineCode": "NH",
         "quota_id": "NH-HND"
+    },
+    {
+        "Date": "17-08-2026",
+        "Time": "1705",
+        "Time_at_Gate": "1555",
+        "Dest": "MFM",
+        "DTerm": "T2",
+        "Flight": "NX907",
+        "AirlineCode": "NX",
+        "quota_id": "NX-MFM"
     },
     {
         "Date": "17-08-2026",
@@ -131432,16 +131342,6 @@
     },
     {
         "Date": "17-08-2026",
-        "Time": "1705",
-        "Time_at_Gate": "1555",
-        "Dest": "MFM",
-        "DTerm": "T4",
-        "Flight": "NX907",
-        "AirlineCode": "NX",
-        "quota_id": "NX-MFM"
-    },
-    {
-        "Date": "17-08-2026",
         "Time": "1020",
         "Time_at_Gate": "0910",
         "Dest": "KUL",
@@ -131489,16 +131389,6 @@
         "Flight": "OD811",
         "AirlineCode": "OD",
         "quota_id": "OD-SZB"
-    },
-    {
-        "Date": "17-08-2026",
-        "Time": "1210",
-        "Time_at_Gate": "1100",
-        "Dest": "DMK",
-        "DTerm": "T4",
-        "Flight": "SL101",
-        "AirlineCode": "SL",
-        "quota_id": "SL-DMK"
     },
     {
         "Date": "17-08-2026",
@@ -135812,16 +135702,6 @@
     },
     {
         "Date": "18-08-2026",
-        "Time": "1705",
-        "Time_at_Gate": "1555",
-        "Dest": "MFM",
-        "DTerm": "T4",
-        "Flight": "NX907",
-        "AirlineCode": "NX",
-        "quota_id": "NX-MFM"
-    },
-    {
-        "Date": "18-08-2026",
         "Time": "1020",
         "Time_at_Gate": "0910",
         "Dest": "KUL",
@@ -135859,16 +135739,6 @@
         "Flight": "OD808",
         "AirlineCode": "OD",
         "quota_id": "OD-KUL"
-    },
-    {
-        "Date": "18-08-2026",
-        "Time": "1210",
-        "Time_at_Gate": "1100",
-        "Dest": "DMK",
-        "DTerm": "T4",
-        "Flight": "SL101",
-        "AirlineCode": "SL",
-        "quota_id": "SL-DMK"
     },
     {
         "Date": "18-08-2026",
@@ -137569,6 +137439,16 @@
         "Flight": "NH844",
         "AirlineCode": "NH",
         "quota_id": "NH-HND"
+    },
+    {
+        "Date": "19-08-2026",
+        "Time": "1705",
+        "Time_at_Gate": "1555",
+        "Dest": "MFM",
+        "DTerm": "T2",
+        "Flight": "NX907",
+        "AirlineCode": "NX",
+        "quota_id": "NX-MFM"
     },
     {
         "Date": "19-08-2026",
@@ -139702,16 +139582,6 @@
     },
     {
         "Date": "19-08-2026",
-        "Time": "1200",
-        "Time_at_Gate": "1050",
-        "Dest": "DIL",
-        "DTerm": "T4",
-        "Flight": "8G998",
-        "AirlineCode": "8G",
-        "quota_id": "8G-DIL"
-    },
-    {
-        "Date": "19-08-2026",
         "Time": "1610",
         "Time_at_Gate": "1500",
         "Dest": "PVG",
@@ -140122,16 +139992,6 @@
     },
     {
         "Date": "19-08-2026",
-        "Time": "1705",
-        "Time_at_Gate": "1555",
-        "Dest": "MFM",
-        "DTerm": "T4",
-        "Flight": "NX907",
-        "AirlineCode": "NX",
-        "quota_id": "NX-MFM"
-    },
-    {
-        "Date": "19-08-2026",
         "Time": "1020",
         "Time_at_Gate": "0910",
         "Dest": "KUL",
@@ -140179,16 +140039,6 @@
         "Flight": "OD811",
         "AirlineCode": "OD",
         "quota_id": "OD-SZB"
-    },
-    {
-        "Date": "19-08-2026",
-        "Time": "1210",
-        "Time_at_Gate": "1100",
-        "Dest": "DMK",
-        "DTerm": "T4",
-        "Flight": "SL101",
-        "AirlineCode": "SL",
-        "quota_id": "SL-DMK"
     },
     {
         "Date": "19-08-2026",
@@ -141962,6 +141812,16 @@
     },
     {
         "Date": "20-08-2026",
+        "Time": "1705",
+        "Time_at_Gate": "1555",
+        "Dest": "MFM",
+        "DTerm": "T2",
+        "Flight": "NX907",
+        "AirlineCode": "NX",
+        "quota_id": "NX-MFM"
+    },
+    {
+        "Date": "20-08-2026",
         "Time": "1005",
         "Time_at_Gate": "0855",
         "Dest": "MNL",
@@ -143059,16 +142919,6 @@
         "Flight": "MU2070",
         "AirlineCode": "MU",
         "quota_id": "MU-XIY"
-    },
-    {
-        "Date": "20-08-2026",
-        "Time": "0055",
-        "Time_at_Gate": "2345",
-        "Dest": "PKX",
-        "DTerm": "T3",
-        "Flight": "MU5032",
-        "AirlineCode": "MU",
-        "quota_id": "MU-PKX"
     },
     {
         "Date": "20-08-2026",
@@ -144589,16 +144439,6 @@
         "Flight": "MY364",
         "AirlineCode": "MY",
         "quota_id": "MY-KCH"
-    },
-    {
-        "Date": "20-08-2026",
-        "Time": "1705",
-        "Time_at_Gate": "1555",
-        "Dest": "MFM",
-        "DTerm": "T4",
-        "Flight": "NX907",
-        "AirlineCode": "NX",
-        "quota_id": "NX-MFM"
     },
     {
         "Date": "20-08-2026",
@@ -146459,6 +146299,16 @@
         "Flight": "NH844",
         "AirlineCode": "NH",
         "quota_id": "NH-HND"
+    },
+    {
+        "Date": "21-08-2026",
+        "Time": "1705",
+        "Time_at_Gate": "1555",
+        "Dest": "MFM",
+        "DTerm": "T2",
+        "Flight": "NX907",
+        "AirlineCode": "NX",
+        "quota_id": "NX-MFM"
     },
     {
         "Date": "21-08-2026",
@@ -149089,16 +148939,6 @@
         "Flight": "MY364",
         "AirlineCode": "MY",
         "quota_id": "MY-KCH"
-    },
-    {
-        "Date": "21-08-2026",
-        "Time": "1705",
-        "Time_at_Gate": "1555",
-        "Dest": "MFM",
-        "DTerm": "T4",
-        "Flight": "NX907",
-        "AirlineCode": "NX",
-        "quota_id": "NX-MFM"
     },
     {
         "Date": "21-08-2026",
@@ -153612,16 +153452,6 @@
     },
     {
         "Date": "22-08-2026",
-        "Time": "1705",
-        "Time_at_Gate": "1555",
-        "Dest": "MFM",
-        "DTerm": "T4",
-        "Flight": "NX907",
-        "AirlineCode": "NX",
-        "quota_id": "NX-MFM"
-    },
-    {
-        "Date": "22-08-2026",
         "Time": "1020",
         "Time_at_Gate": "0910",
         "Dest": "KUL",
@@ -155539,6 +155369,16 @@
         "Flight": "NH844",
         "AirlineCode": "NH",
         "quota_id": "NH-HND"
+    },
+    {
+        "Date": "23-08-2026",
+        "Time": "1705",
+        "Time_at_Gate": "1555",
+        "Dest": "MFM",
+        "DTerm": "T2",
+        "Flight": "NX907",
+        "AirlineCode": "NX",
+        "quota_id": "NX-MFM"
     },
     {
         "Date": "23-08-2026",
@@ -158162,16 +158002,6 @@
     },
     {
         "Date": "23-08-2026",
-        "Time": "1705",
-        "Time_at_Gate": "1555",
-        "Dest": "MFM",
-        "DTerm": "T4",
-        "Flight": "NX907",
-        "AirlineCode": "NX",
-        "quota_id": "NX-MFM"
-    },
-    {
-        "Date": "23-08-2026",
         "Time": "1020",
         "Time_at_Gate": "0910",
         "Dest": "KUL",
@@ -160009,6 +159839,16 @@
         "Flight": "NH844",
         "AirlineCode": "NH",
         "quota_id": "NH-HND"
+    },
+    {
+        "Date": "24-08-2026",
+        "Time": "1705",
+        "Time_at_Gate": "1555",
+        "Dest": "MFM",
+        "DTerm": "T2",
+        "Flight": "NX907",
+        "AirlineCode": "NX",
+        "quota_id": "NX-MFM"
     },
     {
         "Date": "24-08-2026",
@@ -162562,16 +162402,6 @@
     },
     {
         "Date": "24-08-2026",
-        "Time": "1705",
-        "Time_at_Gate": "1555",
-        "Dest": "MFM",
-        "DTerm": "T4",
-        "Flight": "NX907",
-        "AirlineCode": "NX",
-        "quota_id": "NX-MFM"
-    },
-    {
-        "Date": "24-08-2026",
         "Time": "1020",
         "Time_at_Gate": "0910",
         "Dest": "KUL",
@@ -162749,16 +162579,6 @@
         "Flight": "BA016",
         "AirlineCode": "BA",
         "quota_id": "BA-LHR"
-    },
-    {
-        "Date": "25-08-2026",
-        "Time": "1600",
-        "Time_at_Gate": "1450",
-        "Dest": "TFU",
-        "DTerm": "T1",
-        "Flight": "CA404",
-        "AirlineCode": "CA",
-        "quota_id": "CA-TFU"
     },
     {
         "Date": "25-08-2026",
@@ -166922,16 +166742,6 @@
     },
     {
         "Date": "25-08-2026",
-        "Time": "1705",
-        "Time_at_Gate": "1555",
-        "Dest": "MFM",
-        "DTerm": "T4",
-        "Flight": "NX907",
-        "AirlineCode": "NX",
-        "quota_id": "NX-MFM"
-    },
-    {
-        "Date": "25-08-2026",
         "Time": "1020",
         "Time_at_Gate": "0910",
         "Dest": "KUL",
@@ -170742,16 +170552,6 @@
     },
     {
         "Date": "26-08-2026",
-        "Time": "1200",
-        "Time_at_Gate": "1050",
-        "Dest": "DIL",
-        "DTerm": "T4",
-        "Flight": "8G998",
-        "AirlineCode": "8G",
-        "quota_id": "8G-DIL"
-    },
-    {
-        "Date": "26-08-2026",
         "Time": "1610",
         "Time_at_Gate": "1500",
         "Dest": "PVG",
@@ -170812,8 +170612,8 @@
     },
     {
         "Date": "26-08-2026",
-        "Time": "1445",
-        "Time_at_Gate": "1335",
+        "Time": "1505",
+        "Time_at_Gate": "1355",
         "Dest": "KUL",
         "DTerm": "T4",
         "Flight": "AK710",
@@ -170822,8 +170622,8 @@
     },
     {
         "Date": "26-08-2026",
-        "Time": "1410",
-        "Time_at_Gate": "1300",
+        "Time": "1430",
+        "Time_at_Gate": "1320",
         "Dest": "KUL",
         "DTerm": "T4",
         "Flight": "AK712",
@@ -171159,16 +170959,6 @@
         "Flight": "MY364",
         "AirlineCode": "MY",
         "quota_id": "MY-KCH"
-    },
-    {
-        "Date": "26-08-2026",
-        "Time": "1705",
-        "Time_at_Gate": "1555",
-        "Dest": "MFM",
-        "DTerm": "T4",
-        "Flight": "NX907",
-        "AirlineCode": "NX",
-        "quota_id": "NX-MFM"
     },
     {
         "Date": "26-08-2026",
@@ -174082,16 +173872,6 @@
     },
     {
         "Date": "27-08-2026",
-        "Time": "0055",
-        "Time_at_Gate": "2345",
-        "Dest": "PKX",
-        "DTerm": "T3",
-        "Flight": "MU5032",
-        "AirlineCode": "MU",
-        "quota_id": "MU-PKX"
-    },
-    {
-        "Date": "27-08-2026",
         "Time": "1240",
         "Time_at_Gate": "1130",
         "Dest": "KMG",
@@ -175599,16 +175379,6 @@
         "Flight": "MY364",
         "AirlineCode": "MY",
         "quota_id": "MY-KCH"
-    },
-    {
-        "Date": "27-08-2026",
-        "Time": "1705",
-        "Time_at_Gate": "1555",
-        "Dest": "MFM",
-        "DTerm": "T4",
-        "Flight": "NX907",
-        "AirlineCode": "NX",
-        "quota_id": "NX-MFM"
     },
     {
         "Date": "27-08-2026",
@@ -177452,6 +177222,16 @@
     },
     {
         "Date": "28-08-2026",
+        "Time": "1705",
+        "Time_at_Gate": "1555",
+        "Dest": "MFM",
+        "DTerm": "T2",
+        "Flight": "NX907",
+        "AirlineCode": "NX",
+        "quota_id": "NX-MFM"
+    },
+    {
+        "Date": "28-08-2026",
         "Time": "1005",
         "Time_at_Gate": "0855",
         "Dest": "MNL",
@@ -180082,16 +179862,6 @@
     },
     {
         "Date": "28-08-2026",
-        "Time": "1705",
-        "Time_at_Gate": "1555",
-        "Dest": "MFM",
-        "DTerm": "T4",
-        "Flight": "NX907",
-        "AirlineCode": "NX",
-        "quota_id": "NX-MFM"
-    },
-    {
-        "Date": "28-08-2026",
         "Time": "1020",
         "Time_at_Gate": "0910",
         "Dest": "KUL",
@@ -181919,6 +181689,16 @@
         "Flight": "NH844",
         "AirlineCode": "NH",
         "quota_id": "NH-HND"
+    },
+    {
+        "Date": "29-08-2026",
+        "Time": "1705",
+        "Time_at_Gate": "1555",
+        "Dest": "MFM",
+        "DTerm": "T2",
+        "Flight": "NX907",
+        "AirlineCode": "NX",
+        "quota_id": "NX-MFM"
     },
     {
         "Date": "29-08-2026",
@@ -184592,16 +184372,6 @@
     },
     {
         "Date": "29-08-2026",
-        "Time": "1705",
-        "Time_at_Gate": "1555",
-        "Dest": "MFM",
-        "DTerm": "T4",
-        "Flight": "NX907",
-        "AirlineCode": "NX",
-        "quota_id": "NX-MFM"
-    },
-    {
-        "Date": "29-08-2026",
         "Time": "1020",
         "Time_at_Gate": "0910",
         "Dest": "KUL",
@@ -186459,6 +186229,16 @@
         "Flight": "NH844",
         "AirlineCode": "NH",
         "quota_id": "NH-HND"
+    },
+    {
+        "Date": "30-08-2026",
+        "Time": "1705",
+        "Time_at_Gate": "1555",
+        "Dest": "MFM",
+        "DTerm": "T2",
+        "Flight": "NX907",
+        "AirlineCode": "NX",
+        "quota_id": "NX-MFM"
     },
     {
         "Date": "30-08-2026",
@@ -189069,16 +188849,6 @@
         "Flight": "MY364",
         "AirlineCode": "MY",
         "quota_id": "MY-KCH"
-    },
-    {
-        "Date": "30-08-2026",
-        "Time": "1705",
-        "Time_at_Gate": "1555",
-        "Dest": "MFM",
-        "DTerm": "T4",
-        "Flight": "NX907",
-        "AirlineCode": "NX",
-        "quota_id": "NX-MFM"
     },
     {
         "Date": "30-08-2026",
@@ -193532,16 +193302,6 @@
     },
     {
         "Date": "31-08-2026",
-        "Time": "1705",
-        "Time_at_Gate": "1555",
-        "Dest": "MFM",
-        "DTerm": "T4",
-        "Flight": "NX907",
-        "AirlineCode": "NX",
-        "quota_id": "NX-MFM"
-    },
-    {
-        "Date": "31-08-2026",
         "Time": "1020",
         "Time_at_Gate": "0910",
         "Dest": "KUL",
@@ -193722,16 +193482,6 @@
     },
     {
         "Date": "01-09-2026",
-        "Time": "1600",
-        "Time_at_Gate": "1450",
-        "Dest": "TFU",
-        "DTerm": "T1",
-        "Flight": "CA404",
-        "AirlineCode": "CA",
-        "quota_id": "CA-TFU"
-    },
-    {
-        "Date": "01-09-2026",
         "Time": "1500",
         "Time_at_Gate": "1350",
         "Dest": "CKG",
@@ -193899,16 +193649,6 @@
         "Flight": "MF866",
         "AirlineCode": "MF",
         "quota_id": "MF-FOC"
-    },
-    {
-        "Date": "01-09-2026",
-        "Time": "1415",
-        "Time_at_Gate": "1305",
-        "Dest": "NKG",
-        "DTerm": "T1",
-        "Flight": "MF8642Z",
-        "AirlineCode": "MF",
-        "quota_id": "MF-NKG"
     },
     {
         "Date": "01-09-2026",
@@ -194722,16 +194462,6 @@
     },
     {
         "Date": "01-09-2026",
-        "Time": "0730",
-        "Time_at_Gate": "0620",
-        "Dest": "HKT",
-        "DTerm": "T1",
-        "Flight": "TR658",
-        "AirlineCode": "TR",
-        "quota_id": "TR-HKT"
-    },
-    {
-        "Date": "01-09-2026",
         "Time": "0920",
         "Time_at_Gate": "0810",
         "Dest": "USM",
@@ -194959,56 +194689,6 @@
         "Flight": "6E1458",
         "AirlineCode": "6E",
         "quota_id": "6E-BLR"
-    },
-    {
-        "Date": "01-09-2026",
-        "Time": "1145",
-        "Time_at_Gate": "1035",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B152",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "01-09-2026",
-        "Time": "1530",
-        "Time_at_Gate": "1420",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B154",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "01-09-2026",
-        "Time": "2320",
-        "Time_at_Gate": "2210",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B156",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "01-09-2026",
-        "Time": "1055",
-        "Time_at_Gate": "0945",
-        "Dest": "DPS",
-        "DTerm": "T2",
-        "Flight": "8B552",
-        "AirlineCode": "8B",
-        "quota_id": "8B-DPS"
-    },
-    {
-        "Date": "01-09-2026",
-        "Time": "1415",
-        "Time_at_Gate": "1305",
-        "Dest": "DPS",
-        "DTerm": "T2",
-        "Flight": "8B554",
-        "AirlineCode": "8B",
-        "quota_id": "8B-DPS"
     },
     {
         "Date": "01-09-2026",
@@ -197442,6 +197122,56 @@
     },
     {
         "Date": "01-09-2026",
+        "Time": "1145",
+        "Time_at_Gate": "1035",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B152",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "01-09-2026",
+        "Time": "1530",
+        "Time_at_Gate": "1420",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B154",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "01-09-2026",
+        "Time": "2320",
+        "Time_at_Gate": "2210",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B156",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "01-09-2026",
+        "Time": "1055",
+        "Time_at_Gate": "0945",
+        "Dest": "DPS",
+        "DTerm": "T4",
+        "Flight": "8B552",
+        "AirlineCode": "8B",
+        "quota_id": "8B-DPS"
+    },
+    {
+        "Date": "01-09-2026",
+        "Time": "1415",
+        "Time_at_Gate": "1305",
+        "Dest": "DPS",
+        "DTerm": "T4",
+        "Flight": "8B554",
+        "AirlineCode": "8B",
+        "quota_id": "8B-DPS"
+    },
+    {
+        "Date": "01-09-2026",
         "Time": "2200",
         "Time_at_Gate": "2050",
         "Dest": "CAN",
@@ -197932,16 +197662,6 @@
     },
     {
         "Date": "01-09-2026",
-        "Time": "1705",
-        "Time_at_Gate": "1555",
-        "Dest": "MFM",
-        "DTerm": "T4",
-        "Flight": "NX907",
-        "AirlineCode": "NX",
-        "quota_id": "NX-MFM"
-    },
-    {
-        "Date": "01-09-2026",
         "Time": "1020",
         "Time_at_Gate": "0910",
         "Dest": "KUL",
@@ -198302,16 +198022,6 @@
     },
     {
         "Date": "02-09-2026",
-        "Time": "1415",
-        "Time_at_Gate": "1305",
-        "Dest": "NKG",
-        "DTerm": "T1",
-        "Flight": "MF8642Z",
-        "AirlineCode": "MF",
-        "quota_id": "MF-NKG"
-    },
-    {
-        "Date": "02-09-2026",
         "Time": "0240",
         "Time_at_Gate": "0130",
         "Dest": "XMN",
@@ -198469,16 +198179,6 @@
         "Flight": "QR947",
         "AirlineCode": "QR",
         "quota_id": "QR-DOH"
-    },
-    {
-        "Date": "02-09-2026",
-        "Time": "0400",
-        "Time_at_Gate": "0250",
-        "Dest": "XMN",
-        "DTerm": "T1",
-        "Flight": "SC2392",
-        "AirlineCode": "SC",
-        "quota_id": "SC-XMN"
     },
     {
         "Date": "02-09-2026",
@@ -198769,6 +198469,16 @@
         "Flight": "TR282",
         "AirlineCode": "TR",
         "quota_id": "TR-DPS"
+    },
+    {
+        "Date": "02-09-2026",
+        "Time": "1000",
+        "Time_at_Gate": "0850",
+        "Dest": "TJQ",
+        "DTerm": "T1",
+        "Flight": "TR284",
+        "AirlineCode": "TR",
+        "quota_id": "TR-TJQ"
     },
     {
         "Date": "02-09-2026",
@@ -199122,26 +198832,6 @@
     },
     {
         "Date": "02-09-2026",
-        "Time": "1155",
-        "Time_at_Gate": "1045",
-        "Dest": "HDY",
-        "DTerm": "T1",
-        "Flight": "TR646",
-        "AirlineCode": "TR",
-        "quota_id": "TR-HDY"
-    },
-    {
-        "Date": "02-09-2026",
-        "Time": "1850",
-        "Time_at_Gate": "1740",
-        "Dest": "HKT",
-        "DTerm": "T1",
-        "Flight": "TR652",
-        "AirlineCode": "TR",
-        "quota_id": "TR-HKT"
-    },
-    {
-        "Date": "02-09-2026",
         "Time": "1120",
         "Time_at_Gate": "1010",
         "Dest": "HKT",
@@ -199342,16 +199032,6 @@
     },
     {
         "Date": "02-09-2026",
-        "Time": "0015",
-        "Time_at_Gate": "2305",
-        "Dest": "CGO",
-        "DTerm": "T2",
-        "Flight": "3U3748",
-        "AirlineCode": "3U",
-        "quota_id": "3U-CGO"
-    },
-    {
-        "Date": "02-09-2026",
         "Time": "1700",
         "Time_at_Gate": "1550",
         "Dest": "TFU",
@@ -199429,56 +199109,6 @@
         "Flight": "6E1458",
         "AirlineCode": "6E",
         "quota_id": "6E-BLR"
-    },
-    {
-        "Date": "02-09-2026",
-        "Time": "1145",
-        "Time_at_Gate": "1035",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B152",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "02-09-2026",
-        "Time": "1530",
-        "Time_at_Gate": "1420",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B154",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "02-09-2026",
-        "Time": "2320",
-        "Time_at_Gate": "2210",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B156",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "02-09-2026",
-        "Time": "1055",
-        "Time_at_Gate": "0945",
-        "Dest": "DPS",
-        "DTerm": "T2",
-        "Flight": "8B552",
-        "AirlineCode": "8B",
-        "quota_id": "8B-DPS"
-    },
-    {
-        "Date": "02-09-2026",
-        "Time": "1415",
-        "Time_at_Gate": "1305",
-        "Dest": "DPS",
-        "DTerm": "T2",
-        "Flight": "8B554",
-        "AirlineCode": "8B",
-        "quota_id": "8B-DPS"
     },
     {
         "Date": "02-09-2026",
@@ -199749,6 +199379,16 @@
         "Flight": "NH844",
         "AirlineCode": "NH",
         "quota_id": "NH-HND"
+    },
+    {
+        "Date": "02-09-2026",
+        "Time": "1705",
+        "Time_at_Gate": "1555",
+        "Dest": "MFM",
+        "DTerm": "T2",
+        "Flight": "NX907",
+        "AirlineCode": "NX",
+        "quota_id": "NX-MFM"
     },
     {
         "Date": "02-09-2026",
@@ -201902,13 +201542,53 @@
     },
     {
         "Date": "02-09-2026",
-        "Time": "1200",
-        "Time_at_Gate": "1050",
-        "Dest": "DIL",
+        "Time": "1145",
+        "Time_at_Gate": "1035",
+        "Dest": "CGK",
         "DTerm": "T4",
-        "Flight": "8G998",
-        "AirlineCode": "8G",
-        "quota_id": "8G-DIL"
+        "Flight": "8B152",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "02-09-2026",
+        "Time": "1530",
+        "Time_at_Gate": "1420",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B154",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "02-09-2026",
+        "Time": "2320",
+        "Time_at_Gate": "2210",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B156",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "02-09-2026",
+        "Time": "1055",
+        "Time_at_Gate": "0945",
+        "Dest": "DPS",
+        "DTerm": "T4",
+        "Flight": "8B552",
+        "AirlineCode": "8B",
+        "quota_id": "8B-DPS"
+    },
+    {
+        "Date": "02-09-2026",
+        "Time": "1415",
+        "Time_at_Gate": "1305",
+        "Dest": "DPS",
+        "DTerm": "T4",
+        "Flight": "8B554",
+        "AirlineCode": "8B",
+        "quota_id": "8B-DPS"
     },
     {
         "Date": "02-09-2026",
@@ -202372,16 +202052,6 @@
     },
     {
         "Date": "02-09-2026",
-        "Time": "1705",
-        "Time_at_Gate": "1555",
-        "Dest": "MFM",
-        "DTerm": "T4",
-        "Flight": "NX907",
-        "AirlineCode": "NX",
-        "quota_id": "NX-MFM"
-    },
-    {
-        "Date": "02-09-2026",
         "Time": "1020",
         "Time_at_Gate": "0910",
         "Dest": "KUL",
@@ -202419,16 +202089,6 @@
         "Flight": "OD808",
         "AirlineCode": "OD",
         "quota_id": "OD-KUL"
-    },
-    {
-        "Date": "02-09-2026",
-        "Time": "0945",
-        "Time_at_Gate": "0835",
-        "Dest": "SZB",
-        "DTerm": "T4",
-        "Flight": "OD811",
-        "AirlineCode": "OD",
-        "quota_id": "OD-SZB"
     },
     {
         "Date": "02-09-2026",
@@ -202752,16 +202412,6 @@
     },
     {
         "Date": "03-09-2026",
-        "Time": "1415",
-        "Time_at_Gate": "1305",
-        "Dest": "NKG",
-        "DTerm": "T1",
-        "Flight": "MF8642Z",
-        "AirlineCode": "MF",
-        "quota_id": "MF-NKG"
-    },
-    {
-        "Date": "03-09-2026",
         "Time": "0240",
         "Time_at_Gate": "0130",
         "Dest": "XMN",
@@ -202899,16 +202549,6 @@
         "Flight": "QR947",
         "AirlineCode": "QR",
         "quota_id": "QR-DOH"
-    },
-    {
-        "Date": "03-09-2026",
-        "Time": "0400",
-        "Time_at_Gate": "0250",
-        "Dest": "XMN",
-        "DTerm": "T1",
-        "Flight": "SC2392",
-        "AirlineCode": "SC",
-        "quota_id": "SC-XMN"
     },
     {
         "Date": "03-09-2026",
@@ -203582,16 +203222,6 @@
     },
     {
         "Date": "03-09-2026",
-        "Time": "0730",
-        "Time_at_Gate": "0620",
-        "Dest": "HKT",
-        "DTerm": "T1",
-        "Flight": "TR658",
-        "AirlineCode": "TR",
-        "quota_id": "TR-HKT"
-    },
-    {
-        "Date": "03-09-2026",
         "Time": "0920",
         "Time_at_Gate": "0810",
         "Dest": "USM",
@@ -203899,56 +203529,6 @@
         "Flight": "6E1458",
         "AirlineCode": "6E",
         "quota_id": "6E-BLR"
-    },
-    {
-        "Date": "03-09-2026",
-        "Time": "1145",
-        "Time_at_Gate": "1035",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B152",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "03-09-2026",
-        "Time": "1530",
-        "Time_at_Gate": "1420",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B154",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "03-09-2026",
-        "Time": "2320",
-        "Time_at_Gate": "2210",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B156",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "03-09-2026",
-        "Time": "1055",
-        "Time_at_Gate": "0945",
-        "Dest": "DPS",
-        "DTerm": "T2",
-        "Flight": "8B552",
-        "AirlineCode": "8B",
-        "quota_id": "8B-DPS"
-    },
-    {
-        "Date": "03-09-2026",
-        "Time": "1415",
-        "Time_at_Gate": "1305",
-        "Dest": "DPS",
-        "DTerm": "T2",
-        "Flight": "8B554",
-        "AirlineCode": "8B",
-        "quota_id": "8B-DPS"
     },
     {
         "Date": "03-09-2026",
@@ -206392,6 +205972,56 @@
     },
     {
         "Date": "03-09-2026",
+        "Time": "1145",
+        "Time_at_Gate": "1035",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B152",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "03-09-2026",
+        "Time": "1530",
+        "Time_at_Gate": "1420",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B154",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "03-09-2026",
+        "Time": "2320",
+        "Time_at_Gate": "2210",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B156",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "03-09-2026",
+        "Time": "1055",
+        "Time_at_Gate": "0945",
+        "Dest": "DPS",
+        "DTerm": "T4",
+        "Flight": "8B552",
+        "AirlineCode": "8B",
+        "quota_id": "8B-DPS"
+    },
+    {
+        "Date": "03-09-2026",
+        "Time": "1415",
+        "Time_at_Gate": "1305",
+        "Dest": "DPS",
+        "DTerm": "T4",
+        "Flight": "8B554",
+        "AirlineCode": "8B",
+        "quota_id": "8B-DPS"
+    },
+    {
+        "Date": "03-09-2026",
         "Time": "2200",
         "Time_at_Gate": "2050",
         "Dest": "CAN",
@@ -206872,16 +206502,6 @@
     },
     {
         "Date": "03-09-2026",
-        "Time": "1255",
-        "Time_at_Gate": "1145",
-        "Dest": "KOS",
-        "DTerm": "T4",
-        "Flight": "KR754",
-        "AirlineCode": "KR",
-        "quota_id": "KR-KOS"
-    },
-    {
-        "Date": "03-09-2026",
         "Time": "1005",
         "Time_at_Gate": "0855",
         "Dest": "KCH",
@@ -206899,16 +206519,6 @@
         "Flight": "MY364",
         "AirlineCode": "MY",
         "quota_id": "MY-KCH"
-    },
-    {
-        "Date": "03-09-2026",
-        "Time": "1705",
-        "Time_at_Gate": "1555",
-        "Dest": "MFM",
-        "DTerm": "T4",
-        "Flight": "NX907",
-        "AirlineCode": "NX",
-        "quota_id": "NX-MFM"
     },
     {
         "Date": "03-09-2026",
@@ -207282,16 +206892,6 @@
     },
     {
         "Date": "04-09-2026",
-        "Time": "1415",
-        "Time_at_Gate": "1305",
-        "Dest": "NKG",
-        "DTerm": "T1",
-        "Flight": "MF8642Z",
-        "AirlineCode": "MF",
-        "quota_id": "MF-NKG"
-    },
-    {
-        "Date": "04-09-2026",
         "Time": "0240",
         "Time_at_Gate": "0130",
         "Dest": "XMN",
@@ -207449,16 +207049,6 @@
         "Flight": "QR947",
         "AirlineCode": "QR",
         "quota_id": "QR-DOH"
-    },
-    {
-        "Date": "04-09-2026",
-        "Time": "0400",
-        "Time_at_Gate": "0250",
-        "Dest": "XMN",
-        "DTerm": "T1",
-        "Flight": "SC2392",
-        "AirlineCode": "SC",
-        "quota_id": "SC-XMN"
     },
     {
         "Date": "04-09-2026",
@@ -208112,16 +207702,6 @@
     },
     {
         "Date": "04-09-2026",
-        "Time": "1440",
-        "Time_at_Gate": "1330",
-        "Dest": "MNL",
-        "DTerm": "T1",
-        "Flight": "TR590",
-        "AirlineCode": "TR",
-        "quota_id": "TR-MNL"
-    },
-    {
-        "Date": "04-09-2026",
         "Time": "1615",
         "Time_at_Gate": "1505",
         "Dest": "BKK",
@@ -208239,16 +207819,6 @@
         "Flight": "TR684",
         "AirlineCode": "TR",
         "quota_id": "TR-KBV"
-    },
-    {
-        "Date": "04-09-2026",
-        "Time": "1755",
-        "Time_at_Gate": "1645",
-        "Dest": "HDY",
-        "DTerm": "T1",
-        "Flight": "TR692",
-        "AirlineCode": "TR",
-        "quota_id": "TR-HDY"
     },
     {
         "Date": "04-09-2026",
@@ -208489,56 +208059,6 @@
         "Flight": "6E1458",
         "AirlineCode": "6E",
         "quota_id": "6E-BLR"
-    },
-    {
-        "Date": "04-09-2026",
-        "Time": "1145",
-        "Time_at_Gate": "1035",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B152",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "04-09-2026",
-        "Time": "1530",
-        "Time_at_Gate": "1420",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B154",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "04-09-2026",
-        "Time": "2320",
-        "Time_at_Gate": "2210",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B156",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "04-09-2026",
-        "Time": "1055",
-        "Time_at_Gate": "0945",
-        "Dest": "DPS",
-        "DTerm": "T2",
-        "Flight": "8B552",
-        "AirlineCode": "8B",
-        "quota_id": "8B-DPS"
-    },
-    {
-        "Date": "04-09-2026",
-        "Time": "1415",
-        "Time_at_Gate": "1305",
-        "Dest": "DPS",
-        "DTerm": "T2",
-        "Flight": "8B554",
-        "AirlineCode": "8B",
-        "quota_id": "8B-DPS"
     },
     {
         "Date": "04-09-2026",
@@ -208849,6 +208369,16 @@
         "Flight": "NH844",
         "AirlineCode": "NH",
         "quota_id": "NH-HND"
+    },
+    {
+        "Date": "04-09-2026",
+        "Time": "1705",
+        "Time_at_Gate": "1555",
+        "Dest": "MFM",
+        "DTerm": "T2",
+        "Flight": "NX907",
+        "AirlineCode": "NX",
+        "quota_id": "NX-MFM"
     },
     {
         "Date": "04-09-2026",
@@ -211062,6 +210592,56 @@
     },
     {
         "Date": "04-09-2026",
+        "Time": "1145",
+        "Time_at_Gate": "1035",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B152",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "04-09-2026",
+        "Time": "1530",
+        "Time_at_Gate": "1420",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B154",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "04-09-2026",
+        "Time": "2320",
+        "Time_at_Gate": "2210",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B156",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "04-09-2026",
+        "Time": "1055",
+        "Time_at_Gate": "0945",
+        "Dest": "DPS",
+        "DTerm": "T4",
+        "Flight": "8B552",
+        "AirlineCode": "8B",
+        "quota_id": "8B-DPS"
+    },
+    {
+        "Date": "04-09-2026",
+        "Time": "1415",
+        "Time_at_Gate": "1305",
+        "Dest": "DPS",
+        "DTerm": "T4",
+        "Flight": "8B554",
+        "AirlineCode": "8B",
+        "quota_id": "8B-DPS"
+    },
+    {
+        "Date": "04-09-2026",
         "Time": "1610",
         "Time_at_Gate": "1500",
         "Dest": "PVG",
@@ -211552,16 +211132,6 @@
     },
     {
         "Date": "04-09-2026",
-        "Time": "1705",
-        "Time_at_Gate": "1555",
-        "Dest": "MFM",
-        "DTerm": "T4",
-        "Flight": "NX907",
-        "AirlineCode": "NX",
-        "quota_id": "NX-MFM"
-    },
-    {
-        "Date": "04-09-2026",
         "Time": "1020",
         "Time_at_Gate": "0910",
         "Dest": "KUL",
@@ -211599,16 +211169,6 @@
         "Flight": "OD808",
         "AirlineCode": "OD",
         "quota_id": "OD-KUL"
-    },
-    {
-        "Date": "04-09-2026",
-        "Time": "1955",
-        "Time_at_Gate": "1845",
-        "Dest": "SZB",
-        "DTerm": "T4",
-        "Flight": "OD817",
-        "AirlineCode": "OD",
-        "quota_id": "OD-SZB"
     },
     {
         "Date": "04-09-2026",
@@ -211922,16 +211482,6 @@
     },
     {
         "Date": "05-09-2026",
-        "Time": "1415",
-        "Time_at_Gate": "1305",
-        "Dest": "NKG",
-        "DTerm": "T1",
-        "Flight": "MF8642Z",
-        "AirlineCode": "MF",
-        "quota_id": "MF-NKG"
-    },
-    {
-        "Date": "05-09-2026",
         "Time": "0240",
         "Time_at_Gate": "0130",
         "Dest": "XMN",
@@ -212079,16 +211629,6 @@
         "Flight": "QR947",
         "AirlineCode": "QR",
         "quota_id": "QR-DOH"
-    },
-    {
-        "Date": "05-09-2026",
-        "Time": "0400",
-        "Time_at_Gate": "0250",
-        "Dest": "XMN",
-        "DTerm": "T1",
-        "Flight": "SC2392",
-        "AirlineCode": "SC",
-        "quota_id": "SC-XMN"
     },
     {
         "Date": "05-09-2026",
@@ -212732,16 +212272,6 @@
     },
     {
         "Date": "05-09-2026",
-        "Time": "0150",
-        "Time_at_Gate": "0040",
-        "Dest": "MNL",
-        "DTerm": "T1",
-        "Flight": "TR588",
-        "AirlineCode": "TR",
-        "quota_id": "TR-MNL"
-    },
-    {
-        "Date": "05-09-2026",
         "Time": "1440",
         "Time_at_Gate": "1330",
         "Dest": "MNL",
@@ -212767,16 +212297,6 @@
         "Dest": "BKK",
         "DTerm": "T1",
         "Flight": "TR624",
-        "AirlineCode": "TR",
-        "quota_id": "TR-BKK"
-    },
-    {
-        "Date": "05-09-2026",
-        "Time": "1800",
-        "Time_at_Gate": "1650",
-        "Dest": "BKK",
-        "DTerm": "T1",
-        "Flight": "TR626",
         "AirlineCode": "TR",
         "quota_id": "TR-BKK"
     },
@@ -213022,16 +212542,6 @@
     },
     {
         "Date": "05-09-2026",
-        "Time": "0015",
-        "Time_at_Gate": "2305",
-        "Dest": "CGO",
-        "DTerm": "T2",
-        "Flight": "3U3748",
-        "AirlineCode": "3U",
-        "quota_id": "3U-CGO"
-    },
-    {
-        "Date": "05-09-2026",
         "Time": "1700",
         "Time_at_Gate": "1550",
         "Dest": "TFU",
@@ -213129,56 +212639,6 @@
         "Flight": "6E1458",
         "AirlineCode": "6E",
         "quota_id": "6E-BLR"
-    },
-    {
-        "Date": "05-09-2026",
-        "Time": "1145",
-        "Time_at_Gate": "1035",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B152",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "05-09-2026",
-        "Time": "1530",
-        "Time_at_Gate": "1420",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B154",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "05-09-2026",
-        "Time": "2320",
-        "Time_at_Gate": "2210",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B156",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "05-09-2026",
-        "Time": "1055",
-        "Time_at_Gate": "0945",
-        "Dest": "DPS",
-        "DTerm": "T2",
-        "Flight": "8B552",
-        "AirlineCode": "8B",
-        "quota_id": "8B-DPS"
-    },
-    {
-        "Date": "05-09-2026",
-        "Time": "1415",
-        "Time_at_Gate": "1305",
-        "Dest": "DPS",
-        "DTerm": "T2",
-        "Flight": "8B554",
-        "AirlineCode": "8B",
-        "quota_id": "8B-DPS"
     },
     {
         "Date": "05-09-2026",
@@ -215652,6 +215112,56 @@
     },
     {
         "Date": "05-09-2026",
+        "Time": "1145",
+        "Time_at_Gate": "1035",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B152",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "05-09-2026",
+        "Time": "1530",
+        "Time_at_Gate": "1420",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B154",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "05-09-2026",
+        "Time": "2320",
+        "Time_at_Gate": "2210",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B156",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "05-09-2026",
+        "Time": "1055",
+        "Time_at_Gate": "0945",
+        "Dest": "DPS",
+        "DTerm": "T4",
+        "Flight": "8B552",
+        "AirlineCode": "8B",
+        "quota_id": "8B-DPS"
+    },
+    {
+        "Date": "05-09-2026",
+        "Time": "1415",
+        "Time_at_Gate": "1305",
+        "Dest": "DPS",
+        "DTerm": "T4",
+        "Flight": "8B554",
+        "AirlineCode": "8B",
+        "quota_id": "8B-DPS"
+    },
+    {
+        "Date": "05-09-2026",
         "Time": "2200",
         "Time_at_Gate": "2050",
         "Dest": "CAN",
@@ -216182,16 +215692,6 @@
     },
     {
         "Date": "05-09-2026",
-        "Time": "1705",
-        "Time_at_Gate": "1555",
-        "Dest": "MFM",
-        "DTerm": "T4",
-        "Flight": "NX907",
-        "AirlineCode": "NX",
-        "quota_id": "NX-MFM"
-    },
-    {
-        "Date": "05-09-2026",
         "Time": "1020",
         "Time_at_Gate": "0910",
         "Dest": "KUL",
@@ -216562,16 +216062,6 @@
     },
     {
         "Date": "06-09-2026",
-        "Time": "1415",
-        "Time_at_Gate": "1305",
-        "Dest": "NKG",
-        "DTerm": "T1",
-        "Flight": "MF8642Z",
-        "AirlineCode": "MF",
-        "quota_id": "MF-NKG"
-    },
-    {
-        "Date": "06-09-2026",
         "Time": "0240",
         "Time_at_Gate": "0130",
         "Dest": "XMN",
@@ -216719,16 +216209,6 @@
         "Flight": "QR947",
         "AirlineCode": "QR",
         "quota_id": "QR-DOH"
-    },
-    {
-        "Date": "06-09-2026",
-        "Time": "0400",
-        "Time_at_Gate": "0250",
-        "Dest": "XMN",
-        "DTerm": "T1",
-        "Flight": "SC2392",
-        "AirlineCode": "SC",
-        "quota_id": "SC-XMN"
     },
     {
         "Date": "06-09-2026",
@@ -217009,6 +216489,16 @@
         "Flight": "TR280",
         "AirlineCode": "TR",
         "quota_id": "TR-DPS"
+    },
+    {
+        "Date": "06-09-2026",
+        "Time": "1000",
+        "Time_at_Gate": "0850",
+        "Dest": "TJQ",
+        "DTerm": "T1",
+        "Flight": "TR284",
+        "AirlineCode": "TR",
+        "quota_id": "TR-TJQ"
     },
     {
         "Date": "06-09-2026",
@@ -217432,16 +216922,6 @@
     },
     {
         "Date": "06-09-2026",
-        "Time": "1850",
-        "Time_at_Gate": "1740",
-        "Dest": "HKT",
-        "DTerm": "T1",
-        "Flight": "TR652",
-        "AirlineCode": "TR",
-        "quota_id": "TR-HKT"
-    },
-    {
-        "Date": "06-09-2026",
         "Time": "0730",
         "Time_at_Gate": "0620",
         "Dest": "HKT",
@@ -217472,16 +216952,6 @@
     },
     {
         "Date": "06-09-2026",
-        "Time": "1100",
-        "Time_at_Gate": "0950",
-        "Dest": "KBV",
-        "DTerm": "T1",
-        "Flight": "TR682",
-        "AirlineCode": "TR",
-        "quota_id": "TR-KBV"
-    },
-    {
-        "Date": "06-09-2026",
         "Time": "1540",
         "Time_at_Gate": "1430",
         "Dest": "KBV",
@@ -217489,16 +216959,6 @@
         "Flight": "TR684",
         "AirlineCode": "TR",
         "quota_id": "TR-KBV"
-    },
-    {
-        "Date": "06-09-2026",
-        "Time": "1640",
-        "Time_at_Gate": "1530",
-        "Dest": "HDY",
-        "DTerm": "T1",
-        "Flight": "TR692",
-        "AirlineCode": "TR",
-        "quota_id": "TR-HDY"
     },
     {
         "Date": "06-09-2026",
@@ -217729,56 +217189,6 @@
         "Flight": "6E1458",
         "AirlineCode": "6E",
         "quota_id": "6E-BLR"
-    },
-    {
-        "Date": "06-09-2026",
-        "Time": "1145",
-        "Time_at_Gate": "1035",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B152",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "06-09-2026",
-        "Time": "1530",
-        "Time_at_Gate": "1420",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B154",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "06-09-2026",
-        "Time": "2320",
-        "Time_at_Gate": "2210",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B156",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "06-09-2026",
-        "Time": "1055",
-        "Time_at_Gate": "0945",
-        "Dest": "DPS",
-        "DTerm": "T2",
-        "Flight": "8B552",
-        "AirlineCode": "8B",
-        "quota_id": "8B-DPS"
-    },
-    {
-        "Date": "06-09-2026",
-        "Time": "1415",
-        "Time_at_Gate": "1305",
-        "Dest": "DPS",
-        "DTerm": "T2",
-        "Flight": "8B554",
-        "AirlineCode": "8B",
-        "quota_id": "8B-DPS"
     },
     {
         "Date": "06-09-2026",
@@ -218099,6 +217509,16 @@
         "Flight": "NH844",
         "AirlineCode": "NH",
         "quota_id": "NH-HND"
+    },
+    {
+        "Date": "06-09-2026",
+        "Time": "1705",
+        "Time_at_Gate": "1555",
+        "Dest": "MFM",
+        "DTerm": "T2",
+        "Flight": "NX907",
+        "AirlineCode": "NX",
+        "quota_id": "NX-MFM"
     },
     {
         "Date": "06-09-2026",
@@ -220302,6 +219722,56 @@
     },
     {
         "Date": "06-09-2026",
+        "Time": "1145",
+        "Time_at_Gate": "1035",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B152",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "06-09-2026",
+        "Time": "1530",
+        "Time_at_Gate": "1420",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B154",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "06-09-2026",
+        "Time": "2320",
+        "Time_at_Gate": "2210",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B156",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "06-09-2026",
+        "Time": "1055",
+        "Time_at_Gate": "0945",
+        "Dest": "DPS",
+        "DTerm": "T4",
+        "Flight": "8B552",
+        "AirlineCode": "8B",
+        "quota_id": "8B-DPS"
+    },
+    {
+        "Date": "06-09-2026",
+        "Time": "1415",
+        "Time_at_Gate": "1305",
+        "Dest": "DPS",
+        "DTerm": "T4",
+        "Flight": "8B554",
+        "AirlineCode": "8B",
+        "quota_id": "8B-DPS"
+    },
+    {
+        "Date": "06-09-2026",
         "Time": "1200",
         "Time_at_Gate": "1050",
         "Dest": "DIL",
@@ -220762,16 +220232,6 @@
     },
     {
         "Date": "06-09-2026",
-        "Time": "1255",
-        "Time_at_Gate": "1145",
-        "Dest": "KOS",
-        "DTerm": "T4",
-        "Flight": "KR754",
-        "AirlineCode": "KR",
-        "quota_id": "KR-KOS"
-    },
-    {
-        "Date": "06-09-2026",
         "Time": "1005",
         "Time_at_Gate": "0855",
         "Dest": "KCH",
@@ -220789,16 +220249,6 @@
         "Flight": "MY364",
         "AirlineCode": "MY",
         "quota_id": "MY-KCH"
-    },
-    {
-        "Date": "06-09-2026",
-        "Time": "1705",
-        "Time_at_Gate": "1555",
-        "Dest": "MFM",
-        "DTerm": "T4",
-        "Flight": "NX907",
-        "AirlineCode": "NX",
-        "quota_id": "NX-MFM"
     },
     {
         "Date": "06-09-2026",
@@ -220839,16 +220289,6 @@
         "Flight": "OD808",
         "AirlineCode": "OD",
         "quota_id": "OD-KUL"
-    },
-    {
-        "Date": "06-09-2026",
-        "Time": "1955",
-        "Time_at_Gate": "1845",
-        "Dest": "SZB",
-        "DTerm": "T4",
-        "Flight": "OD817",
-        "AirlineCode": "OD",
-        "quota_id": "OD-SZB"
     },
     {
         "Date": "06-09-2026",
@@ -221172,16 +220612,6 @@
     },
     {
         "Date": "07-09-2026",
-        "Time": "1415",
-        "Time_at_Gate": "1305",
-        "Dest": "NKG",
-        "DTerm": "T1",
-        "Flight": "MF8642Z",
-        "AirlineCode": "MF",
-        "quota_id": "MF-NKG"
-    },
-    {
-        "Date": "07-09-2026",
         "Time": "0240",
         "Time_at_Gate": "0130",
         "Dest": "XMN",
@@ -221342,16 +220772,6 @@
     },
     {
         "Date": "07-09-2026",
-        "Time": "0400",
-        "Time_at_Gate": "0250",
-        "Dest": "XMN",
-        "DTerm": "T1",
-        "Flight": "SC2392",
-        "AirlineCode": "SC",
-        "quota_id": "SC-XMN"
-    },
-    {
-        "Date": "07-09-2026",
         "Time": "0115",
         "Time_at_Gate": "0005",
         "Dest": "TNA",
@@ -221449,16 +220869,6 @@
         "Flight": "TR050",
         "AirlineCode": "TR",
         "quota_id": "TR-ATH"
-    },
-    {
-        "Date": "07-09-2026",
-        "Time": "0230",
-        "Time_at_Gate": "0120",
-        "Dest": "MEL",
-        "DTerm": "T1",
-        "Flight": "TR058",
-        "AirlineCode": "TR",
-        "quota_id": "TR-MEL"
     },
     {
         "Date": "07-09-2026",
@@ -221952,16 +221362,6 @@
     },
     {
         "Date": "07-09-2026",
-        "Time": "1245",
-        "Time_at_Gate": "1135",
-        "Dest": "HDY",
-        "DTerm": "T1",
-        "Flight": "TR646",
-        "AirlineCode": "TR",
-        "quota_id": "TR-HDY"
-    },
-    {
-        "Date": "07-09-2026",
         "Time": "1755",
         "Time_at_Gate": "1645",
         "Dest": "USM",
@@ -221987,16 +221387,6 @@
         "Dest": "HKT",
         "DTerm": "T1",
         "Flight": "TR656",
-        "AirlineCode": "TR",
-        "quota_id": "TR-HKT"
-    },
-    {
-        "Date": "07-09-2026",
-        "Time": "0730",
-        "Time_at_Gate": "0620",
-        "Dest": "HKT",
-        "DTerm": "T1",
-        "Flight": "TR658",
         "AirlineCode": "TR",
         "quota_id": "TR-HKT"
     },
@@ -222029,16 +221419,6 @@
         "Flight": "TR674",
         "AirlineCode": "TR",
         "quota_id": "TR-CNX"
-    },
-    {
-        "Date": "07-09-2026",
-        "Time": "1100",
-        "Time_at_Gate": "0950",
-        "Dest": "KBV",
-        "DTerm": "T1",
-        "Flight": "TR682",
-        "AirlineCode": "TR",
-        "quota_id": "TR-KBV"
     },
     {
         "Date": "07-09-2026",
@@ -222242,16 +221622,6 @@
     },
     {
         "Date": "07-09-2026",
-        "Time": "0015",
-        "Time_at_Gate": "2305",
-        "Dest": "CGO",
-        "DTerm": "T2",
-        "Flight": "3U3748",
-        "AirlineCode": "3U",
-        "quota_id": "3U-CGO"
-    },
-    {
-        "Date": "07-09-2026",
         "Time": "1700",
         "Time_at_Gate": "1550",
         "Dest": "TFU",
@@ -222339,56 +221709,6 @@
         "Flight": "6E1458",
         "AirlineCode": "6E",
         "quota_id": "6E-BLR"
-    },
-    {
-        "Date": "07-09-2026",
-        "Time": "1145",
-        "Time_at_Gate": "1035",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B152",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "07-09-2026",
-        "Time": "1530",
-        "Time_at_Gate": "1420",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B154",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "07-09-2026",
-        "Time": "2320",
-        "Time_at_Gate": "2210",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B156",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "07-09-2026",
-        "Time": "1055",
-        "Time_at_Gate": "0945",
-        "Dest": "DPS",
-        "DTerm": "T2",
-        "Flight": "8B552",
-        "AirlineCode": "8B",
-        "quota_id": "8B-DPS"
-    },
-    {
-        "Date": "07-09-2026",
-        "Time": "1415",
-        "Time_at_Gate": "1305",
-        "Dest": "DPS",
-        "DTerm": "T2",
-        "Flight": "8B554",
-        "AirlineCode": "8B",
-        "quota_id": "8B-DPS"
     },
     {
         "Date": "07-09-2026",
@@ -222679,6 +221999,16 @@
         "Flight": "NH844",
         "AirlineCode": "NH",
         "quota_id": "NH-HND"
+    },
+    {
+        "Date": "07-09-2026",
+        "Time": "1705",
+        "Time_at_Gate": "1555",
+        "Dest": "MFM",
+        "DTerm": "T2",
+        "Flight": "NX907",
+        "AirlineCode": "NX",
+        "quota_id": "NX-MFM"
     },
     {
         "Date": "07-09-2026",
@@ -224832,6 +224162,56 @@
     },
     {
         "Date": "07-09-2026",
+        "Time": "1145",
+        "Time_at_Gate": "1035",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B152",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "07-09-2026",
+        "Time": "1530",
+        "Time_at_Gate": "1420",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B154",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "07-09-2026",
+        "Time": "2320",
+        "Time_at_Gate": "2210",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B156",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "07-09-2026",
+        "Time": "1055",
+        "Time_at_Gate": "0945",
+        "Dest": "DPS",
+        "DTerm": "T4",
+        "Flight": "8B552",
+        "AirlineCode": "8B",
+        "quota_id": "8B-DPS"
+    },
+    {
+        "Date": "07-09-2026",
+        "Time": "1415",
+        "Time_at_Gate": "1305",
+        "Dest": "DPS",
+        "DTerm": "T4",
+        "Flight": "8B554",
+        "AirlineCode": "8B",
+        "quota_id": "8B-DPS"
+    },
+    {
+        "Date": "07-09-2026",
         "Time": "1610",
         "Time_at_Gate": "1500",
         "Dest": "PVG",
@@ -225322,16 +224702,6 @@
     },
     {
         "Date": "07-09-2026",
-        "Time": "1705",
-        "Time_at_Gate": "1555",
-        "Dest": "MFM",
-        "DTerm": "T4",
-        "Flight": "NX907",
-        "AirlineCode": "NX",
-        "quota_id": "NX-MFM"
-    },
-    {
-        "Date": "07-09-2026",
         "Time": "1020",
         "Time_at_Gate": "0910",
         "Dest": "KUL",
@@ -225369,16 +224739,6 @@
         "Flight": "OD808",
         "AirlineCode": "OD",
         "quota_id": "OD-KUL"
-    },
-    {
-        "Date": "07-09-2026",
-        "Time": "0945",
-        "Time_at_Gate": "0835",
-        "Dest": "SZB",
-        "DTerm": "T4",
-        "Flight": "OD811",
-        "AirlineCode": "OD",
-        "quota_id": "OD-SZB"
     },
     {
         "Date": "07-09-2026",
@@ -225529,16 +224889,6 @@
         "Flight": "BA016",
         "AirlineCode": "BA",
         "quota_id": "BA-LHR"
-    },
-    {
-        "Date": "08-09-2026",
-        "Time": "1600",
-        "Time_at_Gate": "1450",
-        "Dest": "TFU",
-        "DTerm": "T1",
-        "Flight": "CA404",
-        "AirlineCode": "CA",
-        "quota_id": "CA-TFU"
     },
     {
         "Date": "08-09-2026",
@@ -225712,16 +225062,6 @@
     },
     {
         "Date": "08-09-2026",
-        "Time": "1415",
-        "Time_at_Gate": "1305",
-        "Dest": "NKG",
-        "DTerm": "T1",
-        "Flight": "MF8642Z",
-        "AirlineCode": "MF",
-        "quota_id": "MF-NKG"
-    },
-    {
-        "Date": "08-09-2026",
         "Time": "0240",
         "Time_at_Gate": "0130",
         "Dest": "XMN",
@@ -225839,16 +225179,6 @@
         "Flight": "QR947",
         "AirlineCode": "QR",
         "quota_id": "QR-DOH"
-    },
-    {
-        "Date": "08-09-2026",
-        "Time": "0400",
-        "Time_at_Gate": "0250",
-        "Dest": "XMN",
-        "DTerm": "T1",
-        "Flight": "SC2392",
-        "AirlineCode": "SC",
-        "quota_id": "SC-XMN"
     },
     {
         "Date": "08-09-2026",
@@ -226522,16 +225852,6 @@
     },
     {
         "Date": "08-09-2026",
-        "Time": "0730",
-        "Time_at_Gate": "0620",
-        "Dest": "HKT",
-        "DTerm": "T1",
-        "Flight": "TR658",
-        "AirlineCode": "TR",
-        "quota_id": "TR-HKT"
-    },
-    {
-        "Date": "08-09-2026",
         "Time": "0920",
         "Time_at_Gate": "0810",
         "Dest": "USM",
@@ -226769,56 +226089,6 @@
         "Flight": "6E1458",
         "AirlineCode": "6E",
         "quota_id": "6E-BLR"
-    },
-    {
-        "Date": "08-09-2026",
-        "Time": "1145",
-        "Time_at_Gate": "1035",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B152",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "08-09-2026",
-        "Time": "1530",
-        "Time_at_Gate": "1420",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B154",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "08-09-2026",
-        "Time": "2320",
-        "Time_at_Gate": "2210",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B156",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "08-09-2026",
-        "Time": "1055",
-        "Time_at_Gate": "0945",
-        "Dest": "DPS",
-        "DTerm": "T2",
-        "Flight": "8B552",
-        "AirlineCode": "8B",
-        "quota_id": "8B-DPS"
-    },
-    {
-        "Date": "08-09-2026",
-        "Time": "1415",
-        "Time_at_Gate": "1305",
-        "Dest": "DPS",
-        "DTerm": "T2",
-        "Flight": "8B554",
-        "AirlineCode": "8B",
-        "quota_id": "8B-DPS"
     },
     {
         "Date": "08-09-2026",
@@ -229232,6 +228502,56 @@
     },
     {
         "Date": "08-09-2026",
+        "Time": "1145",
+        "Time_at_Gate": "1035",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B152",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "08-09-2026",
+        "Time": "1530",
+        "Time_at_Gate": "1420",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B154",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "08-09-2026",
+        "Time": "2320",
+        "Time_at_Gate": "2210",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B156",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "08-09-2026",
+        "Time": "1055",
+        "Time_at_Gate": "0945",
+        "Dest": "DPS",
+        "DTerm": "T4",
+        "Flight": "8B552",
+        "AirlineCode": "8B",
+        "quota_id": "8B-DPS"
+    },
+    {
+        "Date": "08-09-2026",
+        "Time": "1415",
+        "Time_at_Gate": "1305",
+        "Dest": "DPS",
+        "DTerm": "T4",
+        "Flight": "8B554",
+        "AirlineCode": "8B",
+        "quota_id": "8B-DPS"
+    },
+    {
+        "Date": "08-09-2026",
         "Time": "2200",
         "Time_at_Gate": "2050",
         "Dest": "CAN",
@@ -229732,16 +229052,6 @@
     },
     {
         "Date": "08-09-2026",
-        "Time": "1705",
-        "Time_at_Gate": "1555",
-        "Dest": "MFM",
-        "DTerm": "T4",
-        "Flight": "NX907",
-        "AirlineCode": "NX",
-        "quota_id": "NX-MFM"
-    },
-    {
-        "Date": "08-09-2026",
         "Time": "1020",
         "Time_at_Gate": "0910",
         "Dest": "KUL",
@@ -230112,16 +229422,6 @@
     },
     {
         "Date": "10-09-2026",
-        "Time": "1415",
-        "Time_at_Gate": "1305",
-        "Dest": "NKG",
-        "DTerm": "T1",
-        "Flight": "MF8642Z",
-        "AirlineCode": "MF",
-        "quota_id": "MF-NKG"
-    },
-    {
-        "Date": "10-09-2026",
         "Time": "0240",
         "Time_at_Gate": "0130",
         "Dest": "XMN",
@@ -230259,16 +229559,6 @@
         "Flight": "QR947",
         "AirlineCode": "QR",
         "quota_id": "QR-DOH"
-    },
-    {
-        "Date": "10-09-2026",
-        "Time": "0400",
-        "Time_at_Gate": "0250",
-        "Dest": "XMN",
-        "DTerm": "T1",
-        "Flight": "SC2392",
-        "AirlineCode": "SC",
-        "quota_id": "SC-XMN"
     },
     {
         "Date": "10-09-2026",
@@ -230932,16 +230222,6 @@
     },
     {
         "Date": "10-09-2026",
-        "Time": "1850",
-        "Time_at_Gate": "1740",
-        "Dest": "HKT",
-        "DTerm": "T1",
-        "Flight": "TR652",
-        "AirlineCode": "TR",
-        "quota_id": "TR-HKT"
-    },
-    {
-        "Date": "10-09-2026",
         "Time": "0730",
         "Time_at_Gate": "0620",
         "Dest": "HKT",
@@ -230979,16 +230259,6 @@
         "Flight": "TR674",
         "AirlineCode": "TR",
         "quota_id": "TR-CNX"
-    },
-    {
-        "Date": "10-09-2026",
-        "Time": "1100",
-        "Time_at_Gate": "0950",
-        "Dest": "KBV",
-        "DTerm": "T1",
-        "Flight": "TR682",
-        "AirlineCode": "TR",
-        "quota_id": "TR-KBV"
     },
     {
         "Date": "10-09-2026",
@@ -231269,56 +230539,6 @@
         "Flight": "6E1458",
         "AirlineCode": "6E",
         "quota_id": "6E-BLR"
-    },
-    {
-        "Date": "10-09-2026",
-        "Time": "1145",
-        "Time_at_Gate": "1035",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B152",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "10-09-2026",
-        "Time": "1530",
-        "Time_at_Gate": "1420",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B154",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "10-09-2026",
-        "Time": "2320",
-        "Time_at_Gate": "2210",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B156",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "10-09-2026",
-        "Time": "1055",
-        "Time_at_Gate": "0945",
-        "Dest": "DPS",
-        "DTerm": "T2",
-        "Flight": "8B552",
-        "AirlineCode": "8B",
-        "quota_id": "8B-DPS"
-    },
-    {
-        "Date": "10-09-2026",
-        "Time": "1415",
-        "Time_at_Gate": "1305",
-        "Dest": "DPS",
-        "DTerm": "T2",
-        "Flight": "8B554",
-        "AirlineCode": "8B",
-        "quota_id": "8B-DPS"
     },
     {
         "Date": "10-09-2026",
@@ -233752,6 +232972,56 @@
     },
     {
         "Date": "10-09-2026",
+        "Time": "1145",
+        "Time_at_Gate": "1035",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B152",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "10-09-2026",
+        "Time": "1530",
+        "Time_at_Gate": "1420",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B154",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "10-09-2026",
+        "Time": "2320",
+        "Time_at_Gate": "2210",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B156",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "10-09-2026",
+        "Time": "1055",
+        "Time_at_Gate": "0945",
+        "Dest": "DPS",
+        "DTerm": "T4",
+        "Flight": "8B552",
+        "AirlineCode": "8B",
+        "quota_id": "8B-DPS"
+    },
+    {
+        "Date": "10-09-2026",
+        "Time": "1415",
+        "Time_at_Gate": "1305",
+        "Dest": "DPS",
+        "DTerm": "T4",
+        "Flight": "8B554",
+        "AirlineCode": "8B",
+        "quota_id": "8B-DPS"
+    },
+    {
+        "Date": "10-09-2026",
         "Time": "2200",
         "Time_at_Gate": "2050",
         "Dest": "CAN",
@@ -234232,16 +233502,6 @@
     },
     {
         "Date": "10-09-2026",
-        "Time": "1255",
-        "Time_at_Gate": "1145",
-        "Dest": "KOS",
-        "DTerm": "T4",
-        "Flight": "KR754",
-        "AirlineCode": "KR",
-        "quota_id": "KR-KOS"
-    },
-    {
-        "Date": "10-09-2026",
         "Time": "1005",
         "Time_at_Gate": "0855",
         "Dest": "KCH",
@@ -234259,16 +233519,6 @@
         "Flight": "MY364",
         "AirlineCode": "MY",
         "quota_id": "MY-KCH"
-    },
-    {
-        "Date": "10-09-2026",
-        "Time": "1705",
-        "Time_at_Gate": "1555",
-        "Dest": "MFM",
-        "DTerm": "T4",
-        "Flight": "NX907",
-        "AirlineCode": "NX",
-        "quota_id": "NX-MFM"
     },
     {
         "Date": "10-09-2026",
@@ -234642,16 +233892,6 @@
     },
     {
         "Date": "11-09-2026",
-        "Time": "1415",
-        "Time_at_Gate": "1305",
-        "Dest": "NKG",
-        "DTerm": "T1",
-        "Flight": "MF8642Z",
-        "AirlineCode": "MF",
-        "quota_id": "MF-NKG"
-    },
-    {
-        "Date": "11-09-2026",
         "Time": "0240",
         "Time_at_Gate": "0130",
         "Dest": "XMN",
@@ -234809,16 +234049,6 @@
         "Flight": "QR947",
         "AirlineCode": "QR",
         "quota_id": "QR-DOH"
-    },
-    {
-        "Date": "11-09-2026",
-        "Time": "0400",
-        "Time_at_Gate": "0250",
-        "Dest": "XMN",
-        "DTerm": "T1",
-        "Flight": "SC2392",
-        "AirlineCode": "SC",
-        "quota_id": "SC-XMN"
     },
     {
         "Date": "11-09-2026",
@@ -235422,16 +234652,6 @@
     },
     {
         "Date": "11-09-2026",
-        "Time": "0150",
-        "Time_at_Gate": "0040",
-        "Dest": "MNL",
-        "DTerm": "T1",
-        "Flight": "TR588",
-        "AirlineCode": "TR",
-        "quota_id": "TR-MNL"
-    },
-    {
-        "Date": "11-09-2026",
         "Time": "1440",
         "Time_at_Gate": "1330",
         "Dest": "MNL",
@@ -235509,16 +234729,6 @@
         "Flight": "TR648",
         "AirlineCode": "TR",
         "quota_id": "TR-USM"
-    },
-    {
-        "Date": "11-09-2026",
-        "Time": "1850",
-        "Time_at_Gate": "1740",
-        "Dest": "HKT",
-        "DTerm": "T1",
-        "Flight": "TR652",
-        "AirlineCode": "TR",
-        "quota_id": "TR-HKT"
     },
     {
         "Date": "11-09-2026",
@@ -235819,56 +235029,6 @@
         "Flight": "6E1458",
         "AirlineCode": "6E",
         "quota_id": "6E-BLR"
-    },
-    {
-        "Date": "11-09-2026",
-        "Time": "1145",
-        "Time_at_Gate": "1035",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B152",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "11-09-2026",
-        "Time": "1530",
-        "Time_at_Gate": "1420",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B154",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "11-09-2026",
-        "Time": "2320",
-        "Time_at_Gate": "2210",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B156",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "11-09-2026",
-        "Time": "1055",
-        "Time_at_Gate": "0945",
-        "Dest": "DPS",
-        "DTerm": "T2",
-        "Flight": "8B552",
-        "AirlineCode": "8B",
-        "quota_id": "8B-DPS"
-    },
-    {
-        "Date": "11-09-2026",
-        "Time": "1415",
-        "Time_at_Gate": "1305",
-        "Dest": "DPS",
-        "DTerm": "T2",
-        "Flight": "8B554",
-        "AirlineCode": "8B",
-        "quota_id": "8B-DPS"
     },
     {
         "Date": "11-09-2026",
@@ -236179,6 +235339,16 @@
         "Flight": "NH844",
         "AirlineCode": "NH",
         "quota_id": "NH-HND"
+    },
+    {
+        "Date": "11-09-2026",
+        "Time": "1705",
+        "Time_at_Gate": "1555",
+        "Dest": "MFM",
+        "DTerm": "T2",
+        "Flight": "NX907",
+        "AirlineCode": "NX",
+        "quota_id": "NX-MFM"
     },
     {
         "Date": "11-09-2026",
@@ -238392,6 +237562,56 @@
     },
     {
         "Date": "11-09-2026",
+        "Time": "1145",
+        "Time_at_Gate": "1035",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B152",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "11-09-2026",
+        "Time": "1530",
+        "Time_at_Gate": "1420",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B154",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "11-09-2026",
+        "Time": "2320",
+        "Time_at_Gate": "2210",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B156",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "11-09-2026",
+        "Time": "1055",
+        "Time_at_Gate": "0945",
+        "Dest": "DPS",
+        "DTerm": "T4",
+        "Flight": "8B552",
+        "AirlineCode": "8B",
+        "quota_id": "8B-DPS"
+    },
+    {
+        "Date": "11-09-2026",
+        "Time": "1415",
+        "Time_at_Gate": "1305",
+        "Dest": "DPS",
+        "DTerm": "T4",
+        "Flight": "8B554",
+        "AirlineCode": "8B",
+        "quota_id": "8B-DPS"
+    },
+    {
+        "Date": "11-09-2026",
         "Time": "1610",
         "Time_at_Gate": "1500",
         "Dest": "PVG",
@@ -238882,16 +238102,6 @@
     },
     {
         "Date": "11-09-2026",
-        "Time": "1705",
-        "Time_at_Gate": "1555",
-        "Dest": "MFM",
-        "DTerm": "T4",
-        "Flight": "NX907",
-        "AirlineCode": "NX",
-        "quota_id": "NX-MFM"
-    },
-    {
-        "Date": "11-09-2026",
         "Time": "1020",
         "Time_at_Gate": "0910",
         "Dest": "KUL",
@@ -238929,16 +238139,6 @@
         "Flight": "OD808",
         "AirlineCode": "OD",
         "quota_id": "OD-KUL"
-    },
-    {
-        "Date": "11-09-2026",
-        "Time": "1955",
-        "Time_at_Gate": "1845",
-        "Dest": "SZB",
-        "DTerm": "T4",
-        "Flight": "OD817",
-        "AirlineCode": "OD",
-        "quota_id": "OD-SZB"
     },
     {
         "Date": "11-09-2026",
@@ -239252,16 +238452,6 @@
     },
     {
         "Date": "12-09-2026",
-        "Time": "1415",
-        "Time_at_Gate": "1305",
-        "Dest": "NKG",
-        "DTerm": "T1",
-        "Flight": "MF8642Z",
-        "AirlineCode": "MF",
-        "quota_id": "MF-NKG"
-    },
-    {
-        "Date": "12-09-2026",
         "Time": "0240",
         "Time_at_Gate": "0130",
         "Dest": "XMN",
@@ -239372,8 +238562,8 @@
     },
     {
         "Date": "12-09-2026",
-        "Time": "2100",
-        "Time_at_Gate": "1950",
+        "Time": "2125",
+        "Time_at_Gate": "2015",
         "Dest": "SYD",
         "DTerm": "T1",
         "Flight": "QF082",
@@ -239409,16 +238599,6 @@
         "Flight": "QR947",
         "AirlineCode": "QR",
         "quota_id": "QR-DOH"
-    },
-    {
-        "Date": "12-09-2026",
-        "Time": "0400",
-        "Time_at_Gate": "0250",
-        "Dest": "XMN",
-        "DTerm": "T1",
-        "Flight": "SC2392",
-        "AirlineCode": "SC",
-        "quota_id": "SC-XMN"
     },
     {
         "Date": "12-09-2026",
@@ -239742,16 +238922,6 @@
     },
     {
         "Date": "12-09-2026",
-        "Time": "0730",
-        "Time_at_Gate": "0620",
-        "Dest": "DPS",
-        "DTerm": "T1",
-        "Flight": "TR280",
-        "AirlineCode": "TR",
-        "quota_id": "TR-DPS"
-    },
-    {
-        "Date": "12-09-2026",
         "Time": "1015",
         "Time_at_Gate": "0905",
         "Dest": "DPS",
@@ -240052,16 +239222,6 @@
     },
     {
         "Date": "12-09-2026",
-        "Time": "0150",
-        "Time_at_Gate": "0040",
-        "Dest": "MNL",
-        "DTerm": "T1",
-        "Flight": "TR588",
-        "AirlineCode": "TR",
-        "quota_id": "TR-MNL"
-    },
-    {
-        "Date": "12-09-2026",
         "Time": "1440",
         "Time_at_Gate": "1330",
         "Dest": "MNL",
@@ -240147,16 +239307,6 @@
         "Dest": "HKT",
         "DTerm": "T1",
         "Flight": "TR652",
-        "AirlineCode": "TR",
-        "quota_id": "TR-HKT"
-    },
-    {
-        "Date": "12-09-2026",
-        "Time": "0730",
-        "Time_at_Gate": "0620",
-        "Dest": "HKT",
-        "DTerm": "T1",
-        "Flight": "TR658",
         "AirlineCode": "TR",
         "quota_id": "TR-HKT"
     },
@@ -240352,16 +239502,6 @@
     },
     {
         "Date": "12-09-2026",
-        "Time": "0015",
-        "Time_at_Gate": "2305",
-        "Dest": "CGO",
-        "DTerm": "T2",
-        "Flight": "3U3748",
-        "AirlineCode": "3U",
-        "quota_id": "3U-CGO"
-    },
-    {
-        "Date": "12-09-2026",
         "Time": "1700",
         "Time_at_Gate": "1550",
         "Dest": "TFU",
@@ -240459,56 +239599,6 @@
         "Flight": "6E1458",
         "AirlineCode": "6E",
         "quota_id": "6E-BLR"
-    },
-    {
-        "Date": "12-09-2026",
-        "Time": "1145",
-        "Time_at_Gate": "1035",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B152",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "12-09-2026",
-        "Time": "1530",
-        "Time_at_Gate": "1420",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B154",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "12-09-2026",
-        "Time": "2320",
-        "Time_at_Gate": "2210",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B156",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "12-09-2026",
-        "Time": "1055",
-        "Time_at_Gate": "0945",
-        "Dest": "DPS",
-        "DTerm": "T2",
-        "Flight": "8B552",
-        "AirlineCode": "8B",
-        "quota_id": "8B-DPS"
-    },
-    {
-        "Date": "12-09-2026",
-        "Time": "1415",
-        "Time_at_Gate": "1305",
-        "Dest": "DPS",
-        "DTerm": "T2",
-        "Flight": "8B554",
-        "AirlineCode": "8B",
-        "quota_id": "8B-DPS"
     },
     {
         "Date": "12-09-2026",
@@ -242982,6 +242072,56 @@
     },
     {
         "Date": "12-09-2026",
+        "Time": "1145",
+        "Time_at_Gate": "1035",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B152",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "12-09-2026",
+        "Time": "1530",
+        "Time_at_Gate": "1420",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B154",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "12-09-2026",
+        "Time": "2320",
+        "Time_at_Gate": "2210",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B156",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "12-09-2026",
+        "Time": "1055",
+        "Time_at_Gate": "0945",
+        "Dest": "DPS",
+        "DTerm": "T4",
+        "Flight": "8B552",
+        "AirlineCode": "8B",
+        "quota_id": "8B-DPS"
+    },
+    {
+        "Date": "12-09-2026",
+        "Time": "1415",
+        "Time_at_Gate": "1305",
+        "Dest": "DPS",
+        "DTerm": "T4",
+        "Flight": "8B554",
+        "AirlineCode": "8B",
+        "quota_id": "8B-DPS"
+    },
+    {
+        "Date": "12-09-2026",
         "Time": "2200",
         "Time_at_Gate": "2050",
         "Dest": "CAN",
@@ -243512,16 +242652,6 @@
     },
     {
         "Date": "12-09-2026",
-        "Time": "1705",
-        "Time_at_Gate": "1555",
-        "Dest": "MFM",
-        "DTerm": "T4",
-        "Flight": "NX907",
-        "AirlineCode": "NX",
-        "quota_id": "NX-MFM"
-    },
-    {
-        "Date": "12-09-2026",
         "Time": "1020",
         "Time_at_Gate": "0910",
         "Dest": "KUL",
@@ -243892,16 +243022,6 @@
     },
     {
         "Date": "13-09-2026",
-        "Time": "1415",
-        "Time_at_Gate": "1305",
-        "Dest": "NKG",
-        "DTerm": "T1",
-        "Flight": "MF8642Z",
-        "AirlineCode": "MF",
-        "quota_id": "MF-NKG"
-    },
-    {
-        "Date": "13-09-2026",
         "Time": "0240",
         "Time_at_Gate": "0130",
         "Dest": "XMN",
@@ -244049,16 +243169,6 @@
         "Flight": "QR947",
         "AirlineCode": "QR",
         "quota_id": "QR-DOH"
-    },
-    {
-        "Date": "13-09-2026",
-        "Time": "0400",
-        "Time_at_Gate": "0250",
-        "Dest": "XMN",
-        "DTerm": "T1",
-        "Flight": "SC2392",
-        "AirlineCode": "SC",
-        "quota_id": "SC-XMN"
     },
     {
         "Date": "13-09-2026",
@@ -244349,6 +243459,16 @@
         "Flight": "TR280",
         "AirlineCode": "TR",
         "quota_id": "TR-DPS"
+    },
+    {
+        "Date": "13-09-2026",
+        "Time": "1000",
+        "Time_at_Gate": "0850",
+        "Dest": "TJQ",
+        "DTerm": "T1",
+        "Flight": "TR284",
+        "AirlineCode": "TR",
+        "quota_id": "TR-TJQ"
     },
     {
         "Date": "13-09-2026",
@@ -244772,16 +243892,6 @@
     },
     {
         "Date": "13-09-2026",
-        "Time": "1850",
-        "Time_at_Gate": "1740",
-        "Dest": "HKT",
-        "DTerm": "T1",
-        "Flight": "TR652",
-        "AirlineCode": "TR",
-        "quota_id": "TR-HKT"
-    },
-    {
-        "Date": "13-09-2026",
         "Time": "0730",
         "Time_at_Gate": "0620",
         "Dest": "HKT",
@@ -244809,16 +243919,6 @@
         "Flight": "TR674",
         "AirlineCode": "TR",
         "quota_id": "TR-CNX"
-    },
-    {
-        "Date": "13-09-2026",
-        "Time": "1100",
-        "Time_at_Gate": "0950",
-        "Dest": "KBV",
-        "DTerm": "T1",
-        "Flight": "TR682",
-        "AirlineCode": "TR",
-        "quota_id": "TR-KBV"
     },
     {
         "Date": "13-09-2026",
@@ -245089,56 +244189,6 @@
         "Flight": "6E1458",
         "AirlineCode": "6E",
         "quota_id": "6E-BLR"
-    },
-    {
-        "Date": "13-09-2026",
-        "Time": "1145",
-        "Time_at_Gate": "1035",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B152",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "13-09-2026",
-        "Time": "1530",
-        "Time_at_Gate": "1420",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B154",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "13-09-2026",
-        "Time": "2320",
-        "Time_at_Gate": "2210",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B156",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "13-09-2026",
-        "Time": "1055",
-        "Time_at_Gate": "0945",
-        "Dest": "DPS",
-        "DTerm": "T2",
-        "Flight": "8B552",
-        "AirlineCode": "8B",
-        "quota_id": "8B-DPS"
-    },
-    {
-        "Date": "13-09-2026",
-        "Time": "1415",
-        "Time_at_Gate": "1305",
-        "Dest": "DPS",
-        "DTerm": "T2",
-        "Flight": "8B554",
-        "AirlineCode": "8B",
-        "quota_id": "8B-DPS"
     },
     {
         "Date": "13-09-2026",
@@ -245459,6 +244509,16 @@
         "Flight": "NH844",
         "AirlineCode": "NH",
         "quota_id": "NH-HND"
+    },
+    {
+        "Date": "13-09-2026",
+        "Time": "1705",
+        "Time_at_Gate": "1555",
+        "Dest": "MFM",
+        "DTerm": "T2",
+        "Flight": "NX907",
+        "AirlineCode": "NX",
+        "quota_id": "NX-MFM"
     },
     {
         "Date": "13-09-2026",
@@ -247652,6 +246712,56 @@
     },
     {
         "Date": "13-09-2026",
+        "Time": "1145",
+        "Time_at_Gate": "1035",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B152",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "13-09-2026",
+        "Time": "1530",
+        "Time_at_Gate": "1420",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B154",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "13-09-2026",
+        "Time": "2320",
+        "Time_at_Gate": "2210",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B156",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "13-09-2026",
+        "Time": "1055",
+        "Time_at_Gate": "0945",
+        "Dest": "DPS",
+        "DTerm": "T4",
+        "Flight": "8B552",
+        "AirlineCode": "8B",
+        "quota_id": "8B-DPS"
+    },
+    {
+        "Date": "13-09-2026",
+        "Time": "1415",
+        "Time_at_Gate": "1305",
+        "Dest": "DPS",
+        "DTerm": "T4",
+        "Flight": "8B554",
+        "AirlineCode": "8B",
+        "quota_id": "8B-DPS"
+    },
+    {
+        "Date": "13-09-2026",
         "Time": "1200",
         "Time_at_Gate": "1050",
         "Dest": "DIL",
@@ -248112,16 +247222,6 @@
     },
     {
         "Date": "13-09-2026",
-        "Time": "1255",
-        "Time_at_Gate": "1145",
-        "Dest": "KOS",
-        "DTerm": "T4",
-        "Flight": "KR754",
-        "AirlineCode": "KR",
-        "quota_id": "KR-KOS"
-    },
-    {
-        "Date": "13-09-2026",
         "Time": "1005",
         "Time_at_Gate": "0855",
         "Dest": "KCH",
@@ -248139,16 +247239,6 @@
         "Flight": "MY364",
         "AirlineCode": "MY",
         "quota_id": "MY-KCH"
-    },
-    {
-        "Date": "13-09-2026",
-        "Time": "1705",
-        "Time_at_Gate": "1555",
-        "Dest": "MFM",
-        "DTerm": "T4",
-        "Flight": "NX907",
-        "AirlineCode": "NX",
-        "quota_id": "NX-MFM"
     },
     {
         "Date": "13-09-2026",
@@ -248189,16 +247279,6 @@
         "Flight": "OD808",
         "AirlineCode": "OD",
         "quota_id": "OD-KUL"
-    },
-    {
-        "Date": "13-09-2026",
-        "Time": "1955",
-        "Time_at_Gate": "1845",
-        "Dest": "SZB",
-        "DTerm": "T4",
-        "Flight": "OD817",
-        "AirlineCode": "OD",
-        "quota_id": "OD-SZB"
     },
     {
         "Date": "13-09-2026",
@@ -248522,16 +247602,6 @@
     },
     {
         "Date": "14-09-2026",
-        "Time": "1415",
-        "Time_at_Gate": "1305",
-        "Dest": "NKG",
-        "DTerm": "T1",
-        "Flight": "MF8642Z",
-        "AirlineCode": "MF",
-        "quota_id": "MF-NKG"
-    },
-    {
-        "Date": "14-09-2026",
         "Time": "0240",
         "Time_at_Gate": "0130",
         "Dest": "XMN",
@@ -248682,16 +247752,6 @@
     },
     {
         "Date": "14-09-2026",
-        "Time": "0400",
-        "Time_at_Gate": "0250",
-        "Dest": "XMN",
-        "DTerm": "T1",
-        "Flight": "SC2392",
-        "AirlineCode": "SC",
-        "quota_id": "SC-XMN"
-    },
-    {
-        "Date": "14-09-2026",
         "Time": "0115",
         "Time_at_Gate": "0005",
         "Dest": "TNA",
@@ -248742,16 +247802,6 @@
     },
     {
         "Date": "14-09-2026",
-        "Time": "0210",
-        "Time_at_Gate": "0100",
-        "Dest": "SYD",
-        "DTerm": "T1",
-        "Flight": "TR010",
-        "AirlineCode": "TR",
-        "quota_id": "TR-SYD"
-    },
-    {
-        "Date": "14-09-2026",
         "Time": "0945",
         "Time_at_Gate": "0835",
         "Dest": "SYD",
@@ -248759,16 +247809,6 @@
         "Flight": "TR014",
         "AirlineCode": "TR",
         "quota_id": "TR-SYD"
-    },
-    {
-        "Date": "14-09-2026",
-        "Time": "0300",
-        "Time_at_Gate": "0150",
-        "Dest": "PER",
-        "DTerm": "T1",
-        "Flight": "TR016",
-        "AirlineCode": "TR",
-        "quota_id": "TR-PER"
     },
     {
         "Date": "14-09-2026",
@@ -248799,16 +247839,6 @@
         "Flight": "TR050",
         "AirlineCode": "TR",
         "quota_id": "TR-ATH"
-    },
-    {
-        "Date": "14-09-2026",
-        "Time": "0230",
-        "Time_at_Gate": "0120",
-        "Dest": "MEL",
-        "DTerm": "T1",
-        "Flight": "TR058",
-        "AirlineCode": "TR",
-        "quota_id": "TR-MEL"
     },
     {
         "Date": "14-09-2026",
@@ -249302,16 +248332,6 @@
     },
     {
         "Date": "14-09-2026",
-        "Time": "1655",
-        "Time_at_Gate": "1545",
-        "Dest": "HDY",
-        "DTerm": "T1",
-        "Flight": "TR632",
-        "AirlineCode": "TR",
-        "quota_id": "TR-HDY"
-    },
-    {
-        "Date": "14-09-2026",
         "Time": "1250",
         "Time_at_Gate": "1140",
         "Dest": "BKK",
@@ -249329,26 +248349,6 @@
         "Flight": "TR646",
         "AirlineCode": "TR",
         "quota_id": "TR-HDY"
-    },
-    {
-        "Date": "14-09-2026",
-        "Time": "1755",
-        "Time_at_Gate": "1645",
-        "Dest": "USM",
-        "DTerm": "T1",
-        "Flight": "TR648",
-        "AirlineCode": "TR",
-        "quota_id": "TR-USM"
-    },
-    {
-        "Date": "14-09-2026",
-        "Time": "1850",
-        "Time_at_Gate": "1740",
-        "Dest": "HKT",
-        "DTerm": "T1",
-        "Flight": "TR652",
-        "AirlineCode": "TR",
-        "quota_id": "TR-HKT"
     },
     {
         "Date": "14-09-2026",
@@ -249592,16 +248592,6 @@
     },
     {
         "Date": "14-09-2026",
-        "Time": "0015",
-        "Time_at_Gate": "2305",
-        "Dest": "CGO",
-        "DTerm": "T2",
-        "Flight": "3U3748",
-        "AirlineCode": "3U",
-        "quota_id": "3U-CGO"
-    },
-    {
-        "Date": "14-09-2026",
         "Time": "1700",
         "Time_at_Gate": "1550",
         "Dest": "TFU",
@@ -249689,56 +248679,6 @@
         "Flight": "6E1458",
         "AirlineCode": "6E",
         "quota_id": "6E-BLR"
-    },
-    {
-        "Date": "14-09-2026",
-        "Time": "1145",
-        "Time_at_Gate": "1035",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B152",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "14-09-2026",
-        "Time": "1530",
-        "Time_at_Gate": "1420",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B154",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "14-09-2026",
-        "Time": "2320",
-        "Time_at_Gate": "2210",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B156",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "14-09-2026",
-        "Time": "1055",
-        "Time_at_Gate": "0945",
-        "Dest": "DPS",
-        "DTerm": "T2",
-        "Flight": "8B552",
-        "AirlineCode": "8B",
-        "quota_id": "8B-DPS"
-    },
-    {
-        "Date": "14-09-2026",
-        "Time": "1415",
-        "Time_at_Gate": "1305",
-        "Dest": "DPS",
-        "DTerm": "T2",
-        "Flight": "8B554",
-        "AirlineCode": "8B",
-        "quota_id": "8B-DPS"
     },
     {
         "Date": "14-09-2026",
@@ -250019,6 +248959,16 @@
         "Flight": "NH844",
         "AirlineCode": "NH",
         "quota_id": "NH-HND"
+    },
+    {
+        "Date": "14-09-2026",
+        "Time": "1705",
+        "Time_at_Gate": "1555",
+        "Dest": "MFM",
+        "DTerm": "T2",
+        "Flight": "NX907",
+        "AirlineCode": "NX",
+        "quota_id": "NX-MFM"
     },
     {
         "Date": "14-09-2026",
@@ -252162,6 +251112,56 @@
     },
     {
         "Date": "14-09-2026",
+        "Time": "1145",
+        "Time_at_Gate": "1035",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B152",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "14-09-2026",
+        "Time": "1530",
+        "Time_at_Gate": "1420",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B154",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "14-09-2026",
+        "Time": "2320",
+        "Time_at_Gate": "2210",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B156",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "14-09-2026",
+        "Time": "1055",
+        "Time_at_Gate": "0945",
+        "Dest": "DPS",
+        "DTerm": "T4",
+        "Flight": "8B552",
+        "AirlineCode": "8B",
+        "quota_id": "8B-DPS"
+    },
+    {
+        "Date": "14-09-2026",
+        "Time": "1415",
+        "Time_at_Gate": "1305",
+        "Dest": "DPS",
+        "DTerm": "T4",
+        "Flight": "8B554",
+        "AirlineCode": "8B",
+        "quota_id": "8B-DPS"
+    },
+    {
+        "Date": "14-09-2026",
         "Time": "1610",
         "Time_at_Gate": "1500",
         "Dest": "PVG",
@@ -252642,16 +251642,6 @@
     },
     {
         "Date": "14-09-2026",
-        "Time": "1705",
-        "Time_at_Gate": "1555",
-        "Dest": "MFM",
-        "DTerm": "T4",
-        "Flight": "NX907",
-        "AirlineCode": "NX",
-        "quota_id": "NX-MFM"
-    },
-    {
-        "Date": "14-09-2026",
         "Time": "1020",
         "Time_at_Gate": "0910",
         "Dest": "KUL",
@@ -252689,16 +251679,6 @@
         "Flight": "OD808",
         "AirlineCode": "OD",
         "quota_id": "OD-KUL"
-    },
-    {
-        "Date": "14-09-2026",
-        "Time": "0945",
-        "Time_at_Gate": "0835",
-        "Dest": "SZB",
-        "DTerm": "T4",
-        "Flight": "OD811",
-        "AirlineCode": "OD",
-        "quota_id": "OD-SZB"
     },
     {
         "Date": "14-09-2026",
@@ -253032,16 +252012,6 @@
     },
     {
         "Date": "15-09-2026",
-        "Time": "1415",
-        "Time_at_Gate": "1305",
-        "Dest": "NKG",
-        "DTerm": "T1",
-        "Flight": "MF8642Z",
-        "AirlineCode": "MF",
-        "quota_id": "MF-NKG"
-    },
-    {
-        "Date": "15-09-2026",
         "Time": "0240",
         "Time_at_Gate": "0130",
         "Dest": "XMN",
@@ -253162,16 +252132,6 @@
     },
     {
         "Date": "15-09-2026",
-        "Time": "0400",
-        "Time_at_Gate": "0250",
-        "Dest": "XMN",
-        "DTerm": "T1",
-        "Flight": "SC2392",
-        "AirlineCode": "SC",
-        "quota_id": "SC-XMN"
-    },
-    {
-        "Date": "15-09-2026",
         "Time": "0115",
         "Time_at_Gate": "0005",
         "Dest": "TNA",
@@ -253217,16 +252177,6 @@
         "Dest": "SYD",
         "DTerm": "T1",
         "Flight": "TR010",
-        "AirlineCode": "TR",
-        "quota_id": "TR-SYD"
-    },
-    {
-        "Date": "15-09-2026",
-        "Time": "0945",
-        "Time_at_Gate": "0835",
-        "Dest": "SYD",
-        "DTerm": "T1",
-        "Flight": "TR014",
         "AirlineCode": "TR",
         "quota_id": "TR-SYD"
     },
@@ -253852,16 +252802,6 @@
     },
     {
         "Date": "15-09-2026",
-        "Time": "0730",
-        "Time_at_Gate": "0620",
-        "Dest": "HKT",
-        "DTerm": "T1",
-        "Flight": "TR658",
-        "AirlineCode": "TR",
-        "quota_id": "TR-HKT"
-    },
-    {
-        "Date": "15-09-2026",
         "Time": "0920",
         "Time_at_Gate": "0810",
         "Dest": "USM",
@@ -254129,56 +253069,6 @@
         "Flight": "6E1458",
         "AirlineCode": "6E",
         "quota_id": "6E-BLR"
-    },
-    {
-        "Date": "15-09-2026",
-        "Time": "1145",
-        "Time_at_Gate": "1035",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B152",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "15-09-2026",
-        "Time": "1530",
-        "Time_at_Gate": "1420",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B154",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "15-09-2026",
-        "Time": "2320",
-        "Time_at_Gate": "2210",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B156",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "15-09-2026",
-        "Time": "1055",
-        "Time_at_Gate": "0945",
-        "Dest": "DPS",
-        "DTerm": "T2",
-        "Flight": "8B552",
-        "AirlineCode": "8B",
-        "quota_id": "8B-DPS"
-    },
-    {
-        "Date": "15-09-2026",
-        "Time": "1415",
-        "Time_at_Gate": "1305",
-        "Dest": "DPS",
-        "DTerm": "T2",
-        "Flight": "8B554",
-        "AirlineCode": "8B",
-        "quota_id": "8B-DPS"
     },
     {
         "Date": "15-09-2026",
@@ -256622,6 +255512,56 @@
     },
     {
         "Date": "15-09-2026",
+        "Time": "1145",
+        "Time_at_Gate": "1035",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B152",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "15-09-2026",
+        "Time": "1530",
+        "Time_at_Gate": "1420",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B154",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "15-09-2026",
+        "Time": "2320",
+        "Time_at_Gate": "2210",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B156",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "15-09-2026",
+        "Time": "1055",
+        "Time_at_Gate": "0945",
+        "Dest": "DPS",
+        "DTerm": "T4",
+        "Flight": "8B552",
+        "AirlineCode": "8B",
+        "quota_id": "8B-DPS"
+    },
+    {
+        "Date": "15-09-2026",
+        "Time": "1415",
+        "Time_at_Gate": "1305",
+        "Dest": "DPS",
+        "DTerm": "T4",
+        "Flight": "8B554",
+        "AirlineCode": "8B",
+        "quota_id": "8B-DPS"
+    },
+    {
+        "Date": "15-09-2026",
         "Time": "2200",
         "Time_at_Gate": "2050",
         "Dest": "CAN",
@@ -257112,16 +256052,6 @@
     },
     {
         "Date": "15-09-2026",
-        "Time": "1705",
-        "Time_at_Gate": "1555",
-        "Dest": "MFM",
-        "DTerm": "T4",
-        "Flight": "NX907",
-        "AirlineCode": "NX",
-        "quota_id": "NX-MFM"
-    },
-    {
-        "Date": "15-09-2026",
         "Time": "1020",
         "Time_at_Gate": "0910",
         "Dest": "KUL",
@@ -257482,16 +256412,6 @@
     },
     {
         "Date": "16-09-2026",
-        "Time": "1415",
-        "Time_at_Gate": "1305",
-        "Dest": "NKG",
-        "DTerm": "T1",
-        "Flight": "MF8642Z",
-        "AirlineCode": "MF",
-        "quota_id": "MF-NKG"
-    },
-    {
-        "Date": "16-09-2026",
         "Time": "0240",
         "Time_at_Gate": "0130",
         "Dest": "XMN",
@@ -257662,16 +256582,6 @@
     },
     {
         "Date": "16-09-2026",
-        "Time": "0400",
-        "Time_at_Gate": "0250",
-        "Dest": "XMN",
-        "DTerm": "T1",
-        "Flight": "SC2392",
-        "AirlineCode": "SC",
-        "quota_id": "SC-XMN"
-    },
-    {
-        "Date": "16-09-2026",
         "Time": "0115",
         "Time_at_Gate": "0005",
         "Dest": "TNA",
@@ -257709,16 +256619,6 @@
         "Flight": "TR008",
         "AirlineCode": "TR",
         "quota_id": "TR-PER"
-    },
-    {
-        "Date": "16-09-2026",
-        "Time": "0210",
-        "Time_at_Gate": "0100",
-        "Dest": "SYD",
-        "DTerm": "T1",
-        "Flight": "TR010",
-        "AirlineCode": "TR",
-        "quota_id": "TR-SYD"
     },
     {
         "Date": "16-09-2026",
@@ -257949,6 +256849,16 @@
         "Flight": "TR282",
         "AirlineCode": "TR",
         "quota_id": "TR-DPS"
+    },
+    {
+        "Date": "16-09-2026",
+        "Time": "1000",
+        "Time_at_Gate": "0850",
+        "Dest": "TJQ",
+        "DTerm": "T1",
+        "Flight": "TR284",
+        "AirlineCode": "TR",
+        "quota_id": "TR-TJQ"
     },
     {
         "Date": "16-09-2026",
@@ -258312,16 +257222,6 @@
     },
     {
         "Date": "16-09-2026",
-        "Time": "0730",
-        "Time_at_Gate": "0620",
-        "Dest": "HKT",
-        "DTerm": "T1",
-        "Flight": "TR658",
-        "AirlineCode": "TR",
-        "quota_id": "TR-HKT"
-    },
-    {
-        "Date": "16-09-2026",
         "Time": "0920",
         "Time_at_Gate": "0810",
         "Dest": "USM",
@@ -258482,16 +257382,6 @@
     },
     {
         "Date": "16-09-2026",
-        "Time": "1350",
-        "Time_at_Gate": "1240",
-        "Dest": "MFM",
-        "DTerm": "T1",
-        "Flight": "TR904",
-        "AirlineCode": "TR",
-        "quota_id": "TR-MFM"
-    },
-    {
-        "Date": "16-09-2026",
         "Time": "0300",
         "Time_at_Gate": "0150",
         "Dest": "SZX",
@@ -258519,16 +257409,6 @@
         "Flight": "ZH240",
         "AirlineCode": "ZH",
         "quota_id": "ZH-SZX"
-    },
-    {
-        "Date": "16-09-2026",
-        "Time": "0015",
-        "Time_at_Gate": "2305",
-        "Dest": "CGO",
-        "DTerm": "T2",
-        "Flight": "3U3748",
-        "AirlineCode": "3U",
-        "quota_id": "3U-CGO"
     },
     {
         "Date": "16-09-2026",
@@ -258619,56 +257499,6 @@
         "Flight": "6E1458",
         "AirlineCode": "6E",
         "quota_id": "6E-BLR"
-    },
-    {
-        "Date": "16-09-2026",
-        "Time": "1145",
-        "Time_at_Gate": "1035",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B152",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "16-09-2026",
-        "Time": "1530",
-        "Time_at_Gate": "1420",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B154",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "16-09-2026",
-        "Time": "2320",
-        "Time_at_Gate": "2210",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B156",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "16-09-2026",
-        "Time": "1055",
-        "Time_at_Gate": "0945",
-        "Dest": "DPS",
-        "DTerm": "T2",
-        "Flight": "8B552",
-        "AirlineCode": "8B",
-        "quota_id": "8B-DPS"
-    },
-    {
-        "Date": "16-09-2026",
-        "Time": "1415",
-        "Time_at_Gate": "1305",
-        "Dest": "DPS",
-        "DTerm": "T2",
-        "Flight": "8B554",
-        "AirlineCode": "8B",
-        "quota_id": "8B-DPS"
     },
     {
         "Date": "16-09-2026",
@@ -258949,6 +257779,16 @@
         "Flight": "NH844",
         "AirlineCode": "NH",
         "quota_id": "NH-HND"
+    },
+    {
+        "Date": "16-09-2026",
+        "Time": "1705",
+        "Time_at_Gate": "1555",
+        "Dest": "MFM",
+        "DTerm": "T2",
+        "Flight": "NX907",
+        "AirlineCode": "NX",
+        "quota_id": "NX-MFM"
     },
     {
         "Date": "16-09-2026",
@@ -261102,13 +259942,53 @@
     },
     {
         "Date": "16-09-2026",
-        "Time": "1200",
-        "Time_at_Gate": "1050",
-        "Dest": "DIL",
+        "Time": "1145",
+        "Time_at_Gate": "1035",
+        "Dest": "CGK",
         "DTerm": "T4",
-        "Flight": "8G998",
-        "AirlineCode": "8G",
-        "quota_id": "8G-DIL"
+        "Flight": "8B152",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "16-09-2026",
+        "Time": "1530",
+        "Time_at_Gate": "1420",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B154",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "16-09-2026",
+        "Time": "2320",
+        "Time_at_Gate": "2210",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B156",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "16-09-2026",
+        "Time": "1055",
+        "Time_at_Gate": "0945",
+        "Dest": "DPS",
+        "DTerm": "T4",
+        "Flight": "8B552",
+        "AirlineCode": "8B",
+        "quota_id": "8B-DPS"
+    },
+    {
+        "Date": "16-09-2026",
+        "Time": "1415",
+        "Time_at_Gate": "1305",
+        "Dest": "DPS",
+        "DTerm": "T4",
+        "Flight": "8B554",
+        "AirlineCode": "8B",
+        "quota_id": "8B-DPS"
     },
     {
         "Date": "16-09-2026",
@@ -261562,16 +260442,6 @@
     },
     {
         "Date": "16-09-2026",
-        "Time": "1705",
-        "Time_at_Gate": "1555",
-        "Dest": "MFM",
-        "DTerm": "T4",
-        "Flight": "NX907",
-        "AirlineCode": "NX",
-        "quota_id": "NX-MFM"
-    },
-    {
-        "Date": "16-09-2026",
         "Time": "1020",
         "Time_at_Gate": "0910",
         "Dest": "KUL",
@@ -261609,16 +260479,6 @@
         "Flight": "OD808",
         "AirlineCode": "OD",
         "quota_id": "OD-KUL"
-    },
-    {
-        "Date": "16-09-2026",
-        "Time": "0945",
-        "Time_at_Gate": "0835",
-        "Dest": "SZB",
-        "DTerm": "T4",
-        "Flight": "OD811",
-        "AirlineCode": "OD",
-        "quota_id": "OD-SZB"
     },
     {
         "Date": "16-09-2026",
@@ -261942,16 +260802,6 @@
     },
     {
         "Date": "17-09-2026",
-        "Time": "1415",
-        "Time_at_Gate": "1305",
-        "Dest": "NKG",
-        "DTerm": "T1",
-        "Flight": "MF8642Z",
-        "AirlineCode": "MF",
-        "quota_id": "MF-NKG"
-    },
-    {
-        "Date": "17-09-2026",
         "Time": "0240",
         "Time_at_Gate": "0130",
         "Dest": "XMN",
@@ -262089,16 +260939,6 @@
         "Flight": "QR947",
         "AirlineCode": "QR",
         "quota_id": "QR-DOH"
-    },
-    {
-        "Date": "17-09-2026",
-        "Time": "0400",
-        "Time_at_Gate": "0250",
-        "Dest": "XMN",
-        "DTerm": "T1",
-        "Flight": "SC2392",
-        "AirlineCode": "SC",
-        "quota_id": "SC-XMN"
     },
     {
         "Date": "17-09-2026",
@@ -262672,16 +261512,6 @@
     },
     {
         "Date": "17-09-2026",
-        "Time": "0155",
-        "Time_at_Gate": "0045",
-        "Dest": "CRK",
-        "DTerm": "T1",
-        "Flight": "TR568",
-        "AirlineCode": "TR",
-        "quota_id": "TR-CRK"
-    },
-    {
-        "Date": "17-09-2026",
         "Time": "0805",
         "Time_at_Gate": "0655",
         "Dest": "CEB",
@@ -262769,16 +261599,6 @@
         "Flight": "TR648",
         "AirlineCode": "TR",
         "quota_id": "TR-USM"
-    },
-    {
-        "Date": "17-09-2026",
-        "Time": "1850",
-        "Time_at_Gate": "1740",
-        "Dest": "HKT",
-        "DTerm": "T1",
-        "Flight": "TR652",
-        "AirlineCode": "TR",
-        "quota_id": "TR-HKT"
     },
     {
         "Date": "17-09-2026",
@@ -263099,56 +261919,6 @@
         "Flight": "6E1458",
         "AirlineCode": "6E",
         "quota_id": "6E-BLR"
-    },
-    {
-        "Date": "17-09-2026",
-        "Time": "1145",
-        "Time_at_Gate": "1035",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B152",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "17-09-2026",
-        "Time": "1530",
-        "Time_at_Gate": "1420",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B154",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "17-09-2026",
-        "Time": "2320",
-        "Time_at_Gate": "2210",
-        "Dest": "CGK",
-        "DTerm": "T2",
-        "Flight": "8B156",
-        "AirlineCode": "8B",
-        "quota_id": "8B-CGK"
-    },
-    {
-        "Date": "17-09-2026",
-        "Time": "1055",
-        "Time_at_Gate": "0945",
-        "Dest": "DPS",
-        "DTerm": "T2",
-        "Flight": "8B552",
-        "AirlineCode": "8B",
-        "quota_id": "8B-DPS"
-    },
-    {
-        "Date": "17-09-2026",
-        "Time": "1415",
-        "Time_at_Gate": "1305",
-        "Dest": "DPS",
-        "DTerm": "T2",
-        "Flight": "8B554",
-        "AirlineCode": "8B",
-        "quota_id": "8B-DPS"
     },
     {
         "Date": "17-09-2026",
@@ -265562,6 +264332,56 @@
     },
     {
         "Date": "17-09-2026",
+        "Time": "1145",
+        "Time_at_Gate": "1035",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B152",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "17-09-2026",
+        "Time": "1530",
+        "Time_at_Gate": "1420",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B154",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "17-09-2026",
+        "Time": "2320",
+        "Time_at_Gate": "2210",
+        "Dest": "CGK",
+        "DTerm": "T4",
+        "Flight": "8B156",
+        "AirlineCode": "8B",
+        "quota_id": "8B-CGK"
+    },
+    {
+        "Date": "17-09-2026",
+        "Time": "1055",
+        "Time_at_Gate": "0945",
+        "Dest": "DPS",
+        "DTerm": "T4",
+        "Flight": "8B552",
+        "AirlineCode": "8B",
+        "quota_id": "8B-DPS"
+    },
+    {
+        "Date": "17-09-2026",
+        "Time": "1415",
+        "Time_at_Gate": "1305",
+        "Dest": "DPS",
+        "DTerm": "T4",
+        "Flight": "8B554",
+        "AirlineCode": "8B",
+        "quota_id": "8B-DPS"
+    },
+    {
+        "Date": "17-09-2026",
         "Time": "2200",
         "Time_at_Gate": "2050",
         "Dest": "CAN",
@@ -266042,16 +264862,6 @@
     },
     {
         "Date": "17-09-2026",
-        "Time": "1255",
-        "Time_at_Gate": "1145",
-        "Dest": "KOS",
-        "DTerm": "T4",
-        "Flight": "KR754",
-        "AirlineCode": "KR",
-        "quota_id": "KR-KOS"
-    },
-    {
-        "Date": "17-09-2026",
         "Time": "1005",
         "Time_at_Gate": "0855",
         "Dest": "KCH",
@@ -266069,16 +264879,6 @@
         "Flight": "MY364",
         "AirlineCode": "MY",
         "quota_id": "MY-KCH"
-    },
-    {
-        "Date": "17-09-2026",
-        "Time": "1705",
-        "Time_at_Gate": "1555",
-        "Dest": "MFM",
-        "DTerm": "T4",
-        "Flight": "NX907",
-        "AirlineCode": "NX",
-        "quota_id": "NX-MFM"
     },
     {
         "Date": "17-09-2026",

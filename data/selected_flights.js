@@ -463,13 +463,6 @@
         "To": "TRZ"
     },
     {
-        "Flight": "SQ132",
-        "Date": "16-08-2026",
-        "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "PEN"
-    },
-    {
         "Flight": "SQ178",
         "Date": "16-08-2026",
         "No. Of": 5.0,
@@ -517,6 +510,13 @@
         "No. Of": 5.0,
         "Airline": "SQ",
         "To": "DAC"
+    },
+    {
+        "Flight": "8B156",
+        "Date": "16-08-2026",
+        "No. Of": 4.0,
+        "Airline": "8B",
+        "To": "CGK"
     },
     {
         "Flight": "SQ265",
@@ -624,11 +624,11 @@
         "To": "CMB"
     },
     {
-        "Flight": "8B152",
+        "Flight": "6E1340",
         "Date": "01-09-2026",
-        "No. Of": 5.0,
-        "Airline": "8B",
-        "To": "CGK"
+        "No. Of": 3.0,
+        "Airline": "6E",
+        "To": "BOM"
     },
     {
         "Flight": "SQ622",
@@ -652,11 +652,11 @@
         "To": "CGK"
     },
     {
-        "Flight": "6E1014",
+        "Flight": "SQ142",
         "Date": "01-09-2026",
-        "No. Of": 3.0,
-        "Airline": "6E",
-        "To": "DEL"
+        "No. Of": 4.0,
+        "Airline": "SQ",
+        "To": "PEN"
     },
     {
         "Flight": "SQ968",
@@ -783,6 +783,13 @@
         "No. Of": 3.0,
         "Airline": "SQ",
         "To": "FRA"
+    },
+    {
+        "Flight": "SQ406",
+        "Date": "10-09-2026",
+        "No. Of": 2.0,
+        "Airline": "SQ",
+        "To": "DEL"
     },
     {
         "Flight": "SQ034",

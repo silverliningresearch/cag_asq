@@ -74,7 +74,7 @@
     },
     {
         "Airline_Dest": "SQ-PEN",
-        "Quota": 5.0,
+        "Quota": 4.0,
         "Quarter": "2026-Q3",
         "Notes": ""
     },
@@ -123,6 +123,12 @@
     {
         "Airline_Dest": "SQ-BOM",
         "Quota": 3.0,
+        "Quarter": "2026-Q3",
+        "Notes": ""
+    },
+    {
+        "Airline_Dest": "SQ-DEL",
+        "Quota": 2.0,
         "Quarter": "2026-Q3",
         "Notes": ""
     },
@@ -308,13 +314,7 @@
     },
     {
         "Airline_Dest": "6E-BOM",
-        "Quota": 6.0,
-        "Quarter": "2026-Q3",
-        "Notes": ""
-    },
-    {
-        "Airline_Dest": "6E-DEL",
-        "Quota": 3.0,
+        "Quota": 9.0,
         "Quarter": "2026-Q3",
         "Notes": ""
     },
@@ -452,7 +452,7 @@
     },
     {
         "Airline_Dest": "8B-CGK",
-        "Quota": 5.0,
+        "Quota": 4.0,
         "Quarter": "2026-Q3",
         "Notes": ""
     },
