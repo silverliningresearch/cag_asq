@@ -463,6 +463,13 @@
         "To": "TRZ"
     },
     {
+        "Flight": "SQ132",
+        "Date": "16-08-2026",
+        "No. Of": 5.0,
+        "Airline": "SQ",
+        "To": "PEN"
+    },
+    {
         "Flight": "SQ178",
         "Date": "16-08-2026",
         "No. Of": 5.0,
@@ -510,13 +517,6 @@
         "No. Of": 5.0,
         "Airline": "SQ",
         "To": "DAC"
-    },
-    {
-        "Flight": "8B156",
-        "Date": "16-08-2026",
-        "No. Of": 4.0,
-        "Airline": "8B",
-        "To": "CGK"
     },
     {
         "Flight": "SQ265",
@@ -612,23 +612,16 @@
     {
         "Flight": "SQ600",
         "Date": "01-09-2026",
-        "No. Of": 3.0,
+        "No. Of": 5.0,
         "Airline": "SQ",
         "To": "ICN"
     },
     {
-        "Flight": "SQ462",
+        "Flight": "8B152",
         "Date": "01-09-2026",
         "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "CMB"
-    },
-    {
-        "Flight": "6E1340",
-        "Date": "01-09-2026",
-        "No. Of": 3.0,
-        "Airline": "6E",
-        "To": "BOM"
+        "Airline": "8B",
+        "To": "CGK"
     },
     {
         "Flight": "SQ622",
@@ -652,11 +645,11 @@
         "To": "CGK"
     },
     {
-        "Flight": "SQ142",
+        "Flight": "6E1014",
         "Date": "01-09-2026",
-        "No. Of": 4.0,
-        "Airline": "SQ",
-        "To": "PEN"
+        "No. Of": 3.0,
+        "Airline": "6E",
+        "To": "DEL"
     },
     {
         "Flight": "SQ968",
@@ -666,11 +659,11 @@
         "To": "CGK"
     },
     {
-        "Flight": "SQ223",
+        "Flight": "UL307",
         "Date": "04-09-2026",
         "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "PER"
+        "Airline": "UL",
+        "To": "CMB"
     },
     {
         "Flight": "SQ217",
@@ -694,11 +687,11 @@
         "To": "PVG"
     },
     {
-        "Flight": "SQ247",
+        "Flight": "SQ215",
         "Date": "04-09-2026",
         "No. Of": 5.0,
         "Airline": "SQ",
-        "To": "MEL"
+        "To": "PER"
     },
     {
         "Flight": "VN656",
@@ -787,7 +780,7 @@
     {
         "Flight": "SQ406",
         "Date": "10-09-2026",
-        "No. Of": 2.0,
+        "No. Of": 3.0,
         "Airline": "SQ",
         "To": "DEL"
     },
