@@ -95522,16 +95522,6 @@
     },
     {
         "Date": "04-08-2026",
-        "Time": "2100",
-        "Time_at_Gate": "1950",
-        "Dest": "SYX",
-        "DTerm": "T4",
-        "Flight": "DV778",
-        "AirlineCode": "DV",
-        "quota_id": "DV-SYX"
-    },
-    {
-        "Date": "04-08-2026",
         "Time": "1440",
         "Time_at_Gate": "1330",
         "Dest": "DMK",
@@ -101692,16 +101682,6 @@
     },
     {
         "Date": "07-08-2026",
-        "Time": "2100",
-        "Time_at_Gate": "1950",
-        "Dest": "MEL",
-        "DTerm": "T2",
-        "Flight": "JQ008",
-        "AirlineCode": "JQ",
-        "quota_id": "JQ-MEL"
-    },
-    {
-        "Date": "07-08-2026",
         "Time": "1925",
         "Time_at_Gate": "1815",
         "Dest": "DPS",
@@ -108752,16 +108732,6 @@
     },
     {
         "Date": "11-08-2026",
-        "Time": "2100",
-        "Time_at_Gate": "1950",
-        "Dest": "SYX",
-        "DTerm": "T4",
-        "Flight": "DV778",
-        "AirlineCode": "DV",
-        "quota_id": "DV-SYX"
-    },
-    {
-        "Date": "11-08-2026",
         "Time": "1440",
         "Time_at_Gate": "1330",
         "Dest": "DMK",
@@ -108829,16 +108799,6 @@
         "Flight": "HU748",
         "AirlineCode": "HU",
         "quota_id": "HU-HAK"
-    },
-    {
-        "Date": "11-08-2026",
-        "Time": "1400",
-        "Time_at_Gate": "1250",
-        "Dest": "KNO",
-        "DTerm": "T4",
-        "Flight": "ID7146",
-        "AirlineCode": "ID",
-        "quota_id": "ID-KNO"
     },
     {
         "Date": "11-08-2026",
@@ -110252,16 +110212,6 @@
     },
     {
         "Date": "13-08-2026",
-        "Time": "1615",
-        "Time_at_Gate": "1505",
-        "Dest": "JED",
-        "DTerm": "T1",
-        "Flight": "TR796",
-        "AirlineCode": "TR",
-        "quota_id": "TR-JED"
-    },
-    {
-        "Date": "13-08-2026",
         "Time": "0215",
         "Time_at_Gate": "0105",
         "Dest": "OKA",
@@ -110572,8 +110522,8 @@
     },
     {
         "Date": "13-08-2026",
-        "Time": "1550",
-        "Time_at_Gate": "1440",
+        "Time": "1745",
+        "Time_at_Gate": "1635",
         "Dest": "KUL",
         "DTerm": "T2",
         "Flight": "ET638",
@@ -111689,16 +111639,6 @@
         "Flight": "CI758",
         "AirlineCode": "CI",
         "quota_id": "CI-KHH"
-    },
-    {
-        "Date": "13-08-2026",
-        "Time": "0325",
-        "Time_at_Gate": "0215",
-        "Dest": "PVG",
-        "DTerm": "T3",
-        "Flight": "FM844",
-        "AirlineCode": "FM",
-        "quota_id": "FM-PVG"
     },
     {
         "Date": "13-08-2026",
@@ -115032,8 +114972,8 @@
     },
     {
         "Date": "14-08-2026",
-        "Time": "1550",
-        "Time_at_Gate": "1440",
+        "Time": "1720",
+        "Time_at_Gate": "1610",
         "Dest": "KUL",
         "DTerm": "T2",
         "Flight": "ET638",
@@ -116199,16 +116139,6 @@
         "Flight": "CI754",
         "AirlineCode": "CI",
         "quota_id": "CI-TPE"
-    },
-    {
-        "Date": "14-08-2026",
-        "Time": "0325",
-        "Time_at_Gate": "0215",
-        "Dest": "PVG",
-        "DTerm": "T3",
-        "Flight": "FM844",
-        "AirlineCode": "FM",
-        "quota_id": "FM-PVG"
     },
     {
         "Date": "14-08-2026",
@@ -119222,16 +119152,6 @@
     },
     {
         "Date": "15-08-2026",
-        "Time": "1615",
-        "Time_at_Gate": "1505",
-        "Dest": "JED",
-        "DTerm": "T1",
-        "Flight": "TR796",
-        "AirlineCode": "TR",
-        "quota_id": "TR-JED"
-    },
-    {
-        "Date": "15-08-2026",
         "Time": "0100",
         "Time_at_Gate": "2350",
         "Dest": "TPE",
@@ -119552,8 +119472,8 @@
     },
     {
         "Date": "15-08-2026",
-        "Time": "1550",
-        "Time_at_Gate": "1440",
+        "Time": "1720",
+        "Time_at_Gate": "1610",
         "Dest": "KUL",
         "DTerm": "T2",
         "Flight": "ET638",
@@ -120699,16 +120619,6 @@
         "Flight": "CI758",
         "AirlineCode": "CI",
         "quota_id": "CI-KHH"
-    },
-    {
-        "Date": "15-08-2026",
-        "Time": "0325",
-        "Time_at_Gate": "0215",
-        "Dest": "PVG",
-        "DTerm": "T3",
-        "Flight": "FM844",
-        "AirlineCode": "FM",
-        "quota_id": "FM-PVG"
     },
     {
         "Date": "15-08-2026",
@@ -122209,16 +122119,6 @@
         "Flight": "CX758",
         "AirlineCode": "CX",
         "quota_id": "CX-HKG"
-    },
-    {
-        "Date": "15-08-2026",
-        "Time": "2100",
-        "Time_at_Gate": "1950",
-        "Dest": "SYX",
-        "DTerm": "T4",
-        "Flight": "DV778",
-        "AirlineCode": "DV",
-        "quota_id": "DV-SYX"
     },
     {
         "Date": "15-08-2026",
@@ -124082,8 +123982,8 @@
     },
     {
         "Date": "16-08-2026",
-        "Time": "1550",
-        "Time_at_Gate": "1440",
+        "Time": "1720",
+        "Time_at_Gate": "1610",
         "Dest": "KUL",
         "DTerm": "T2",
         "Flight": "ET638",
@@ -125239,16 +125139,6 @@
         "Flight": "CI756",
         "AirlineCode": "CI",
         "quota_id": "CI-TPE"
-    },
-    {
-        "Date": "16-08-2026",
-        "Time": "0325",
-        "Time_at_Gate": "0215",
-        "Dest": "PVG",
-        "DTerm": "T3",
-        "Flight": "FM844",
-        "AirlineCode": "FM",
-        "quota_id": "FM-PVG"
     },
     {
         "Date": "16-08-2026",
@@ -128262,16 +128152,6 @@
     },
     {
         "Date": "17-08-2026",
-        "Time": "1615",
-        "Time_at_Gate": "1505",
-        "Dest": "JED",
-        "DTerm": "T1",
-        "Flight": "TR796",
-        "AirlineCode": "TR",
-        "quota_id": "TR-JED"
-    },
-    {
-        "Date": "17-08-2026",
         "Time": "0215",
         "Time_at_Gate": "0105",
         "Dest": "OKA",
@@ -129719,16 +129599,6 @@
         "Flight": "CI756",
         "AirlineCode": "CI",
         "quota_id": "CI-TPE"
-    },
-    {
-        "Date": "17-08-2026",
-        "Time": "0325",
-        "Time_at_Gate": "0215",
-        "Dest": "PVG",
-        "DTerm": "T3",
-        "Flight": "FM844",
-        "AirlineCode": "FM",
-        "quota_id": "FM-PVG"
     },
     {
         "Date": "17-08-2026",
@@ -131392,16 +131262,6 @@
     },
     {
         "Date": "17-08-2026",
-        "Time": "1930",
-        "Time_at_Gate": "1820",
-        "Dest": "SGN",
-        "DTerm": "T4",
-        "Flight": "VJ812",
-        "AirlineCode": "VJ",
-        "quota_id": "VJ-SGN"
-    },
-    {
-        "Date": "17-08-2026",
         "Time": "1755",
         "Time_at_Gate": "1645",
         "Dest": "SGN",
@@ -131439,16 +131299,6 @@
         "Flight": "VJ970",
         "AirlineCode": "VJ",
         "quota_id": "VJ-DAD"
-    },
-    {
-        "Date": "17-08-2026",
-        "Time": "1305",
-        "Time_at_Gate": "1155",
-        "Dest": "PQC",
-        "DTerm": "T4",
-        "Flight": "VJ984",
-        "AirlineCode": "VJ",
-        "quota_id": "VJ-PQC"
     },
     {
         "Date": "18-08-2026",
@@ -134032,16 +133882,6 @@
     },
     {
         "Date": "18-08-2026",
-        "Time": "0325",
-        "Time_at_Gate": "0215",
-        "Dest": "PVG",
-        "DTerm": "T3",
-        "Flight": "FM844",
-        "AirlineCode": "FM",
-        "quota_id": "FM-PVG"
-    },
-    {
-        "Date": "18-08-2026",
         "Time": "1800",
         "Time_at_Gate": "1650",
         "Dest": "CGK",
@@ -135512,16 +135352,6 @@
     },
     {
         "Date": "18-08-2026",
-        "Time": "2100",
-        "Time_at_Gate": "1950",
-        "Dest": "SYX",
-        "DTerm": "T4",
-        "Flight": "DV778",
-        "AirlineCode": "DV",
-        "quota_id": "DV-SYX"
-    },
-    {
-        "Date": "18-08-2026",
         "Time": "1440",
         "Time_at_Gate": "1330",
         "Dest": "DMK",
@@ -135589,16 +135419,6 @@
         "Flight": "HU748",
         "AirlineCode": "HU",
         "quota_id": "HU-HAK"
-    },
-    {
-        "Date": "18-08-2026",
-        "Time": "1400",
-        "Time_at_Gate": "1250",
-        "Dest": "KNO",
-        "DTerm": "T4",
-        "Flight": "ID7146",
-        "AirlineCode": "ID",
-        "quota_id": "ID-KNO"
     },
     {
         "Date": "18-08-2026",
@@ -135759,26 +135579,6 @@
         "Flight": "VJ814",
         "AirlineCode": "VJ",
         "quota_id": "VJ-SGN"
-    },
-    {
-        "Date": "18-08-2026",
-        "Time": "1525",
-        "Time_at_Gate": "1415",
-        "Dest": "SGN",
-        "DTerm": "T4",
-        "Flight": "VJ882",
-        "AirlineCode": "VJ",
-        "quota_id": "VJ-SGN"
-    },
-    {
-        "Date": "18-08-2026",
-        "Time": "1915",
-        "Time_at_Gate": "1805",
-        "Dest": "DAD",
-        "DTerm": "T4",
-        "Flight": "VJ890",
-        "AirlineCode": "VJ",
-        "quota_id": "VJ-DAD"
     },
     {
         "Date": "18-08-2026",
@@ -138392,16 +138192,6 @@
     },
     {
         "Date": "19-08-2026",
-        "Time": "0325",
-        "Time_at_Gate": "0215",
-        "Dest": "PVG",
-        "DTerm": "T3",
-        "Flight": "FM844",
-        "AirlineCode": "FM",
-        "quota_id": "FM-PVG"
-    },
-    {
-        "Date": "19-08-2026",
         "Time": "1800",
         "Time_at_Gate": "1650",
         "Dest": "CGK",
@@ -140042,16 +139832,6 @@
     },
     {
         "Date": "19-08-2026",
-        "Time": "1930",
-        "Time_at_Gate": "1820",
-        "Dest": "SGN",
-        "DTerm": "T4",
-        "Flight": "VJ812",
-        "AirlineCode": "VJ",
-        "quota_id": "VJ-SGN"
-    },
-    {
-        "Date": "19-08-2026",
         "Time": "1755",
         "Time_at_Gate": "1645",
         "Dest": "SGN",
@@ -140072,16 +139852,6 @@
     },
     {
         "Date": "19-08-2026",
-        "Time": "1915",
-        "Time_at_Gate": "1805",
-        "Dest": "DAD",
-        "DTerm": "T4",
-        "Flight": "VJ890",
-        "AirlineCode": "VJ",
-        "quota_id": "VJ-DAD"
-    },
-    {
-        "Date": "19-08-2026",
         "Time": "1455",
         "Time_at_Gate": "1345",
         "Dest": "HAN",
@@ -140099,16 +139869,6 @@
         "Flight": "VJ970",
         "AirlineCode": "VJ",
         "quota_id": "VJ-DAD"
-    },
-    {
-        "Date": "19-08-2026",
-        "Time": "1305",
-        "Time_at_Gate": "1155",
-        "Dest": "PQC",
-        "DTerm": "T4",
-        "Flight": "VJ984",
-        "AirlineCode": "VJ",
-        "quota_id": "VJ-PQC"
     },
     {
         "Date": "20-08-2026",
@@ -141319,16 +141079,6 @@
         "Flight": "TR766",
         "AirlineCode": "TR",
         "quota_id": "TR-TRZ"
-    },
-    {
-        "Date": "20-08-2026",
-        "Time": "1615",
-        "Time_at_Gate": "1505",
-        "Dest": "JED",
-        "DTerm": "T1",
-        "Flight": "TR796",
-        "AirlineCode": "TR",
-        "quota_id": "TR-JED"
     },
     {
         "Date": "20-08-2026",
@@ -142769,16 +142519,6 @@
         "Flight": "CI758",
         "AirlineCode": "CI",
         "quota_id": "CI-KHH"
-    },
-    {
-        "Date": "20-08-2026",
-        "Time": "0325",
-        "Time_at_Gate": "0215",
-        "Dest": "PVG",
-        "DTerm": "T3",
-        "Flight": "FM844",
-        "AirlineCode": "FM",
-        "quota_id": "FM-PVG"
     },
     {
         "Date": "20-08-2026",
@@ -144332,16 +144072,6 @@
     },
     {
         "Date": "20-08-2026",
-        "Time": "1400",
-        "Time_at_Gate": "1250",
-        "Dest": "KNO",
-        "DTerm": "T4",
-        "Flight": "ID7146",
-        "AirlineCode": "ID",
-        "quota_id": "ID-KNO"
-    },
-    {
-        "Date": "20-08-2026",
         "Time": "1615",
         "Time_at_Gate": "1505",
         "Dest": "CGK",
@@ -144507,16 +144237,6 @@
         "Dest": "SGN",
         "DTerm": "T4",
         "Flight": "VJ814",
-        "AirlineCode": "VJ",
-        "quota_id": "VJ-SGN"
-    },
-    {
-        "Date": "20-08-2026",
-        "Time": "1525",
-        "Time_at_Gate": "1415",
-        "Dest": "SGN",
-        "DTerm": "T4",
-        "Flight": "VJ882",
         "AirlineCode": "VJ",
         "quota_id": "VJ-SGN"
     },
@@ -147292,16 +147012,6 @@
     },
     {
         "Date": "21-08-2026",
-        "Time": "0325",
-        "Time_at_Gate": "0215",
-        "Dest": "PVG",
-        "DTerm": "T3",
-        "Flight": "FM844",
-        "AirlineCode": "FM",
-        "quota_id": "FM-PVG"
-    },
-    {
-        "Date": "21-08-2026",
         "Time": "1800",
         "Time_at_Gate": "1650",
         "Dest": "CGK",
@@ -149002,16 +148712,6 @@
     },
     {
         "Date": "21-08-2026",
-        "Time": "1930",
-        "Time_at_Gate": "1820",
-        "Dest": "SGN",
-        "DTerm": "T4",
-        "Flight": "VJ812",
-        "AirlineCode": "VJ",
-        "quota_id": "VJ-SGN"
-    },
-    {
-        "Date": "21-08-2026",
         "Time": "1755",
         "Time_at_Gate": "1645",
         "Dest": "SGN",
@@ -149049,16 +148749,6 @@
         "Flight": "VJ970",
         "AirlineCode": "VJ",
         "quota_id": "VJ-DAD"
-    },
-    {
-        "Date": "21-08-2026",
-        "Time": "1305",
-        "Time_at_Gate": "1155",
-        "Dest": "PQC",
-        "DTerm": "T4",
-        "Flight": "VJ984",
-        "AirlineCode": "VJ",
-        "quota_id": "VJ-PQC"
     },
     {
         "Date": "22-08-2026",
@@ -150299,16 +149989,6 @@
         "Flight": "TR784",
         "AirlineCode": "TR",
         "quota_id": "TR-VTZ"
-    },
-    {
-        "Date": "22-08-2026",
-        "Time": "1625",
-        "Time_at_Gate": "1515",
-        "Dest": "JED",
-        "DTerm": "T1",
-        "Flight": "TR796",
-        "AirlineCode": "TR",
-        "quota_id": "TR-JED"
     },
     {
         "Date": "22-08-2026",
@@ -151759,16 +151439,6 @@
         "Flight": "CI758",
         "AirlineCode": "CI",
         "quota_id": "CI-KHH"
-    },
-    {
-        "Date": "22-08-2026",
-        "Time": "0325",
-        "Time_at_Gate": "0215",
-        "Dest": "PVG",
-        "DTerm": "T3",
-        "Flight": "FM844",
-        "AirlineCode": "FM",
-        "quota_id": "FM-PVG"
     },
     {
         "Date": "22-08-2026",
@@ -153262,16 +152932,6 @@
     },
     {
         "Date": "22-08-2026",
-        "Time": "2100",
-        "Time_at_Gate": "1950",
-        "Dest": "SYX",
-        "DTerm": "T4",
-        "Flight": "DV778",
-        "AirlineCode": "DV",
-        "quota_id": "DV-SYX"
-    },
-    {
-        "Date": "22-08-2026",
         "Time": "1440",
         "Time_at_Gate": "1330",
         "Dest": "DMK",
@@ -153339,16 +152999,6 @@
         "Flight": "HU748",
         "AirlineCode": "HU",
         "quota_id": "HU-HAK"
-    },
-    {
-        "Date": "22-08-2026",
-        "Time": "1400",
-        "Time_at_Gate": "1250",
-        "Dest": "KNO",
-        "DTerm": "T4",
-        "Flight": "ID7146",
-        "AirlineCode": "ID",
-        "quota_id": "ID-KNO"
     },
     {
         "Date": "22-08-2026",
@@ -153519,26 +153169,6 @@
         "Flight": "VJ814",
         "AirlineCode": "VJ",
         "quota_id": "VJ-SGN"
-    },
-    {
-        "Date": "22-08-2026",
-        "Time": "1525",
-        "Time_at_Gate": "1415",
-        "Dest": "SGN",
-        "DTerm": "T4",
-        "Flight": "VJ882",
-        "AirlineCode": "VJ",
-        "quota_id": "VJ-SGN"
-    },
-    {
-        "Date": "22-08-2026",
-        "Time": "1915",
-        "Time_at_Gate": "1805",
-        "Dest": "DAD",
-        "DTerm": "T4",
-        "Flight": "VJ890",
-        "AirlineCode": "VJ",
-        "quota_id": "VJ-DAD"
     },
     {
         "Date": "22-08-2026",
@@ -156332,16 +155962,6 @@
     },
     {
         "Date": "23-08-2026",
-        "Time": "0325",
-        "Time_at_Gate": "0215",
-        "Dest": "PVG",
-        "DTerm": "T3",
-        "Flight": "FM844",
-        "AirlineCode": "FM",
-        "quota_id": "FM-PVG"
-    },
-    {
-        "Date": "23-08-2026",
         "Time": "1800",
         "Time_at_Gate": "1650",
         "Dest": "CGK",
@@ -158052,16 +157672,6 @@
     },
     {
         "Date": "23-08-2026",
-        "Time": "1210",
-        "Time_at_Gate": "1100",
-        "Dest": "DMK",
-        "DTerm": "T4",
-        "Flight": "SL101",
-        "AirlineCode": "SL",
-        "quota_id": "SL-DMK"
-    },
-    {
-        "Date": "23-08-2026",
         "Time": "1930",
         "Time_at_Gate": "1820",
         "Dest": "SGN",
@@ -158077,16 +157687,6 @@
         "Dest": "SGN",
         "DTerm": "T4",
         "Flight": "VJ814",
-        "AirlineCode": "VJ",
-        "quota_id": "VJ-SGN"
-    },
-    {
-        "Date": "23-08-2026",
-        "Time": "1525",
-        "Time_at_Gate": "1415",
-        "Dest": "SGN",
-        "DTerm": "T4",
-        "Flight": "VJ882",
         "AirlineCode": "VJ",
         "quota_id": "VJ-SGN"
     },
@@ -159332,16 +158932,6 @@
     },
     {
         "Date": "24-08-2026",
-        "Time": "1615",
-        "Time_at_Gate": "1505",
-        "Dest": "JED",
-        "DTerm": "T1",
-        "Flight": "TR796",
-        "AirlineCode": "TR",
-        "quota_id": "TR-JED"
-    },
-    {
-        "Date": "24-08-2026",
         "Time": "0215",
         "Time_at_Gate": "0105",
         "Dest": "OKA",
@@ -160172,8 +159762,8 @@
     },
     {
         "Date": "24-08-2026",
-        "Time": "0930",
-        "Time_at_Gate": "0820",
+        "Time": "0910",
+        "Time_at_Gate": "0800",
         "Dest": "CMB",
         "DTerm": "T2",
         "Flight": "SQ462",
@@ -160779,16 +160369,6 @@
         "Flight": "CI754",
         "AirlineCode": "CI",
         "quota_id": "CI-TPE"
-    },
-    {
-        "Date": "24-08-2026",
-        "Time": "0325",
-        "Time_at_Gate": "0215",
-        "Dest": "PVG",
-        "DTerm": "T3",
-        "Flight": "FM844",
-        "AirlineCode": "FM",
-        "quota_id": "FM-PVG"
     },
     {
         "Date": "24-08-2026",
@@ -161702,8 +161282,8 @@
     },
     {
         "Date": "24-08-2026",
-        "Time": "1740",
-        "Time_at_Gate": "1630",
+        "Time": "1720",
+        "Time_at_Gate": "1610",
         "Dest": "HGH",
         "DTerm": "T3",
         "Flight": "SQ838",
@@ -162452,26 +162032,6 @@
     },
     {
         "Date": "24-08-2026",
-        "Time": "1210",
-        "Time_at_Gate": "1100",
-        "Dest": "DMK",
-        "DTerm": "T4",
-        "Flight": "SL101",
-        "AirlineCode": "SL",
-        "quota_id": "SL-DMK"
-    },
-    {
-        "Date": "24-08-2026",
-        "Time": "1930",
-        "Time_at_Gate": "1820",
-        "Dest": "SGN",
-        "DTerm": "T4",
-        "Flight": "VJ812",
-        "AirlineCode": "VJ",
-        "quota_id": "VJ-SGN"
-    },
-    {
-        "Date": "24-08-2026",
         "Time": "1755",
         "Time_at_Gate": "1645",
         "Dest": "SGN",
@@ -162509,16 +162069,6 @@
         "Flight": "VJ970",
         "AirlineCode": "VJ",
         "quota_id": "VJ-DAD"
-    },
-    {
-        "Date": "24-08-2026",
-        "Time": "1305",
-        "Time_at_Gate": "1155",
-        "Dest": "PQC",
-        "DTerm": "T4",
-        "Flight": "VJ984",
-        "AirlineCode": "VJ",
-        "quota_id": "VJ-PQC"
     },
     {
         "Date": "25-08-2026",
@@ -164472,8 +164022,8 @@
     },
     {
         "Date": "25-08-2026",
-        "Time": "0930",
-        "Time_at_Gate": "0820",
+        "Time": "0910",
+        "Time_at_Gate": "0800",
         "Dest": "CMB",
         "DTerm": "T2",
         "Flight": "SQ462",
@@ -165239,16 +164789,6 @@
         "Flight": "MU2070",
         "AirlineCode": "MU",
         "quota_id": "MU-XIY"
-    },
-    {
-        "Date": "25-08-2026",
-        "Time": "0055",
-        "Time_at_Gate": "2345",
-        "Dest": "PKX",
-        "DTerm": "T3",
-        "Flight": "MU5032",
-        "AirlineCode": "MU",
-        "quota_id": "MU-PKX"
     },
     {
         "Date": "25-08-2026",
@@ -166032,8 +165572,8 @@
     },
     {
         "Date": "25-08-2026",
-        "Time": "1740",
-        "Time_at_Gate": "1630",
+        "Time": "1720",
+        "Time_at_Gate": "1610",
         "Dest": "HGH",
         "DTerm": "T3",
         "Flight": "SQ838",
@@ -166552,16 +166092,6 @@
     },
     {
         "Date": "25-08-2026",
-        "Time": "2100",
-        "Time_at_Gate": "1950",
-        "Dest": "SYX",
-        "DTerm": "T4",
-        "Flight": "DV778",
-        "AirlineCode": "DV",
-        "quota_id": "DV-SYX"
-    },
-    {
-        "Date": "25-08-2026",
         "Time": "1440",
         "Time_at_Gate": "1330",
         "Dest": "DMK",
@@ -166629,16 +166159,6 @@
         "Flight": "HU748",
         "AirlineCode": "HU",
         "quota_id": "HU-HAK"
-    },
-    {
-        "Date": "25-08-2026",
-        "Time": "1400",
-        "Time_at_Gate": "1250",
-        "Dest": "KNO",
-        "DTerm": "T4",
-        "Flight": "ID7146",
-        "AirlineCode": "ID",
-        "quota_id": "ID-KNO"
     },
     {
         "Date": "25-08-2026",
@@ -166782,16 +166302,6 @@
     },
     {
         "Date": "25-08-2026",
-        "Time": "1210",
-        "Time_at_Gate": "1100",
-        "Dest": "DMK",
-        "DTerm": "T4",
-        "Flight": "SL101",
-        "AirlineCode": "SL",
-        "quota_id": "SL-DMK"
-    },
-    {
-        "Date": "25-08-2026",
         "Time": "1930",
         "Time_at_Gate": "1820",
         "Dest": "SGN",
@@ -166809,26 +166319,6 @@
         "Flight": "VJ814",
         "AirlineCode": "VJ",
         "quota_id": "VJ-SGN"
-    },
-    {
-        "Date": "25-08-2026",
-        "Time": "1525",
-        "Time_at_Gate": "1415",
-        "Dest": "SGN",
-        "DTerm": "T4",
-        "Flight": "VJ882",
-        "AirlineCode": "VJ",
-        "quota_id": "VJ-SGN"
-    },
-    {
-        "Date": "25-08-2026",
-        "Time": "1915",
-        "Time_at_Gate": "1805",
-        "Dest": "DAD",
-        "DTerm": "T4",
-        "Flight": "VJ890",
-        "AirlineCode": "VJ",
-        "quota_id": "VJ-DAD"
     },
     {
         "Date": "25-08-2026",
@@ -168772,8 +168262,8 @@
     },
     {
         "Date": "26-08-2026",
-        "Time": "0930",
-        "Time_at_Gate": "0820",
+        "Time": "0910",
+        "Time_at_Gate": "0800",
         "Dest": "CMB",
         "DTerm": "T2",
         "Flight": "SQ462",
@@ -170332,8 +169822,8 @@
     },
     {
         "Date": "26-08-2026",
-        "Time": "1740",
-        "Time_at_Gate": "1630",
+        "Time": "1720",
+        "Time_at_Gate": "1610",
         "Dest": "HGH",
         "DTerm": "T3",
         "Flight": "SQ838",
@@ -171012,26 +170502,6 @@
     },
     {
         "Date": "26-08-2026",
-        "Time": "1210",
-        "Time_at_Gate": "1100",
-        "Dest": "DMK",
-        "DTerm": "T4",
-        "Flight": "SL101",
-        "AirlineCode": "SL",
-        "quota_id": "SL-DMK"
-    },
-    {
-        "Date": "26-08-2026",
-        "Time": "1930",
-        "Time_at_Gate": "1820",
-        "Dest": "SGN",
-        "DTerm": "T4",
-        "Flight": "VJ812",
-        "AirlineCode": "VJ",
-        "quota_id": "VJ-SGN"
-    },
-    {
-        "Date": "26-08-2026",
         "Time": "1755",
         "Time_at_Gate": "1645",
         "Dest": "SGN",
@@ -171052,16 +170522,6 @@
     },
     {
         "Date": "26-08-2026",
-        "Time": "1915",
-        "Time_at_Gate": "1805",
-        "Dest": "DAD",
-        "DTerm": "T4",
-        "Flight": "VJ890",
-        "AirlineCode": "VJ",
-        "quota_id": "VJ-DAD"
-    },
-    {
-        "Date": "26-08-2026",
         "Time": "1455",
         "Time_at_Gate": "1345",
         "Dest": "HAN",
@@ -171079,16 +170539,6 @@
         "Flight": "VJ970",
         "AirlineCode": "VJ",
         "quota_id": "VJ-DAD"
-    },
-    {
-        "Date": "26-08-2026",
-        "Time": "1305",
-        "Time_at_Gate": "1155",
-        "Dest": "PQC",
-        "DTerm": "T4",
-        "Flight": "VJ984",
-        "AirlineCode": "VJ",
-        "quota_id": "VJ-PQC"
     },
     {
         "Date": "27-08-2026",
@@ -172292,16 +171742,6 @@
     },
     {
         "Date": "27-08-2026",
-        "Time": "1615",
-        "Time_at_Gate": "1505",
-        "Dest": "JED",
-        "DTerm": "T1",
-        "Flight": "TR796",
-        "AirlineCode": "TR",
-        "quota_id": "TR-JED"
-    },
-    {
-        "Date": "27-08-2026",
         "Time": "0215",
         "Time_at_Gate": "0105",
         "Dest": "OKA",
@@ -173102,8 +172542,8 @@
     },
     {
         "Date": "27-08-2026",
-        "Time": "0930",
-        "Time_at_Gate": "0820",
+        "Time": "0910",
+        "Time_at_Gate": "0800",
         "Dest": "CMB",
         "DTerm": "T2",
         "Flight": "SQ462",
@@ -174632,8 +174072,8 @@
     },
     {
         "Date": "27-08-2026",
-        "Time": "1740",
-        "Time_at_Gate": "1630",
+        "Time": "1720",
+        "Time_at_Gate": "1610",
         "Dest": "HGH",
         "DTerm": "T3",
         "Flight": "SQ838",
@@ -175272,16 +174712,6 @@
     },
     {
         "Date": "27-08-2026",
-        "Time": "1400",
-        "Time_at_Gate": "1250",
-        "Dest": "KNO",
-        "DTerm": "T4",
-        "Flight": "ID7146",
-        "AirlineCode": "ID",
-        "quota_id": "ID-KNO"
-    },
-    {
-        "Date": "27-08-2026",
         "Time": "1615",
         "Time_at_Gate": "1505",
         "Dest": "CGK",
@@ -175449,26 +174879,6 @@
         "Flight": "VJ814",
         "AirlineCode": "VJ",
         "quota_id": "VJ-SGN"
-    },
-    {
-        "Date": "27-08-2026",
-        "Time": "1525",
-        "Time_at_Gate": "1415",
-        "Dest": "SGN",
-        "DTerm": "T4",
-        "Flight": "VJ882",
-        "AirlineCode": "VJ",
-        "quota_id": "VJ-SGN"
-    },
-    {
-        "Date": "27-08-2026",
-        "Time": "1915",
-        "Time_at_Gate": "1805",
-        "Dest": "DAD",
-        "DTerm": "T4",
-        "Flight": "VJ890",
-        "AirlineCode": "VJ",
-        "quota_id": "VJ-DAD"
     },
     {
         "Date": "27-08-2026",
@@ -177572,8 +176982,8 @@
     },
     {
         "Date": "28-08-2026",
-        "Time": "0930",
-        "Time_at_Gate": "0820",
+        "Time": "0910",
+        "Time_at_Gate": "0800",
         "Dest": "CMB",
         "DTerm": "T2",
         "Flight": "SQ462",
@@ -179182,8 +178592,8 @@
     },
     {
         "Date": "28-08-2026",
-        "Time": "1740",
-        "Time_at_Gate": "1630",
+        "Time": "1720",
+        "Time_at_Gate": "1610",
         "Dest": "HGH",
         "DTerm": "T3",
         "Flight": "SQ838",
@@ -179922,16 +179332,6 @@
     },
     {
         "Date": "28-08-2026",
-        "Time": "1930",
-        "Time_at_Gate": "1820",
-        "Dest": "SGN",
-        "DTerm": "T4",
-        "Flight": "VJ812",
-        "AirlineCode": "VJ",
-        "quota_id": "VJ-SGN"
-    },
-    {
-        "Date": "28-08-2026",
         "Time": "1755",
         "Time_at_Gate": "1645",
         "Dest": "SGN",
@@ -179969,16 +179369,6 @@
         "Flight": "VJ970",
         "AirlineCode": "VJ",
         "quota_id": "VJ-DAD"
-    },
-    {
-        "Date": "28-08-2026",
-        "Time": "1305",
-        "Time_at_Gate": "1155",
-        "Dest": "PQC",
-        "DTerm": "T4",
-        "Flight": "VJ984",
-        "AirlineCode": "VJ",
-        "quota_id": "VJ-PQC"
     },
     {
         "Date": "29-08-2026",
@@ -181182,16 +180572,6 @@
     },
     {
         "Date": "29-08-2026",
-        "Time": "1615",
-        "Time_at_Gate": "1505",
-        "Dest": "JED",
-        "DTerm": "T1",
-        "Flight": "TR796",
-        "AirlineCode": "TR",
-        "quota_id": "TR-JED"
-    },
-    {
-        "Date": "29-08-2026",
         "Time": "0100",
         "Time_at_Gate": "2350",
         "Dest": "TPE",
@@ -182022,8 +181402,8 @@
     },
     {
         "Date": "29-08-2026",
-        "Time": "0930",
-        "Time_at_Gate": "0820",
+        "Time": "0910",
+        "Time_at_Gate": "0800",
         "Dest": "CMB",
         "DTerm": "T2",
         "Flight": "SQ462",
@@ -183622,8 +183002,8 @@
     },
     {
         "Date": "29-08-2026",
-        "Time": "1740",
-        "Time_at_Gate": "1630",
+        "Time": "1720",
+        "Time_at_Gate": "1610",
         "Dest": "HGH",
         "DTerm": "T3",
         "Flight": "SQ838",
@@ -184182,16 +183562,6 @@
     },
     {
         "Date": "29-08-2026",
-        "Time": "2100",
-        "Time_at_Gate": "1950",
-        "Dest": "SYX",
-        "DTerm": "T4",
-        "Flight": "DV778",
-        "AirlineCode": "DV",
-        "quota_id": "DV-SYX"
-    },
-    {
-        "Date": "29-08-2026",
         "Time": "1440",
         "Time_at_Gate": "1330",
         "Dest": "DMK",
@@ -184259,16 +183629,6 @@
         "Flight": "HU748",
         "AirlineCode": "HU",
         "quota_id": "HU-HAK"
-    },
-    {
-        "Date": "29-08-2026",
-        "Time": "1400",
-        "Time_at_Gate": "1250",
-        "Dest": "KNO",
-        "DTerm": "T4",
-        "Flight": "ID7146",
-        "AirlineCode": "ID",
-        "quota_id": "ID-KNO"
     },
     {
         "Date": "29-08-2026",
@@ -184412,16 +183772,6 @@
     },
     {
         "Date": "29-08-2026",
-        "Time": "1210",
-        "Time_at_Gate": "1100",
-        "Dest": "DMK",
-        "DTerm": "T4",
-        "Flight": "SL101",
-        "AirlineCode": "SL",
-        "quota_id": "SL-DMK"
-    },
-    {
-        "Date": "29-08-2026",
         "Time": "1930",
         "Time_at_Gate": "1820",
         "Dest": "SGN",
@@ -184439,26 +183789,6 @@
         "Flight": "VJ814",
         "AirlineCode": "VJ",
         "quota_id": "VJ-SGN"
-    },
-    {
-        "Date": "29-08-2026",
-        "Time": "1525",
-        "Time_at_Gate": "1415",
-        "Dest": "SGN",
-        "DTerm": "T4",
-        "Flight": "VJ882",
-        "AirlineCode": "VJ",
-        "quota_id": "VJ-SGN"
-    },
-    {
-        "Date": "29-08-2026",
-        "Time": "1915",
-        "Time_at_Gate": "1805",
-        "Dest": "DAD",
-        "DTerm": "T4",
-        "Flight": "VJ890",
-        "AirlineCode": "VJ",
-        "quota_id": "VJ-DAD"
     },
     {
         "Date": "29-08-2026",
@@ -186572,8 +185902,8 @@
     },
     {
         "Date": "30-08-2026",
-        "Time": "0930",
-        "Time_at_Gate": "0820",
+        "Time": "0910",
+        "Time_at_Gate": "0800",
         "Dest": "CMB",
         "DTerm": "T2",
         "Flight": "SQ462",
@@ -188172,8 +187502,8 @@
     },
     {
         "Date": "30-08-2026",
-        "Time": "1740",
-        "Time_at_Gate": "1630",
+        "Time": "1720",
+        "Time_at_Gate": "1610",
         "Dest": "HGH",
         "DTerm": "T3",
         "Flight": "SQ838",
@@ -188902,16 +188232,6 @@
     },
     {
         "Date": "30-08-2026",
-        "Time": "1210",
-        "Time_at_Gate": "1100",
-        "Dest": "DMK",
-        "DTerm": "T4",
-        "Flight": "SL101",
-        "AirlineCode": "SL",
-        "quota_id": "SL-DMK"
-    },
-    {
-        "Date": "30-08-2026",
         "Time": "1930",
         "Time_at_Gate": "1820",
         "Dest": "SGN",
@@ -188927,16 +188247,6 @@
         "Dest": "SGN",
         "DTerm": "T4",
         "Flight": "VJ814",
-        "AirlineCode": "VJ",
-        "quota_id": "VJ-SGN"
-    },
-    {
-        "Date": "30-08-2026",
-        "Time": "1525",
-        "Time_at_Gate": "1415",
-        "Dest": "SGN",
-        "DTerm": "T4",
-        "Flight": "VJ882",
         "AirlineCode": "VJ",
         "quota_id": "VJ-SGN"
     },
@@ -190172,16 +189482,6 @@
     },
     {
         "Date": "31-08-2026",
-        "Time": "1615",
-        "Time_at_Gate": "1505",
-        "Dest": "JED",
-        "DTerm": "T1",
-        "Flight": "TR796",
-        "AirlineCode": "TR",
-        "quota_id": "TR-JED"
-    },
-    {
-        "Date": "31-08-2026",
         "Time": "0035",
         "Time_at_Gate": "2325",
         "Dest": "CJU",
@@ -191032,8 +190332,8 @@
     },
     {
         "Date": "31-08-2026",
-        "Time": "0930",
-        "Time_at_Gate": "0820",
+        "Time": "0910",
+        "Time_at_Gate": "0800",
         "Dest": "CMB",
         "DTerm": "T2",
         "Flight": "SQ462",
@@ -192582,8 +191882,8 @@
     },
     {
         "Date": "31-08-2026",
-        "Time": "1740",
-        "Time_at_Gate": "1630",
+        "Time": "1720",
+        "Time_at_Gate": "1610",
         "Dest": "HGH",
         "DTerm": "T3",
         "Flight": "SQ838",
@@ -193352,26 +192652,6 @@
     },
     {
         "Date": "31-08-2026",
-        "Time": "1210",
-        "Time_at_Gate": "1100",
-        "Dest": "DMK",
-        "DTerm": "T4",
-        "Flight": "SL101",
-        "AirlineCode": "SL",
-        "quota_id": "SL-DMK"
-    },
-    {
-        "Date": "31-08-2026",
-        "Time": "1930",
-        "Time_at_Gate": "1820",
-        "Dest": "SGN",
-        "DTerm": "T4",
-        "Flight": "VJ812",
-        "AirlineCode": "VJ",
-        "quota_id": "VJ-SGN"
-    },
-    {
-        "Date": "31-08-2026",
         "Time": "1755",
         "Time_at_Gate": "1645",
         "Dest": "SGN",
@@ -193409,16 +192689,6 @@
         "Flight": "VJ970",
         "AirlineCode": "VJ",
         "quota_id": "VJ-DAD"
-    },
-    {
-        "Date": "31-08-2026",
-        "Time": "1305",
-        "Time_at_Gate": "1155",
-        "Dest": "PQC",
-        "DTerm": "T4",
-        "Flight": "VJ984",
-        "AirlineCode": "VJ",
-        "quota_id": "VJ-PQC"
     },
     {
         "Date": "01-09-2026",
@@ -193479,16 +192749,6 @@
         "Flight": "BA016",
         "AirlineCode": "BA",
         "quota_id": "BA-LHR"
-    },
-    {
-        "Date": "01-09-2026",
-        "Time": "1500",
-        "Time_at_Gate": "1350",
-        "Dest": "CKG",
-        "DTerm": "T1",
-        "Flight": "CA490",
-        "AirlineCode": "CA",
-        "quota_id": "CA-CKG"
     },
     {
         "Date": "01-09-2026",
@@ -193669,16 +192929,6 @@
         "Flight": "MF8704",
         "AirlineCode": "MF",
         "quota_id": "MF-HGH"
-    },
-    {
-        "Date": "01-09-2026",
-        "Time": "1435",
-        "Time_at_Gate": "1325",
-        "Dest": "CKG",
-        "DTerm": "T1",
-        "Flight": "OQ2096",
-        "AirlineCode": "OQ",
-        "quota_id": "OQ-CKG"
     },
     {
         "Date": "01-09-2026",
@@ -195312,8 +194562,8 @@
     },
     {
         "Date": "01-09-2026",
-        "Time": "0930",
-        "Time_at_Gate": "0820",
+        "Time": "0910",
+        "Time_at_Gate": "0800",
         "Dest": "CMB",
         "DTerm": "T2",
         "Flight": "SQ462",
@@ -196082,16 +195332,6 @@
     },
     {
         "Date": "01-09-2026",
-        "Time": "0300",
-        "Time_at_Gate": "0150",
-        "Dest": "HGH",
-        "DTerm": "T3",
-        "Flight": "MU898",
-        "AirlineCode": "MU",
-        "quota_id": "MU-HGH"
-    },
-    {
-        "Date": "01-09-2026",
         "Time": "1415",
         "Time_at_Gate": "1305",
         "Dest": "XIY",
@@ -196099,16 +195339,6 @@
         "Flight": "MU2070",
         "AirlineCode": "MU",
         "quota_id": "MU-XIY"
-    },
-    {
-        "Date": "01-09-2026",
-        "Time": "0055",
-        "Time_at_Gate": "2345",
-        "Dest": "PKX",
-        "DTerm": "T3",
-        "Flight": "MU5032",
-        "AirlineCode": "MU",
-        "quota_id": "MU-PKX"
     },
     {
         "Date": "01-09-2026",
@@ -196882,8 +196112,8 @@
     },
     {
         "Date": "01-09-2026",
-        "Time": "1740",
-        "Time_at_Gate": "1630",
+        "Time": "1720",
+        "Time_at_Gate": "1610",
         "Dest": "HGH",
         "DTerm": "T3",
         "Flight": "SQ838",
@@ -197442,16 +196672,6 @@
     },
     {
         "Date": "01-09-2026",
-        "Time": "2100",
-        "Time_at_Gate": "1950",
-        "Dest": "SYX",
-        "DTerm": "T4",
-        "Flight": "DV778",
-        "AirlineCode": "DV",
-        "quota_id": "DV-SYX"
-    },
-    {
-        "Date": "01-09-2026",
         "Time": "1440",
         "Time_at_Gate": "1330",
         "Dest": "DMK",
@@ -197522,16 +196742,6 @@
     },
     {
         "Date": "01-09-2026",
-        "Time": "1400",
-        "Time_at_Gate": "1250",
-        "Dest": "KNO",
-        "DTerm": "T4",
-        "Flight": "ID7146",
-        "AirlineCode": "ID",
-        "quota_id": "ID-KNO"
-    },
-    {
-        "Date": "01-09-2026",
         "Time": "1615",
         "Time_at_Gate": "1505",
         "Dest": "CGK",
@@ -197582,13 +196792,13 @@
     },
     {
         "Date": "01-09-2026",
-        "Time": "2250",
-        "Time_at_Gate": "2140",
-        "Dest": "CCU",
+        "Time": "1000",
+        "Time_at_Gate": "0850",
+        "Dest": "CGK",
         "DTerm": "T4",
-        "Flight": "ID7165",
+        "Flight": "ID7164",
         "AirlineCode": "ID",
-        "quota_id": "ID-CCU"
+        "quota_id": "ID-CGK"
     },
     {
         "Date": "01-09-2026",
@@ -197739,26 +196949,6 @@
         "Flight": "VJ814",
         "AirlineCode": "VJ",
         "quota_id": "VJ-SGN"
-    },
-    {
-        "Date": "01-09-2026",
-        "Time": "1525",
-        "Time_at_Gate": "1415",
-        "Dest": "SGN",
-        "DTerm": "T4",
-        "Flight": "VJ882",
-        "AirlineCode": "VJ",
-        "quota_id": "VJ-SGN"
-    },
-    {
-        "Date": "01-09-2026",
-        "Time": "1915",
-        "Time_at_Gate": "1805",
-        "Dest": "DAD",
-        "DTerm": "T4",
-        "Flight": "VJ890",
-        "AirlineCode": "VJ",
-        "quota_id": "VJ-DAD"
     },
     {
         "Date": "01-09-2026",
@@ -198039,16 +197229,6 @@
         "Flight": "MF8704",
         "AirlineCode": "MF",
         "quota_id": "MF-HGH"
-    },
-    {
-        "Date": "02-09-2026",
-        "Time": "1435",
-        "Time_at_Gate": "1325",
-        "Dest": "CKG",
-        "DTerm": "T1",
-        "Flight": "OQ2096",
-        "AirlineCode": "OQ",
-        "quota_id": "OQ-CKG"
     },
     {
         "Date": "02-09-2026",
@@ -199722,8 +198902,8 @@
     },
     {
         "Date": "02-09-2026",
-        "Time": "0930",
-        "Time_at_Gate": "0820",
+        "Time": "0910",
+        "Time_at_Gate": "0800",
         "Dest": "CMB",
         "DTerm": "T2",
         "Flight": "SQ462",
@@ -201312,8 +200492,8 @@
     },
     {
         "Date": "02-09-2026",
-        "Time": "1740",
-        "Time_at_Gate": "1630",
+        "Time": "1720",
+        "Time_at_Gate": "1610",
         "Dest": "HGH",
         "DTerm": "T3",
         "Flight": "SQ838",
@@ -201972,16 +201152,6 @@
     },
     {
         "Date": "02-09-2026",
-        "Time": "2250",
-        "Time_at_Gate": "2140",
-        "Dest": "MAA",
-        "DTerm": "T4",
-        "Flight": "ID7163",
-        "AirlineCode": "ID",
-        "quota_id": "ID-MAA"
-    },
-    {
-        "Date": "02-09-2026",
         "Time": "1000",
         "Time_at_Gate": "0850",
         "Dest": "CGK",
@@ -202092,6 +201262,16 @@
     },
     {
         "Date": "02-09-2026",
+        "Time": "0945",
+        "Time_at_Gate": "0835",
+        "Dest": "SZB",
+        "DTerm": "T4",
+        "Flight": "OD811",
+        "AirlineCode": "OD",
+        "quota_id": "OD-SZB"
+    },
+    {
+        "Date": "02-09-2026",
         "Time": "1210",
         "Time_at_Gate": "1100",
         "Dest": "DMK",
@@ -202099,16 +201279,6 @@
         "Flight": "SL101",
         "AirlineCode": "SL",
         "quota_id": "SL-DMK"
-    },
-    {
-        "Date": "02-09-2026",
-        "Time": "1930",
-        "Time_at_Gate": "1820",
-        "Dest": "SGN",
-        "DTerm": "T4",
-        "Flight": "VJ812",
-        "AirlineCode": "VJ",
-        "quota_id": "VJ-SGN"
     },
     {
         "Date": "02-09-2026",
@@ -202132,16 +201302,6 @@
     },
     {
         "Date": "02-09-2026",
-        "Time": "1915",
-        "Time_at_Gate": "1805",
-        "Dest": "DAD",
-        "DTerm": "T4",
-        "Flight": "VJ890",
-        "AirlineCode": "VJ",
-        "quota_id": "VJ-DAD"
-    },
-    {
-        "Date": "02-09-2026",
         "Time": "1455",
         "Time_at_Gate": "1345",
         "Dest": "HAN",
@@ -202159,16 +201319,6 @@
         "Flight": "VJ970",
         "AirlineCode": "VJ",
         "quota_id": "VJ-DAD"
-    },
-    {
-        "Date": "02-09-2026",
-        "Time": "1305",
-        "Time_at_Gate": "1155",
-        "Dest": "PQC",
-        "DTerm": "T4",
-        "Flight": "VJ984",
-        "AirlineCode": "VJ",
-        "quota_id": "VJ-PQC"
     },
     {
         "Date": "03-09-2026",
@@ -202429,16 +201579,6 @@
         "Flight": "MF8704",
         "AirlineCode": "MF",
         "quota_id": "MF-HGH"
-    },
-    {
-        "Date": "03-09-2026",
-        "Time": "1435",
-        "Time_at_Gate": "1325",
-        "Dest": "CKG",
-        "DTerm": "T1",
-        "Flight": "OQ2096",
-        "AirlineCode": "OQ",
-        "quota_id": "OQ-CKG"
     },
     {
         "Date": "03-09-2026",
@@ -203312,16 +202452,6 @@
     },
     {
         "Date": "03-09-2026",
-        "Time": "1615",
-        "Time_at_Gate": "1505",
-        "Dest": "JED",
-        "DTerm": "T1",
-        "Flight": "TR796",
-        "AirlineCode": "TR",
-        "quota_id": "TR-JED"
-    },
-    {
-        "Date": "03-09-2026",
         "Time": "0215",
         "Time_at_Gate": "0105",
         "Dest": "OKA",
@@ -204142,8 +203272,8 @@
     },
     {
         "Date": "03-09-2026",
-        "Time": "0930",
-        "Time_at_Gate": "0820",
+        "Time": "0910",
+        "Time_at_Gate": "0800",
         "Dest": "CMB",
         "DTerm": "T2",
         "Flight": "SQ462",
@@ -205712,8 +204842,8 @@
     },
     {
         "Date": "03-09-2026",
-        "Time": "1740",
-        "Time_at_Gate": "1630",
+        "Time": "1720",
+        "Time_at_Gate": "1610",
         "Dest": "HGH",
         "DTerm": "T3",
         "Flight": "SQ838",
@@ -206382,16 +205512,6 @@
     },
     {
         "Date": "03-09-2026",
-        "Time": "1400",
-        "Time_at_Gate": "1250",
-        "Dest": "KNO",
-        "DTerm": "T4",
-        "Flight": "ID7146",
-        "AirlineCode": "ID",
-        "quota_id": "ID-KNO"
-    },
-    {
-        "Date": "03-09-2026",
         "Time": "1615",
         "Time_at_Gate": "1505",
         "Dest": "CGK",
@@ -206446,19 +205566,9 @@
         "Time_at_Gate": "0850",
         "Dest": "CGK",
         "DTerm": "T4",
-        "Flight": "ID7162",
+        "Flight": "ID7164",
         "AirlineCode": "ID",
         "quota_id": "ID-CGK"
-    },
-    {
-        "Date": "03-09-2026",
-        "Time": "2250",
-        "Time_at_Gate": "2140",
-        "Dest": "CCU",
-        "DTerm": "T4",
-        "Flight": "ID7165",
-        "AirlineCode": "ID",
-        "quota_id": "ID-CCU"
     },
     {
         "Date": "03-09-2026",
@@ -206599,26 +205709,6 @@
         "Flight": "VJ814",
         "AirlineCode": "VJ",
         "quota_id": "VJ-SGN"
-    },
-    {
-        "Date": "03-09-2026",
-        "Time": "1525",
-        "Time_at_Gate": "1415",
-        "Dest": "SGN",
-        "DTerm": "T4",
-        "Flight": "VJ882",
-        "AirlineCode": "VJ",
-        "quota_id": "VJ-SGN"
-    },
-    {
-        "Date": "03-09-2026",
-        "Time": "1915",
-        "Time_at_Gate": "1805",
-        "Dest": "DAD",
-        "DTerm": "T4",
-        "Flight": "VJ890",
-        "AirlineCode": "VJ",
-        "quota_id": "VJ-DAD"
     },
     {
         "Date": "03-09-2026",
@@ -206909,16 +205999,6 @@
         "Flight": "MF8704",
         "AirlineCode": "MF",
         "quota_id": "MF-HGH"
-    },
-    {
-        "Date": "04-09-2026",
-        "Time": "1435",
-        "Time_at_Gate": "1325",
-        "Dest": "CKG",
-        "DTerm": "T1",
-        "Flight": "OQ2096",
-        "AirlineCode": "OQ",
-        "quota_id": "OQ-CKG"
     },
     {
         "Date": "04-09-2026",
@@ -208722,8 +207802,8 @@
     },
     {
         "Date": "04-09-2026",
-        "Time": "0930",
-        "Time_at_Gate": "0820",
+        "Time": "0910",
+        "Time_at_Gate": "0800",
         "Dest": "CMB",
         "DTerm": "T2",
         "Flight": "SQ462",
@@ -210352,8 +209432,8 @@
     },
     {
         "Date": "04-09-2026",
-        "Time": "1740",
-        "Time_at_Gate": "1630",
+        "Time": "1720",
+        "Time_at_Gate": "1610",
         "Dest": "HGH",
         "DTerm": "T3",
         "Flight": "SQ838",
@@ -211052,16 +210132,6 @@
     },
     {
         "Date": "04-09-2026",
-        "Time": "2250",
-        "Time_at_Gate": "2140",
-        "Dest": "MAA",
-        "DTerm": "T4",
-        "Flight": "ID7163",
-        "AirlineCode": "ID",
-        "quota_id": "ID-MAA"
-    },
-    {
-        "Date": "04-09-2026",
         "Time": "1000",
         "Time_at_Gate": "0850",
         "Dest": "CGK",
@@ -211169,6 +210239,16 @@
         "Flight": "OD808",
         "AirlineCode": "OD",
         "quota_id": "OD-KUL"
+    },
+    {
+        "Date": "04-09-2026",
+        "Time": "1955",
+        "Time_at_Gate": "1845",
+        "Dest": "SZB",
+        "DTerm": "T4",
+        "Flight": "OD817",
+        "AirlineCode": "OD",
+        "quota_id": "OD-SZB"
     },
     {
         "Date": "04-09-2026",
@@ -211499,16 +210579,6 @@
         "Flight": "MF8704",
         "AirlineCode": "MF",
         "quota_id": "MF-HGH"
-    },
-    {
-        "Date": "05-09-2026",
-        "Time": "1435",
-        "Time_at_Gate": "1325",
-        "Dest": "CKG",
-        "DTerm": "T1",
-        "Flight": "OQ2096",
-        "AirlineCode": "OQ",
-        "quota_id": "OQ-CKG"
     },
     {
         "Date": "05-09-2026",
@@ -212452,16 +211522,6 @@
     },
     {
         "Date": "05-09-2026",
-        "Time": "1615",
-        "Time_at_Gate": "1505",
-        "Dest": "JED",
-        "DTerm": "T1",
-        "Flight": "TR796",
-        "AirlineCode": "TR",
-        "quota_id": "TR-JED"
-    },
-    {
-        "Date": "05-09-2026",
         "Time": "1225",
         "Time_at_Gate": "1115",
         "Dest": "TPE",
@@ -213272,8 +212332,8 @@
     },
     {
         "Date": "05-09-2026",
-        "Time": "0930",
-        "Time_at_Gate": "0820",
+        "Time": "0910",
+        "Time_at_Gate": "0800",
         "Dest": "CMB",
         "DTerm": "T2",
         "Flight": "SQ462",
@@ -214862,8 +213922,8 @@
     },
     {
         "Date": "05-09-2026",
-        "Time": "1740",
-        "Time_at_Gate": "1630",
+        "Time": "1720",
+        "Time_at_Gate": "1610",
         "Dest": "HGH",
         "DTerm": "T3",
         "Flight": "SQ838",
@@ -215462,16 +214522,6 @@
     },
     {
         "Date": "05-09-2026",
-        "Time": "2100",
-        "Time_at_Gate": "1950",
-        "Dest": "SYX",
-        "DTerm": "T4",
-        "Flight": "DV778",
-        "AirlineCode": "DV",
-        "quota_id": "DV-SYX"
-    },
-    {
-        "Date": "05-09-2026",
         "Time": "1440",
         "Time_at_Gate": "1330",
         "Dest": "DMK",
@@ -215542,16 +214592,6 @@
     },
     {
         "Date": "05-09-2026",
-        "Time": "1400",
-        "Time_at_Gate": "1250",
-        "Dest": "KNO",
-        "DTerm": "T4",
-        "Flight": "ID7146",
-        "AirlineCode": "ID",
-        "quota_id": "ID-KNO"
-    },
-    {
-        "Date": "05-09-2026",
         "Time": "1615",
         "Time_at_Gate": "1505",
         "Dest": "CGK",
@@ -215606,19 +214646,9 @@
         "Time_at_Gate": "0850",
         "Dest": "CGK",
         "DTerm": "T4",
-        "Flight": "ID7162",
+        "Flight": "ID7164",
         "AirlineCode": "ID",
         "quota_id": "ID-CGK"
-    },
-    {
-        "Date": "05-09-2026",
-        "Time": "2250",
-        "Time_at_Gate": "2140",
-        "Dest": "CCU",
-        "DTerm": "T4",
-        "Flight": "ID7165",
-        "AirlineCode": "ID",
-        "quota_id": "ID-CCU"
     },
     {
         "Date": "05-09-2026",
@@ -216079,16 +215109,6 @@
         "Flight": "MF8704",
         "AirlineCode": "MF",
         "quota_id": "MF-HGH"
-    },
-    {
-        "Date": "06-09-2026",
-        "Time": "1435",
-        "Time_at_Gate": "1325",
-        "Dest": "CKG",
-        "DTerm": "T1",
-        "Flight": "OQ2096",
-        "AirlineCode": "OQ",
-        "quota_id": "OQ-CKG"
     },
     {
         "Date": "06-09-2026",
@@ -217852,8 +216872,8 @@
     },
     {
         "Date": "06-09-2026",
-        "Time": "0930",
-        "Time_at_Gate": "0820",
+        "Time": "0910",
+        "Time_at_Gate": "0800",
         "Dest": "CMB",
         "DTerm": "T2",
         "Flight": "SQ462",
@@ -219482,8 +218502,8 @@
     },
     {
         "Date": "06-09-2026",
-        "Time": "1740",
-        "Time_at_Gate": "1630",
+        "Time": "1720",
+        "Time_at_Gate": "1610",
         "Dest": "HGH",
         "DTerm": "T3",
         "Flight": "SQ838",
@@ -220172,16 +219192,6 @@
     },
     {
         "Date": "06-09-2026",
-        "Time": "2250",
-        "Time_at_Gate": "2140",
-        "Dest": "MAA",
-        "DTerm": "T4",
-        "Flight": "ID7163",
-        "AirlineCode": "ID",
-        "quota_id": "ID-MAA"
-    },
-    {
-        "Date": "06-09-2026",
         "Time": "1000",
         "Time_at_Gate": "0850",
         "Dest": "CGK",
@@ -220289,6 +219299,16 @@
         "Flight": "OD808",
         "AirlineCode": "OD",
         "quota_id": "OD-KUL"
+    },
+    {
+        "Date": "06-09-2026",
+        "Time": "1955",
+        "Time_at_Gate": "1845",
+        "Dest": "SZB",
+        "DTerm": "T4",
+        "Flight": "OD817",
+        "AirlineCode": "OD",
+        "quota_id": "OD-SZB"
     },
     {
         "Date": "06-09-2026",
@@ -220629,16 +219649,6 @@
         "Flight": "MF8704",
         "AirlineCode": "MF",
         "quota_id": "MF-HGH"
-    },
-    {
-        "Date": "07-09-2026",
-        "Time": "1435",
-        "Time_at_Gate": "1325",
-        "Dest": "CKG",
-        "DTerm": "T1",
-        "Flight": "OQ2096",
-        "AirlineCode": "OQ",
-        "quota_id": "OQ-CKG"
     },
     {
         "Date": "07-09-2026",
@@ -221479,16 +220489,6 @@
         "Flight": "TR766",
         "AirlineCode": "TR",
         "quota_id": "TR-TRZ"
-    },
-    {
-        "Date": "07-09-2026",
-        "Time": "1615",
-        "Time_at_Gate": "1505",
-        "Dest": "JED",
-        "DTerm": "T1",
-        "Flight": "TR796",
-        "AirlineCode": "TR",
-        "quota_id": "TR-JED"
     },
     {
         "Date": "07-09-2026",
@@ -222342,8 +221342,8 @@
     },
     {
         "Date": "07-09-2026",
-        "Time": "0930",
-        "Time_at_Gate": "0820",
+        "Time": "0910",
+        "Time_at_Gate": "0800",
         "Dest": "CMB",
         "DTerm": "T2",
         "Flight": "SQ462",
@@ -223912,8 +222912,8 @@
     },
     {
         "Date": "07-09-2026",
-        "Time": "1740",
-        "Time_at_Gate": "1630",
+        "Time": "1720",
+        "Time_at_Gate": "1610",
         "Dest": "HGH",
         "DTerm": "T3",
         "Flight": "SQ838",
@@ -224626,19 +223626,9 @@
         "Time_at_Gate": "0850",
         "Dest": "CGK",
         "DTerm": "T4",
-        "Flight": "ID7162",
+        "Flight": "ID7164",
         "AirlineCode": "ID",
         "quota_id": "ID-CGK"
-    },
-    {
-        "Date": "07-09-2026",
-        "Time": "2250",
-        "Time_at_Gate": "2140",
-        "Dest": "MAA",
-        "DTerm": "T4",
-        "Flight": "ID7163",
-        "AirlineCode": "ID",
-        "quota_id": "ID-MAA"
     },
     {
         "Date": "07-09-2026",
@@ -224739,6 +223729,16 @@
         "Flight": "OD808",
         "AirlineCode": "OD",
         "quota_id": "OD-KUL"
+    },
+    {
+        "Date": "07-09-2026",
+        "Time": "0945",
+        "Time_at_Gate": "0835",
+        "Dest": "SZB",
+        "DTerm": "T4",
+        "Flight": "OD811",
+        "AirlineCode": "OD",
+        "quota_id": "OD-SZB"
     },
     {
         "Date": "07-09-2026",
@@ -224889,16 +223889,6 @@
         "Flight": "BA016",
         "AirlineCode": "BA",
         "quota_id": "BA-LHR"
-    },
-    {
-        "Date": "08-09-2026",
-        "Time": "1500",
-        "Time_at_Gate": "1350",
-        "Dest": "CKG",
-        "DTerm": "T1",
-        "Flight": "CA490",
-        "AirlineCode": "CA",
-        "quota_id": "CA-CKG"
     },
     {
         "Date": "08-09-2026",
@@ -225079,16 +224069,6 @@
         "Flight": "MF8704",
         "AirlineCode": "MF",
         "quota_id": "MF-HGH"
-    },
-    {
-        "Date": "08-09-2026",
-        "Time": "1435",
-        "Time_at_Gate": "1325",
-        "Dest": "CKG",
-        "DTerm": "T1",
-        "Flight": "OQ2096",
-        "AirlineCode": "OQ",
-        "quota_id": "OQ-CKG"
     },
     {
         "Date": "08-09-2026",
@@ -226712,8 +225692,8 @@
     },
     {
         "Date": "08-09-2026",
-        "Time": "0930",
-        "Time_at_Gate": "0820",
+        "Time": "0910",
+        "Time_at_Gate": "0800",
         "Dest": "CMB",
         "DTerm": "T2",
         "Flight": "SQ462",
@@ -228272,8 +227252,8 @@
     },
     {
         "Date": "08-09-2026",
-        "Time": "1740",
-        "Time_at_Gate": "1630",
+        "Time": "1720",
+        "Time_at_Gate": "1610",
         "Dest": "HGH",
         "DTerm": "T3",
         "Flight": "SQ838",
@@ -228822,16 +227802,6 @@
     },
     {
         "Date": "08-09-2026",
-        "Time": "2100",
-        "Time_at_Gate": "1950",
-        "Dest": "SYX",
-        "DTerm": "T4",
-        "Flight": "DV778",
-        "AirlineCode": "DV",
-        "quota_id": "DV-SYX"
-    },
-    {
-        "Date": "08-09-2026",
         "Time": "1440",
         "Time_at_Gate": "1330",
         "Dest": "DMK",
@@ -228902,16 +227872,6 @@
     },
     {
         "Date": "08-09-2026",
-        "Time": "1400",
-        "Time_at_Gate": "1250",
-        "Dest": "KNO",
-        "DTerm": "T4",
-        "Flight": "ID7146",
-        "AirlineCode": "ID",
-        "quota_id": "ID-KNO"
-    },
-    {
-        "Date": "08-09-2026",
         "Time": "1615",
         "Time_at_Gate": "1505",
         "Dest": "CGK",
@@ -228966,19 +227926,9 @@
         "Time_at_Gate": "0850",
         "Dest": "CGK",
         "DTerm": "T4",
-        "Flight": "ID7162",
+        "Flight": "ID7164",
         "AirlineCode": "ID",
         "quota_id": "ID-CGK"
-    },
-    {
-        "Date": "08-09-2026",
-        "Time": "2250",
-        "Time_at_Gate": "2140",
-        "Dest": "CCU",
-        "DTerm": "T4",
-        "Flight": "ID7165",
-        "AirlineCode": "ID",
-        "quota_id": "ID-CCU"
     },
     {
         "Date": "08-09-2026",
@@ -229439,16 +228389,6 @@
         "Flight": "MF8704",
         "AirlineCode": "MF",
         "quota_id": "MF-HGH"
-    },
-    {
-        "Date": "10-09-2026",
-        "Time": "1435",
-        "Time_at_Gate": "1325",
-        "Dest": "CKG",
-        "DTerm": "T1",
-        "Flight": "OQ2096",
-        "AirlineCode": "OQ",
-        "quota_id": "OQ-CKG"
     },
     {
         "Date": "10-09-2026",
@@ -230322,16 +229262,6 @@
     },
     {
         "Date": "10-09-2026",
-        "Time": "1625",
-        "Time_at_Gate": "1515",
-        "Dest": "JED",
-        "DTerm": "T1",
-        "Flight": "TR796",
-        "AirlineCode": "TR",
-        "quota_id": "TR-JED"
-    },
-    {
-        "Date": "10-09-2026",
         "Time": "0215",
         "Time_at_Gate": "0105",
         "Dest": "OKA",
@@ -231152,8 +230082,8 @@
     },
     {
         "Date": "10-09-2026",
-        "Time": "0930",
-        "Time_at_Gate": "0820",
+        "Time": "0910",
+        "Time_at_Gate": "0800",
         "Dest": "CMB",
         "DTerm": "T2",
         "Flight": "SQ462",
@@ -232712,8 +231642,8 @@
     },
     {
         "Date": "10-09-2026",
-        "Time": "1740",
-        "Time_at_Gate": "1630",
+        "Time": "1720",
+        "Time_at_Gate": "1610",
         "Dest": "HGH",
         "DTerm": "T3",
         "Flight": "SQ838",
@@ -233382,16 +232312,6 @@
     },
     {
         "Date": "10-09-2026",
-        "Time": "1400",
-        "Time_at_Gate": "1250",
-        "Dest": "KNO",
-        "DTerm": "T4",
-        "Flight": "ID7146",
-        "AirlineCode": "ID",
-        "quota_id": "ID-KNO"
-    },
-    {
-        "Date": "10-09-2026",
         "Time": "1615",
         "Time_at_Gate": "1505",
         "Dest": "CGK",
@@ -233446,19 +232366,9 @@
         "Time_at_Gate": "0850",
         "Dest": "CGK",
         "DTerm": "T4",
-        "Flight": "ID7162",
+        "Flight": "ID7164",
         "AirlineCode": "ID",
         "quota_id": "ID-CGK"
-    },
-    {
-        "Date": "10-09-2026",
-        "Time": "2250",
-        "Time_at_Gate": "2140",
-        "Dest": "CCU",
-        "DTerm": "T4",
-        "Flight": "ID7165",
-        "AirlineCode": "ID",
-        "quota_id": "ID-CCU"
     },
     {
         "Date": "10-09-2026",
@@ -233909,16 +232819,6 @@
         "Flight": "MF8704",
         "AirlineCode": "MF",
         "quota_id": "MF-HGH"
-    },
-    {
-        "Date": "11-09-2026",
-        "Time": "1435",
-        "Time_at_Gate": "1325",
-        "Dest": "CKG",
-        "DTerm": "T1",
-        "Flight": "OQ2096",
-        "AirlineCode": "OQ",
-        "quota_id": "OQ-CKG"
     },
     {
         "Date": "11-09-2026",
@@ -235692,8 +234592,8 @@
     },
     {
         "Date": "11-09-2026",
-        "Time": "0930",
-        "Time_at_Gate": "0820",
+        "Time": "0910",
+        "Time_at_Gate": "0800",
         "Dest": "CMB",
         "DTerm": "T2",
         "Flight": "SQ462",
@@ -237332,8 +236232,8 @@
     },
     {
         "Date": "11-09-2026",
-        "Time": "1740",
-        "Time_at_Gate": "1630",
+        "Time": "1720",
+        "Time_at_Gate": "1610",
         "Dest": "HGH",
         "DTerm": "T3",
         "Flight": "SQ838",
@@ -238022,16 +236922,6 @@
     },
     {
         "Date": "11-09-2026",
-        "Time": "2250",
-        "Time_at_Gate": "2140",
-        "Dest": "MAA",
-        "DTerm": "T4",
-        "Flight": "ID7163",
-        "AirlineCode": "ID",
-        "quota_id": "ID-MAA"
-    },
-    {
-        "Date": "11-09-2026",
         "Time": "1000",
         "Time_at_Gate": "0850",
         "Dest": "CGK",
@@ -238139,6 +237029,16 @@
         "Flight": "OD808",
         "AirlineCode": "OD",
         "quota_id": "OD-KUL"
+    },
+    {
+        "Date": "11-09-2026",
+        "Time": "1955",
+        "Time_at_Gate": "1845",
+        "Dest": "SZB",
+        "DTerm": "T4",
+        "Flight": "OD817",
+        "AirlineCode": "OD",
+        "quota_id": "OD-SZB"
     },
     {
         "Date": "11-09-2026",
@@ -238469,16 +237369,6 @@
         "Flight": "MF8704",
         "AirlineCode": "MF",
         "quota_id": "MF-HGH"
-    },
-    {
-        "Date": "12-09-2026",
-        "Time": "1435",
-        "Time_at_Gate": "1325",
-        "Dest": "CKG",
-        "DTerm": "T1",
-        "Flight": "OQ2096",
-        "AirlineCode": "OQ",
-        "quota_id": "OQ-CKG"
     },
     {
         "Date": "12-09-2026",
@@ -239402,16 +238292,6 @@
     },
     {
         "Date": "12-09-2026",
-        "Time": "1615",
-        "Time_at_Gate": "1505",
-        "Dest": "JED",
-        "DTerm": "T1",
-        "Flight": "TR796",
-        "AirlineCode": "TR",
-        "quota_id": "TR-JED"
-    },
-    {
-        "Date": "12-09-2026",
         "Time": "0100",
         "Time_at_Gate": "2350",
         "Dest": "TPE",
@@ -240232,8 +239112,8 @@
     },
     {
         "Date": "12-09-2026",
-        "Time": "0930",
-        "Time_at_Gate": "0820",
+        "Time": "0910",
+        "Time_at_Gate": "0800",
         "Dest": "CMB",
         "DTerm": "T2",
         "Flight": "SQ462",
@@ -241822,8 +240702,8 @@
     },
     {
         "Date": "12-09-2026",
-        "Time": "1740",
-        "Time_at_Gate": "1630",
+        "Time": "1720",
+        "Time_at_Gate": "1610",
         "Dest": "HGH",
         "DTerm": "T3",
         "Flight": "SQ838",
@@ -242422,16 +241302,6 @@
     },
     {
         "Date": "12-09-2026",
-        "Time": "2100",
-        "Time_at_Gate": "1950",
-        "Dest": "SYX",
-        "DTerm": "T4",
-        "Flight": "DV778",
-        "AirlineCode": "DV",
-        "quota_id": "DV-SYX"
-    },
-    {
-        "Date": "12-09-2026",
         "Time": "1440",
         "Time_at_Gate": "1330",
         "Dest": "DMK",
@@ -242502,16 +241372,6 @@
     },
     {
         "Date": "12-09-2026",
-        "Time": "1400",
-        "Time_at_Gate": "1250",
-        "Dest": "KNO",
-        "DTerm": "T4",
-        "Flight": "ID7146",
-        "AirlineCode": "ID",
-        "quota_id": "ID-KNO"
-    },
-    {
-        "Date": "12-09-2026",
         "Time": "1615",
         "Time_at_Gate": "1505",
         "Dest": "CGK",
@@ -242566,19 +241426,9 @@
         "Time_at_Gate": "0850",
         "Dest": "CGK",
         "DTerm": "T4",
-        "Flight": "ID7162",
+        "Flight": "ID7164",
         "AirlineCode": "ID",
         "quota_id": "ID-CGK"
-    },
-    {
-        "Date": "12-09-2026",
-        "Time": "2250",
-        "Time_at_Gate": "2140",
-        "Dest": "CCU",
-        "DTerm": "T4",
-        "Flight": "ID7165",
-        "AirlineCode": "ID",
-        "quota_id": "ID-CCU"
     },
     {
         "Date": "12-09-2026",
@@ -243039,16 +241889,6 @@
         "Flight": "MF8704",
         "AirlineCode": "MF",
         "quota_id": "MF-HGH"
-    },
-    {
-        "Date": "13-09-2026",
-        "Time": "1435",
-        "Time_at_Gate": "1325",
-        "Dest": "CKG",
-        "DTerm": "T1",
-        "Flight": "OQ2096",
-        "AirlineCode": "OQ",
-        "quota_id": "OQ-CKG"
     },
     {
         "Date": "13-09-2026",
@@ -244842,8 +243682,8 @@
     },
     {
         "Date": "13-09-2026",
-        "Time": "0930",
-        "Time_at_Gate": "0820",
+        "Time": "0910",
+        "Time_at_Gate": "0800",
         "Dest": "CMB",
         "DTerm": "T2",
         "Flight": "SQ462",
@@ -246472,8 +245312,8 @@
     },
     {
         "Date": "13-09-2026",
-        "Time": "1740",
-        "Time_at_Gate": "1630",
+        "Time": "1720",
+        "Time_at_Gate": "1610",
         "Dest": "HGH",
         "DTerm": "T3",
         "Flight": "SQ838",
@@ -247162,16 +246002,6 @@
     },
     {
         "Date": "13-09-2026",
-        "Time": "2250",
-        "Time_at_Gate": "2140",
-        "Dest": "MAA",
-        "DTerm": "T4",
-        "Flight": "ID7163",
-        "AirlineCode": "ID",
-        "quota_id": "ID-MAA"
-    },
-    {
-        "Date": "13-09-2026",
         "Time": "1000",
         "Time_at_Gate": "0850",
         "Dest": "CGK",
@@ -247279,6 +246109,16 @@
         "Flight": "OD808",
         "AirlineCode": "OD",
         "quota_id": "OD-KUL"
+    },
+    {
+        "Date": "13-09-2026",
+        "Time": "1955",
+        "Time_at_Gate": "1845",
+        "Dest": "SZB",
+        "DTerm": "T4",
+        "Flight": "OD817",
+        "AirlineCode": "OD",
+        "quota_id": "OD-SZB"
     },
     {
         "Date": "13-09-2026",
@@ -247619,16 +246459,6 @@
         "Flight": "MF8704",
         "AirlineCode": "MF",
         "quota_id": "MF-HGH"
-    },
-    {
-        "Date": "14-09-2026",
-        "Time": "1435",
-        "Time_at_Gate": "1325",
-        "Dest": "CKG",
-        "DTerm": "T1",
-        "Flight": "OQ2096",
-        "AirlineCode": "OQ",
-        "quota_id": "OQ-CKG"
     },
     {
         "Date": "14-09-2026",
@@ -249302,8 +248132,8 @@
     },
     {
         "Date": "14-09-2026",
-        "Time": "0930",
-        "Time_at_Gate": "0820",
+        "Time": "0910",
+        "Time_at_Gate": "0800",
         "Dest": "CMB",
         "DTerm": "T2",
         "Flight": "SQ462",
@@ -250862,8 +249692,8 @@
     },
     {
         "Date": "14-09-2026",
-        "Time": "1740",
-        "Time_at_Gate": "1630",
+        "Time": "1720",
+        "Time_at_Gate": "1610",
         "Dest": "HGH",
         "DTerm": "T3",
         "Flight": "SQ838",
@@ -251566,19 +250396,9 @@
         "Time_at_Gate": "0850",
         "Dest": "CGK",
         "DTerm": "T4",
-        "Flight": "ID7162",
+        "Flight": "ID7164",
         "AirlineCode": "ID",
         "quota_id": "ID-CGK"
-    },
-    {
-        "Date": "14-09-2026",
-        "Time": "2250",
-        "Time_at_Gate": "2140",
-        "Dest": "MAA",
-        "DTerm": "T4",
-        "Flight": "ID7163",
-        "AirlineCode": "ID",
-        "quota_id": "ID-MAA"
     },
     {
         "Date": "14-09-2026",
@@ -251679,6 +250499,16 @@
         "Flight": "OD808",
         "AirlineCode": "OD",
         "quota_id": "OD-KUL"
+    },
+    {
+        "Date": "14-09-2026",
+        "Time": "0945",
+        "Time_at_Gate": "0835",
+        "Dest": "SZB",
+        "DTerm": "T4",
+        "Flight": "OD811",
+        "AirlineCode": "OD",
+        "quota_id": "OD-SZB"
     },
     {
         "Date": "14-09-2026",
@@ -251839,16 +250669,6 @@
         "Flight": "CA404",
         "AirlineCode": "CA",
         "quota_id": "CA-TFU"
-    },
-    {
-        "Date": "15-09-2026",
-        "Time": "1500",
-        "Time_at_Gate": "1350",
-        "Dest": "CKG",
-        "DTerm": "T1",
-        "Flight": "CA490",
-        "AirlineCode": "CA",
-        "quota_id": "CA-CKG"
     },
     {
         "Date": "15-09-2026",
@@ -252029,16 +250849,6 @@
         "Flight": "MF8704",
         "AirlineCode": "MF",
         "quota_id": "MF-HGH"
-    },
-    {
-        "Date": "15-09-2026",
-        "Time": "1435",
-        "Time_at_Gate": "1325",
-        "Dest": "CKG",
-        "DTerm": "T1",
-        "Flight": "OQ2096",
-        "AirlineCode": "OQ",
-        "quota_id": "OQ-CKG"
     },
     {
         "Date": "15-09-2026",
@@ -253702,8 +252512,8 @@
     },
     {
         "Date": "15-09-2026",
-        "Time": "0930",
-        "Time_at_Gate": "0820",
+        "Time": "0910",
+        "Time_at_Gate": "0800",
         "Dest": "CMB",
         "DTerm": "T2",
         "Flight": "SQ462",
@@ -255282,8 +254092,8 @@
     },
     {
         "Date": "15-09-2026",
-        "Time": "1740",
-        "Time_at_Gate": "1630",
+        "Time": "1720",
+        "Time_at_Gate": "1610",
         "Dest": "HGH",
         "DTerm": "T3",
         "Flight": "SQ838",
@@ -255822,16 +254632,6 @@
     },
     {
         "Date": "15-09-2026",
-        "Time": "2100",
-        "Time_at_Gate": "1950",
-        "Dest": "SYX",
-        "DTerm": "T4",
-        "Flight": "DV778",
-        "AirlineCode": "DV",
-        "quota_id": "DV-SYX"
-    },
-    {
-        "Date": "15-09-2026",
         "Time": "1440",
         "Time_at_Gate": "1330",
         "Dest": "DMK",
@@ -255902,16 +254702,6 @@
     },
     {
         "Date": "15-09-2026",
-        "Time": "1400",
-        "Time_at_Gate": "1250",
-        "Dest": "KNO",
-        "DTerm": "T4",
-        "Flight": "ID7146",
-        "AirlineCode": "ID",
-        "quota_id": "ID-KNO"
-    },
-    {
-        "Date": "15-09-2026",
         "Time": "1615",
         "Time_at_Gate": "1505",
         "Dest": "CGK",
@@ -255966,19 +254756,9 @@
         "Time_at_Gate": "0850",
         "Dest": "CGK",
         "DTerm": "T4",
-        "Flight": "ID7162",
+        "Flight": "ID7164",
         "AirlineCode": "ID",
         "quota_id": "ID-CGK"
-    },
-    {
-        "Date": "15-09-2026",
-        "Time": "2250",
-        "Time_at_Gate": "2140",
-        "Dest": "CCU",
-        "DTerm": "T4",
-        "Flight": "ID7165",
-        "AirlineCode": "ID",
-        "quota_id": "ID-CCU"
     },
     {
         "Date": "15-09-2026",
@@ -256429,16 +255209,6 @@
         "Flight": "MF8704",
         "AirlineCode": "MF",
         "quota_id": "MF-HGH"
-    },
-    {
-        "Date": "16-09-2026",
-        "Time": "1435",
-        "Time_at_Gate": "1325",
-        "Dest": "CKG",
-        "DTerm": "T1",
-        "Flight": "OQ2096",
-        "AirlineCode": "OQ",
-        "quota_id": "OQ-CKG"
     },
     {
         "Date": "16-09-2026",
@@ -258122,8 +256892,8 @@
     },
     {
         "Date": "16-09-2026",
-        "Time": "0930",
-        "Time_at_Gate": "0820",
+        "Time": "0910",
+        "Time_at_Gate": "0800",
         "Dest": "CMB",
         "DTerm": "T2",
         "Flight": "SQ462",
@@ -259712,8 +258482,8 @@
     },
     {
         "Date": "16-09-2026",
-        "Time": "1740",
-        "Time_at_Gate": "1630",
+        "Time": "1720",
+        "Time_at_Gate": "1610",
         "Dest": "HGH",
         "DTerm": "T3",
         "Flight": "SQ838",
@@ -260362,16 +259132,6 @@
     },
     {
         "Date": "16-09-2026",
-        "Time": "2250",
-        "Time_at_Gate": "2140",
-        "Dest": "MAA",
-        "DTerm": "T4",
-        "Flight": "ID7163",
-        "AirlineCode": "ID",
-        "quota_id": "ID-MAA"
-    },
-    {
-        "Date": "16-09-2026",
         "Time": "1000",
         "Time_at_Gate": "0850",
         "Dest": "CGK",
@@ -260482,6 +259242,16 @@
     },
     {
         "Date": "16-09-2026",
+        "Time": "0945",
+        "Time_at_Gate": "0835",
+        "Dest": "SZB",
+        "DTerm": "T4",
+        "Flight": "OD811",
+        "AirlineCode": "OD",
+        "quota_id": "OD-SZB"
+    },
+    {
+        "Date": "16-09-2026",
         "Time": "1210",
         "Time_at_Gate": "1100",
         "Dest": "DMK",
@@ -260489,16 +259259,6 @@
         "Flight": "SL101",
         "AirlineCode": "SL",
         "quota_id": "SL-DMK"
-    },
-    {
-        "Date": "16-09-2026",
-        "Time": "1930",
-        "Time_at_Gate": "1820",
-        "Dest": "SGN",
-        "DTerm": "T4",
-        "Flight": "VJ812",
-        "AirlineCode": "VJ",
-        "quota_id": "VJ-SGN"
     },
     {
         "Date": "16-09-2026",
@@ -260522,16 +259282,6 @@
     },
     {
         "Date": "16-09-2026",
-        "Time": "1915",
-        "Time_at_Gate": "1805",
-        "Dest": "DAD",
-        "DTerm": "T4",
-        "Flight": "VJ890",
-        "AirlineCode": "VJ",
-        "quota_id": "VJ-DAD"
-    },
-    {
-        "Date": "16-09-2026",
         "Time": "1455",
         "Time_at_Gate": "1345",
         "Dest": "HAN",
@@ -260549,16 +259299,6 @@
         "Flight": "VJ970",
         "AirlineCode": "VJ",
         "quota_id": "VJ-DAD"
-    },
-    {
-        "Date": "16-09-2026",
-        "Time": "1305",
-        "Time_at_Gate": "1155",
-        "Dest": "PQC",
-        "DTerm": "T4",
-        "Flight": "VJ984",
-        "AirlineCode": "VJ",
-        "quota_id": "VJ-PQC"
     },
     {
         "Date": "17-09-2026",
@@ -260819,16 +259559,6 @@
         "Flight": "MF8704",
         "AirlineCode": "MF",
         "quota_id": "MF-HGH"
-    },
-    {
-        "Date": "17-09-2026",
-        "Time": "1435",
-        "Time_at_Gate": "1325",
-        "Dest": "CKG",
-        "DTerm": "T1",
-        "Flight": "OQ2096",
-        "AirlineCode": "OQ",
-        "quota_id": "OQ-CKG"
     },
     {
         "Date": "17-09-2026",
@@ -262532,8 +261262,8 @@
     },
     {
         "Date": "17-09-2026",
-        "Time": "0930",
-        "Time_at_Gate": "0820",
+        "Time": "0910",
+        "Time_at_Gate": "0800",
         "Dest": "CMB",
         "DTerm": "T2",
         "Flight": "SQ462",
@@ -264072,8 +262802,8 @@
     },
     {
         "Date": "17-09-2026",
-        "Time": "1740",
-        "Time_at_Gate": "1630",
+        "Time": "1720",
+        "Time_at_Gate": "1610",
         "Dest": "HGH",
         "DTerm": "T3",
         "Flight": "SQ838",
@@ -264742,16 +263472,6 @@
     },
     {
         "Date": "17-09-2026",
-        "Time": "1400",
-        "Time_at_Gate": "1250",
-        "Dest": "KNO",
-        "DTerm": "T4",
-        "Flight": "ID7146",
-        "AirlineCode": "ID",
-        "quota_id": "ID-KNO"
-    },
-    {
-        "Date": "17-09-2026",
         "Time": "1615",
         "Time_at_Gate": "1505",
         "Dest": "CGK",
@@ -264806,19 +263526,9 @@
         "Time_at_Gate": "0850",
         "Dest": "CGK",
         "DTerm": "T4",
-        "Flight": "ID7162",
+        "Flight": "ID7164",
         "AirlineCode": "ID",
         "quota_id": "ID-CGK"
-    },
-    {
-        "Date": "17-09-2026",
-        "Time": "2250",
-        "Time_at_Gate": "2140",
-        "Dest": "CCU",
-        "DTerm": "T4",
-        "Flight": "ID7165",
-        "AirlineCode": "ID",
-        "quota_id": "ID-CCU"
     },
     {
         "Date": "17-09-2026",
@@ -264959,26 +263669,6 @@
         "Flight": "VJ814",
         "AirlineCode": "VJ",
         "quota_id": "VJ-SGN"
-    },
-    {
-        "Date": "17-09-2026",
-        "Time": "1525",
-        "Time_at_Gate": "1415",
-        "Dest": "SGN",
-        "DTerm": "T4",
-        "Flight": "VJ882",
-        "AirlineCode": "VJ",
-        "quota_id": "VJ-SGN"
-    },
-    {
-        "Date": "17-09-2026",
-        "Time": "1915",
-        "Time_at_Gate": "1805",
-        "Dest": "DAD",
-        "DTerm": "T4",
-        "Flight": "VJ890",
-        "AirlineCode": "VJ",
-        "quota_id": "VJ-DAD"
     },
     {
         "Date": "17-09-2026",

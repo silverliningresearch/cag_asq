@@ -568,7 +568,7 @@
         "To": "SZX"
     },
     {
-        "Flight": "CZ352",
+        "Flight": "CZ354",
         "Date": "22-08-2026",
         "No. Of": 5.0,
         "Airline": "CZ",
