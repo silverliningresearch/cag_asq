@@ -568,13 +568,6 @@
         "To": "SZX"
     },
     {
-        "Flight": "CZ354",
-        "Date": "22-08-2026",
-        "No. Of": 5.0,
-        "Airline": "CZ",
-        "To": "CAN"
-    },
-    {
         "Flight": "EK315",
         "Date": "22-08-2026",
         "No. Of": 3.0,
@@ -587,6 +580,13 @@
         "No. Of": 5.0,
         "Airline": "TR",
         "To": "TPE"
+    },
+    {
+        "Flight": "CZ354",
+        "Date": "22-08-2026",
+        "No. Of": 5.0,
+        "Airline": "CZ",
+        "To": "CAN"
     },
     {
         "Flight": "CA404",
@@ -708,11 +708,11 @@
         "To": "AKL"
     },
     {
-        "Flight": "TR426",
+        "Flight": "TR624",
         "Date": "07-09-2026",
         "No. Of": 5.0,
         "Airline": "TR",
-        "To": "PEN"
+        "To": "BKK"
     },
     {
         "Flight": "TR288",
@@ -743,20 +743,6 @@
         "To": "HND"
     },
     {
-        "Flight": "CZ8048",
-        "Date": "07-09-2026",
-        "No. Of": 5.0,
-        "Airline": "CZ",
-        "To": "SZX"
-    },
-    {
-        "Flight": "QF255",
-        "Date": "07-09-2026",
-        "No. Of": 5.0,
-        "Airline": "QF",
-        "To": "CDG"
-    },
-    {
         "Flight": "SQ012",
         "Date": "10-09-2026",
         "No. Of": 5.0,
@@ -773,16 +759,9 @@
     {
         "Flight": "SQ326",
         "Date": "10-09-2026",
-        "No. Of": 3.0,
+        "No. Of": 4.0,
         "Airline": "SQ",
         "To": "FRA"
-    },
-    {
-        "Flight": "SQ406",
-        "Date": "10-09-2026",
-        "No. Of": 3.0,
-        "Airline": "SQ",
-        "To": "DEL"
     },
     {
         "Flight": "SQ034",
@@ -813,18 +792,32 @@
         "To": "KUL"
     },
     {
-        "Flight": "TR038",
+        "Flight": "AF181",
+        "Date": "13-09-2026",
+        "No. Of": 5.0,
+        "Airline": "AF",
+        "To": "CDG"
+    },
+    {
+        "Flight": "ZH240",
+        "Date": "13-09-2026",
+        "No. Of": 5.0,
+        "Airline": "ZH",
+        "To": "SZX"
+    },
+    {
+        "Flight": "TR266",
         "Date": "13-09-2026",
         "No. Of": 5.0,
         "Airline": "TR",
-        "To": "MEL"
+        "To": "SUB"
     },
     {
-        "Flight": "TR242",
+        "Flight": "QF036",
         "Date": "13-09-2026",
-        "No. Of": 3.0,
-        "Airline": "TR",
-        "To": "DPS"
+        "No. Of": 5.0,
+        "Airline": "QF",
+        "To": "MEL"
     }
 ]    
 

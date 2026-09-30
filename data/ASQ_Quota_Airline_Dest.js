@@ -127,12 +127,6 @@
         "Notes": ""
     },
     {
-        "Airline_Dest": "SQ-DEL",
-        "Quota": 3.0,
-        "Quarter": "2026-Q3",
-        "Notes": ""
-    },
-    {
         "Airline_Dest": "SQ-NRT",
         "Quota": 10.0,
         "Quarter": "2026-Q3",
@@ -140,7 +134,7 @@
     },
     {
         "Airline_Dest": "SQ-FRA",
-        "Quota": 6.0,
+        "Quota": 7.0,
         "Quarter": "2026-Q3",
         "Notes": ""
     },
@@ -194,13 +188,13 @@
     },
     {
         "Airline_Dest": "TR-DPS",
-        "Quota": 15.0,
+        "Quota": 12.0,
         "Quarter": "2026-Q3",
         "Notes": ""
     },
     {
         "Airline_Dest": "TR-BKK",
-        "Quota": 10.0,
+        "Quota": 15.0,
         "Quarter": "2026-Q3",
         "Notes": ""
     },
@@ -212,7 +206,7 @@
     },
     {
         "Airline_Dest": "TR-PEN",
-        "Quota": 15.0,
+        "Quota": 10.0,
         "Quarter": "2026-Q3",
         "Notes": ""
     },
@@ -235,14 +229,8 @@
         "Notes": ""
     },
     {
-        "Airline_Dest": "TR-MEL",
-        "Quota": 5.0,
-        "Quarter": "2026-Q3",
-        "Notes": ""
-    },
-    {
         "Airline_Dest": "TR-SUB",
-        "Quota": 5.0,
+        "Quota": 10.0,
         "Quarter": "2026-Q3",
         "Notes": ""
     },
@@ -289,7 +277,7 @@
         "Notes": ""
     },
     {
-        "Airline_Dest": "QF-CDG",
+        "Airline_Dest": "QF-MEL",
         "Quota": 5.0,
         "Quarter": "2026-Q3",
         "Notes": ""
@@ -345,12 +333,6 @@
     {
         "Airline_Dest": "CZ-CAN",
         "Quota": 10.0,
-        "Quarter": "2026-Q3",
-        "Notes": ""
-    },
-    {
-        "Airline_Dest": "CZ-SZX",
-        "Quota": 5.0,
         "Quarter": "2026-Q3",
         "Notes": ""
     },
@@ -458,6 +440,18 @@
     },
     {
         "Airline_Dest": "KE-ICN",
+        "Quota": 5.0,
+        "Quarter": "2026-Q3",
+        "Notes": ""
+    },
+    {
+        "Airline_Dest": "ZH-SZX",
+        "Quota": 5.0,
+        "Quarter": "2026-Q3",
+        "Notes": ""
+    },
+    {
+        "Airline_Dest": "AF-CDG",
         "Quota": 5.0,
         "Quarter": "2026-Q3",
         "Notes": ""
