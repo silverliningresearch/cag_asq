@@ -1,823 +1,823 @@
  let Selected_Flights = ` 
 [
     {
-        "Flight": "SQ632",
-        "Date": "04-07-2026",
-        "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "HND"
-    },
-    {
-        "Flight": "SQ108",
-        "Date": "04-07-2026",
-        "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "KUL"
-    },
-    {
-        "Flight": "AI2119",
-        "Date": "04-07-2026",
-        "No. Of": 5.0,
-        "Airline": "AI",
-        "To": "DEL"
-    },
-    {
-        "Flight": "SQ912",
-        "Date": "04-07-2026",
-        "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "MNL"
-    },
-    {
-        "Flight": "SQ116",
-        "Date": "04-07-2026",
-        "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "KUL"
-    },
-    {
-        "Flight": "TG414",
-        "Date": "04-07-2026",
-        "No. Of": 5.0,
-        "Airline": "TG",
-        "To": "BKK"
-    },
-    {
-        "Flight": "SQ946",
-        "Date": "04-07-2026",
-        "No. Of": 4.0,
-        "Airline": "SQ",
-        "To": "DPS"
-    },
-    {
-        "Flight": "6E1164",
-        "Date": "04-07-2026",
-        "No. Of": 3.0,
-        "Airline": "6E",
-        "To": "BOM"
-    },
-    {
-        "Flight": "SQ241",
-        "Date": "07-07-2026",
-        "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "SYD"
-    },
-    {
-        "Flight": "SQ508",
-        "Date": "07-07-2026",
-        "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "BLR"
-    },
-    {
-        "Flight": "MU546",
-        "Date": "07-07-2026",
-        "No. Of": 5.0,
-        "Airline": "MU",
-        "To": "PVG"
-    },
-    {
-        "Flight": "SQ878",
-        "Date": "07-07-2026",
-        "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "TPE"
-    },
-    {
-        "Flight": "SQ894",
-        "Date": "07-07-2026",
-        "No. Of": 3.0,
-        "Airline": "SQ",
-        "To": "HKG"
-    },
-    {
-        "Flight": "GA833",
-        "Date": "07-07-2026",
-        "No. Of": 5.0,
-        "Airline": "GA",
-        "To": "CGK"
-    },
-    {
-        "Flight": "SQ836",
-        "Date": "07-07-2026",
-        "No. Of": 3.0,
-        "Airline": "SQ",
-        "To": "PVG"
-    },
-    {
-        "Flight": "GA837",
-        "Date": "07-07-2026",
-        "No. Of": 5.0,
-        "Airline": "GA",
-        "To": "CGK"
-    },
-    {
-        "Flight": "CX710",
-        "Date": "10-07-2026",
-        "No. Of": 5.0,
-        "Airline": "CX",
-        "To": "HKG"
-    },
-    {
-        "Flight": "AK702",
-        "Date": "10-07-2026",
-        "No. Of": 5.0,
-        "Airline": "AK",
-        "To": "KUL"
-    },
-    {
-        "Flight": "VJ970",
-        "Date": "10-07-2026",
-        "No. Of": 5.0,
-        "Airline": "VJ",
-        "To": "DAD"
-    },
-    {
-        "Flight": "ID7158",
-        "Date": "10-07-2026",
-        "No. Of": 5.0,
-        "Airline": "ID",
-        "To": "CGK"
-    },
-    {
-        "Flight": "AK712",
-        "Date": "10-07-2026",
-        "No. Of": 5.0,
-        "Airline": "AK",
-        "To": "KUL"
-    },
-    {
-        "Flight": "AK1724",
-        "Date": "10-07-2026",
-        "No. Of": 5.0,
-        "Airline": "AK",
-        "To": "PEN"
-    },
-    {
-        "Flight": "5J806",
-        "Date": "10-07-2026",
-        "No. Of": 5.0,
-        "Airline": "5J",
-        "To": "MNL"
-    },
-    {
-        "Flight": "TR274",
-        "Date": "13-07-2026",
-        "No. Of": 5.0,
-        "Airline": "TR",
-        "To": "CGK"
-    },
-    {
-        "Flight": "TR874",
-        "Date": "13-07-2026",
-        "No. Of": 5.0,
-        "Airline": "TR",
-        "To": "TPE"
-    },
-    {
-        "Flight": "TK209",
-        "Date": "13-07-2026",
-        "No. Of": 5.0,
-        "Airline": "TK",
-        "To": "IST"
-    },
-    {
-        "Flight": "TR242",
-        "Date": "13-07-2026",
-        "No. Of": 5.0,
-        "Airline": "TR",
-        "To": "DPS"
-    },
-    {
-        "Flight": "EK348",
-        "Date": "13-07-2026",
-        "No. Of": 3.0,
-        "Airline": "EK",
-        "To": "KTI"
-    },
-    {
-        "Flight": "TR626",
-        "Date": "13-07-2026",
-        "No. Of": 5.0,
-        "Airline": "TR",
-        "To": "BKK"
-    },
-    {
-        "Flight": "QR947",
-        "Date": "13-07-2026",
-        "No. Of": 3.0,
-        "Airline": "QR",
-        "To": "DOH"
-    },
-    {
-        "Flight": "QF082",
-        "Date": "13-07-2026",
-        "No. Of": 5.0,
-        "Airline": "QF",
-        "To": "SYD"
-    },
-    {
-        "Flight": "SQ726",
-        "Date": "16-07-2026",
-        "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "HKT"
-    },
-    {
-        "Flight": "SQ938",
-        "Date": "16-07-2026",
-        "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "DPS"
-    },
-    {
-        "Flight": "NH842",
-        "Date": "16-07-2026",
-        "No. Of": 5.0,
-        "Airline": "NH",
-        "To": "HND"
-    },
-    {
-        "Flight": "SQ622",
-        "Date": "16-07-2026",
-        "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "KIX"
-    },
-    {
-        "Flight": "MH624",
-        "Date": "16-07-2026",
-        "No. Of": 3.0,
-        "Airline": "MH",
-        "To": "KUL"
-    },
-    {
-        "Flight": "SQ186",
-        "Date": "16-07-2026",
-        "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "SGN"
-    },
-    {
-        "Flight": "6E1164",
-        "Date": "16-07-2026",
-        "No. Of": 3.0,
-        "Airline": "6E",
-        "To": "BOM"
-    },
-    {
-        "Flight": "MH610",
-        "Date": "16-07-2026",
-        "No. Of": 5.0,
-        "Airline": "MH",
-        "To": "KUL"
-    },
-    {
         "Flight": "CA976",
-        "Date": "19-07-2026",
+        "Date": "05-10-2026",
         "No. Of": 5.0,
         "Airline": "CA",
         "To": "PEK"
     },
     {
-        "Flight": "EK315",
-        "Date": "19-07-2026",
-        "No. Of": 3.0,
-        "Airline": "EK",
-        "To": "DXB"
+        "Flight": "TK168",
+        "Date": "05-10-2026",
+        "No. Of": 5.0,
+        "Airline": "TK",
+        "To": "MEL"
     },
     {
-        "Flight": "TR644",
-        "Date": "19-07-2026",
+        "Flight": "TR008",
+        "Date": "05-10-2026",
         "No. Of": 5.0,
         "Airline": "TR",
-        "To": "HKT"
+        "To": "PER"
     },
     {
-        "Flight": "MF8704",
-        "Date": "19-07-2026",
-        "No. Of": 5.0,
-        "Airline": "MF",
-        "To": "HGH"
-    },
-    {
-        "Flight": "TR610",
-        "Date": "19-07-2026",
+        "Flight": "TR424",
+        "Date": "05-10-2026",
         "No. Of": 5.0,
         "Airline": "TR",
-        "To": "BKK"
+        "To": "PEN"
     },
     {
         "Flight": "CZ3040",
-        "Date": "19-07-2026",
-        "No. Of": 5.0,
+        "Date": "05-10-2026",
+        "No. Of": 3.0,
         "Airline": "CZ",
         "To": "CAN"
     },
     {
         "Flight": "QR947",
-        "Date": "19-07-2026",
-        "No. Of": 3.0,
+        "Date": "05-10-2026",
+        "No. Of": 5.0,
         "Airline": "QR",
         "To": "DOH"
     },
     {
-        "Flight": "TR346",
-        "Date": "19-07-2026",
-        "No. Of": 2.0,
-        "Airline": "TR",
+        "Flight": "BA016",
+        "Date": "05-10-2026",
+        "No. Of": 5.0,
+        "Airline": "BA",
+        "To": "LHR"
+    },
+    {
+        "Flight": "SQ620",
+        "Date": "08-10-2026",
+        "No. Of": 5.0,
+        "Airline": "SQ",
+        "To": "KIX"
+    },
+    {
+        "Flight": "PR502",
+        "Date": "08-10-2026",
+        "No. Of": 5.0,
+        "Airline": "PR",
+        "To": "MNL"
+    },
+    {
+        "Flight": "SQ912",
+        "Date": "08-10-2026",
+        "No. Of": 5.0,
+        "Airline": "SQ",
+        "To": "MNL"
+    },
+    {
+        "Flight": "AI349",
+        "Date": "08-10-2026",
+        "No. Of": 3.0,
+        "Airline": "AI",
+        "To": "MAA"
+    },
+    {
+        "Flight": "SQ944",
+        "Date": "08-10-2026",
+        "No. Of": 5.0,
+        "Airline": "SQ",
         "To": "DPS"
     },
     {
-        "Flight": "SQ241",
-        "Date": "01-08-2026",
+        "Flight": "SQ966",
+        "Date": "08-10-2026",
+        "No. Of": 5.0,
+        "Airline": "SQ",
+        "To": "CGK"
+    },
+    {
+        "Flight": "SQ446",
+        "Date": "08-10-2026",
+        "No. Of": 5.0,
+        "Airline": "SQ",
+        "To": "DAC"
+    },
+    {
+        "Flight": "6E1344",
+        "Date": "08-10-2026",
+        "No. Of": 3.0,
+        "Airline": "6E",
+        "To": "MAA"
+    },
+    {
+        "Flight": "SQ422",
+        "Date": "11-10-2026",
+        "No. Of": 5.0,
+        "Airline": "SQ",
+        "To": "BOM"
+    },
+    {
+        "Flight": "SQ211",
+        "Date": "11-10-2026",
         "No. Of": 5.0,
         "Airline": "SQ",
         "To": "SYD"
     },
     {
-        "Flight": "SQ882",
-        "Date": "01-08-2026",
+        "Flight": "SQ217",
+        "Date": "11-10-2026",
         "No. Of": 5.0,
         "Airline": "SQ",
-        "To": "HKG"
-    },
-    {
-        "Flight": "MU546",
-        "Date": "01-08-2026",
-        "No. Of": 5.0,
-        "Airline": "MU",
-        "To": "PVG"
+        "To": "MEL"
     },
     {
         "Flight": "SQ318",
-        "Date": "01-08-2026",
+        "Date": "11-10-2026",
         "No. Of": 5.0,
         "Airline": "SQ",
         "To": "LHR"
     },
     {
-        "Flight": "SQ806",
-        "Date": "01-08-2026",
+        "Flight": "SQ406",
+        "Date": "11-10-2026",
         "No. Of": 5.0,
         "Airline": "SQ",
-        "To": "PEK"
+        "To": "DEL"
     },
     {
-        "Flight": "SQ215",
-        "Date": "01-08-2026",
-        "No. Of": 5.0,
+        "Flight": "SQ247",
+        "Date": "11-10-2026",
+        "No. Of": 3.0,
         "Airline": "SQ",
-        "To": "PER"
+        "To": "MEL"
     },
     {
-        "Flight": "SQ528",
-        "Date": "01-08-2026",
+        "Flight": "SQ235",
+        "Date": "11-10-2026",
         "No. Of": 5.0,
         "Airline": "SQ",
-        "To": "MAA"
+        "To": "BNE"
     },
     {
         "Flight": "KE648",
-        "Date": "05-08-2026",
+        "Date": "15-10-2026",
         "No. Of": 5.0,
         "Airline": "KE",
         "To": "ICN"
     },
     {
         "Flight": "AK702",
-        "Date": "05-08-2026",
+        "Date": "15-10-2026",
         "No. Of": 5.0,
         "Airline": "AK",
         "To": "KUL"
     },
     {
-        "Flight": "CX652",
-        "Date": "05-08-2026",
+        "Flight": "8B152",
+        "Date": "15-10-2026",
         "No. Of": 5.0,
-        "Airline": "CX",
-        "To": "HKG"
+        "Airline": "8B",
+        "To": "CGK"
     },
     {
-        "Flight": "VJ916",
-        "Date": "05-08-2026",
+        "Flight": "FD356",
+        "Date": "15-10-2026",
         "No. Of": 5.0,
-        "Airline": "VJ",
-        "To": "HAN"
+        "Airline": "FD",
+        "To": "DMK"
+    },
+    {
+        "Flight": "ID7150",
+        "Date": "15-10-2026",
+        "No. Of": 5.0,
+        "Airline": "ID",
+        "To": "CGK"
     },
     {
         "Flight": "CX716",
-        "Date": "05-08-2026",
+        "Date": "15-10-2026",
         "No. Of": 5.0,
         "Airline": "CX",
         "To": "HKG"
     },
     {
-        "Flight": "TR450",
-        "Date": "13-08-2026",
-        "No. Of": 5.0,
-        "Airline": "TR",
-        "To": "KUL"
-    },
-    {
-        "Flight": "EK315",
-        "Date": "13-08-2026",
-        "No. Of": 3.0,
-        "Airline": "EK",
-        "To": "DXB"
-    },
-    {
-        "Flight": "TR644",
-        "Date": "13-08-2026",
-        "No. Of": 5.0,
-        "Airline": "TR",
-        "To": "HKT"
-    },
-    {
-        "Flight": "TR424",
-        "Date": "13-08-2026",
-        "No. Of": 5.0,
-        "Airline": "TR",
+        "Flight": "AK1730",
+        "Date": "15-10-2026",
+        "No. Of": 4.0,
+        "Airline": "AK",
         "To": "PEN"
     },
     {
-        "Flight": "KL835",
-        "Date": "13-08-2026",
+        "Flight": "TR280",
+        "Date": "18-10-2026",
         "No. Of": 5.0,
-        "Airline": "KL",
+        "Airline": "TR",
         "To": "DPS"
     },
     {
-        "Flight": "TR498",
-        "Date": "13-08-2026",
+        "Flight": "CA976",
+        "Date": "18-10-2026",
         "No. Of": 5.0,
-        "Airline": "TR",
-        "To": "PEN"
-    },
-    {
-        "Flight": "TR766",
-        "Date": "13-08-2026",
-        "No. Of": 5.0,
-        "Airline": "TR",
-        "To": "TRZ"
-    },
-    {
-        "Flight": "SQ132",
-        "Date": "16-08-2026",
-        "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "PEN"
-    },
-    {
-        "Flight": "SQ178",
-        "Date": "16-08-2026",
-        "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "SGN"
-    },
-    {
-        "Flight": "6E1026",
-        "Date": "16-08-2026",
-        "No. Of": 3.0,
-        "Airline": "6E",
-        "To": "MAA"
-    },
-    {
-        "Flight": "SQ916",
-        "Date": "16-08-2026",
-        "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "MNL"
-    },
-    {
-        "Flight": "SQ606",
-        "Date": "16-08-2026",
-        "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "ICN"
-    },
-    {
-        "Flight": "SQ158",
-        "Date": "16-08-2026",
-        "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "KTI"
-    },
-    {
-        "Flight": "SQ720",
-        "Date": "16-08-2026",
-        "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "BKK"
-    },
-    {
-        "Flight": "SQ446",
-        "Date": "16-08-2026",
-        "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "DAC"
-    },
-    {
-        "Flight": "SQ265",
-        "Date": "19-08-2026",
-        "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "BNE"
-    },
-    {
-        "Flight": "SQ012",
-        "Date": "19-08-2026",
-        "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "NRT"
-    },
-    {
-        "Flight": "SQ217",
-        "Date": "19-08-2026",
-        "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "MEL"
-    },
-    {
-        "Flight": "SQ318",
-        "Date": "19-08-2026",
-        "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "LHR"
-    },
-    {
-        "Flight": "SQ836",
-        "Date": "19-08-2026",
-        "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "PVG"
-    },
-    {
-        "Flight": "SQ424",
-        "Date": "19-08-2026",
-        "No. Of": 3.0,
-        "Airline": "SQ",
-        "To": "BOM"
-    },
-    {
-        "Flight": "SQ856",
-        "Date": "19-08-2026",
-        "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "SZX"
+        "Airline": "CA",
+        "To": "PEK"
     },
     {
         "Flight": "EK315",
-        "Date": "22-08-2026",
+        "Date": "18-10-2026",
         "No. Of": 3.0,
         "Airline": "EK",
         "To": "DXB"
     },
     {
         "Flight": "TR872",
-        "Date": "22-08-2026",
+        "Date": "18-10-2026",
         "No. Of": 5.0,
         "Airline": "TR",
         "To": "TPE"
     },
     {
-        "Flight": "CZ354",
-        "Date": "22-08-2026",
+        "Flight": "MF852",
+        "Date": "18-10-2026",
         "No. Of": 5.0,
-        "Airline": "CZ",
-        "To": "CAN"
+        "Airline": "MF",
+        "To": "XMN"
     },
     {
-        "Flight": "CA404",
-        "Date": "22-08-2026",
-        "No. Of": 5.0,
-        "Airline": "CA",
-        "To": "TFU"
-    },
-    {
-        "Flight": "TR266",
-        "Date": "22-08-2026",
+        "Flight": "TR468",
+        "Date": "18-10-2026",
         "No. Of": 5.0,
         "Airline": "TR",
-        "To": "SUB"
+        "To": "KUL"
     },
     {
-        "Flight": "QF219",
-        "Date": "22-08-2026",
-        "No. Of": 5.0,
+        "Flight": "TR652",
+        "Date": "18-10-2026",
+        "No. Of": 3.0,
+        "Airline": "TR",
+        "To": "HKT"
+    },
+    {
+        "Flight": "QF082",
+        "Date": "18-10-2026",
+        "No. Of": 4.0,
         "Airline": "QF",
-        "To": "LHR"
+        "To": "SYD"
     },
     {
-        "Flight": "SQ600",
-        "Date": "01-09-2026",
+        "Flight": "SQ726",
+        "Date": "21-10-2026",
+        "No. Of": 5.0,
+        "Airline": "SQ",
+        "To": "HKT"
+    },
+    {
+        "Flight": "SQ134",
+        "Date": "21-10-2026",
+        "No. Of": 5.0,
+        "Airline": "SQ",
+        "To": "PEN"
+    },
+    {
+        "Flight": "SQ114",
+        "Date": "21-10-2026",
+        "No. Of": 5.0,
+        "Airline": "SQ",
+        "To": "KUL"
+    },
+    {
+        "Flight": "SQ606",
+        "Date": "21-10-2026",
         "No. Of": 5.0,
         "Airline": "SQ",
         "To": "ICN"
     },
     {
-        "Flight": "8B152",
-        "Date": "01-09-2026",
-        "No. Of": 5.0,
-        "Airline": "8B",
-        "To": "CGK"
-    },
-    {
-        "Flight": "SQ622",
-        "Date": "01-09-2026",
+        "Flight": "SQ122",
+        "Date": "21-10-2026",
         "No. Of": 5.0,
         "Airline": "SQ",
-        "To": "KIX"
+        "To": "KUL"
+    },
+    {
+        "Flight": "SQ946",
+        "Date": "21-10-2026",
+        "No. Of": 5.0,
+        "Airline": "SQ",
+        "To": "DPS"
+    },
+    {
+        "Flight": "AI2108",
+        "Date": "21-10-2026",
+        "No. Of": 3.0,
+        "Airline": "AI",
+        "To": "BOM"
+    },
+    {
+        "Flight": "MH610",
+        "Date": "21-10-2026",
+        "No. Of": 3.0,
+        "Airline": "MH",
+        "To": "KUL"
+    },
+    {
+        "Flight": "SQ213",
+        "Date": "03-11-2026",
+        "No. Of": 5.0,
+        "Airline": "SQ",
+        "To": "PER"
+    },
+    {
+        "Flight": "SQ032",
+        "Date": "03-11-2026",
+        "No. Of": 5.0,
+        "Airline": "SQ",
+        "To": "SFO"
+    },
+    {
+        "Flight": "SQ211",
+        "Date": "03-11-2026",
+        "No. Of": 5.0,
+        "Airline": "SQ",
+        "To": "SYD"
+    },
+    {
+        "Flight": "SQ318",
+        "Date": "03-11-2026",
+        "No. Of": 5.0,
+        "Airline": "SQ",
+        "To": "LHR"
+    },
+    {
+        "Flight": "SQ338",
+        "Date": "03-11-2026",
+        "No. Of": 5.0,
+        "Airline": "SQ",
+        "To": "CDG"
+    },
+    {
+        "Flight": "SQ898",
+        "Date": "03-11-2026",
+        "No. Of": 5.0,
+        "Airline": "SQ",
+        "To": "HKG"
+    },
+    {
+        "Flight": "SQ818",
+        "Date": "03-11-2026",
+        "No. Of": 5.0,
+        "Airline": "SQ",
+        "To": "CKG"
+    },
+    {
+        "Flight": "CX710",
+        "Date": "06-11-2026",
+        "No. Of": 5.0,
+        "Airline": "CX",
+        "To": "HKG"
+    },
+    {
+        "Flight": "AK702",
+        "Date": "06-11-2026",
+        "No. Of": 5.0,
+        "Airline": "AK",
+        "To": "KUL"
+    },
+    {
+        "Flight": "5J818",
+        "Date": "06-11-2026",
+        "No. Of": 5.0,
+        "Airline": "5J",
+        "To": "MNL"
+    },
+    {
+        "Flight": "OD804",
+        "Date": "06-11-2026",
+        "No. Of": 5.0,
+        "Airline": "OD",
+        "To": "KUL"
+    },
+    {
+        "Flight": "VJ916",
+        "Date": "06-11-2026",
+        "No. Of": 5.0,
+        "Airline": "VJ",
+        "To": "HAN"
+    },
+    {
+        "Flight": "VJ814",
+        "Date": "06-11-2026",
+        "No. Of": 5.0,
+        "Airline": "VJ",
+        "To": "SGN"
+    },
+    {
+        "Flight": "VJ882",
+        "Date": "06-11-2026",
+        "No. Of": 5.0,
+        "Airline": "VJ",
+        "To": "DAD"
+    },
+    {
+        "Flight": "TR264",
+        "Date": "10-11-2026",
+        "No. Of": 5.0,
+        "Airline": "TR",
+        "To": "SUB"
+    },
+    {
+        "Flight": "TK209",
+        "Date": "10-11-2026",
+        "No. Of": 5.0,
+        "Airline": "TK",
+        "To": "IST"
+    },
+    {
+        "Flight": "TR872",
+        "Date": "10-11-2026",
+        "No. Of": 5.0,
+        "Airline": "TR",
+        "To": "TPE"
+    },
+    {
+        "Flight": "TR688",
+        "Date": "10-11-2026",
+        "No. Of": 5.0,
+        "Airline": "TR",
+        "To": "BKK"
+    },
+    {
+        "Flight": "TR282",
+        "Date": "10-11-2026",
+        "No. Of": 5.0,
+        "Airline": "TR",
+        "To": "DPS"
+    },
+    {
+        "Flight": "CZ3040",
+        "Date": "10-11-2026",
+        "No. Of": 5.0,
+        "Airline": "CZ",
+        "To": "CAN"
+    },
+    {
+        "Flight": "QF052",
+        "Date": "10-11-2026",
+        "No. Of": 5.0,
+        "Airline": "QF",
+        "To": "BNE"
+    },
+    {
+        "Flight": "SQ632",
+        "Date": "14-11-2026",
+        "No. Of": 5.0,
+        "Airline": "SQ",
+        "To": "HND"
+    },
+    {
+        "Flight": "SQ178",
+        "Date": "14-11-2026",
+        "No. Of": 5.0,
+        "Airline": "SQ",
+        "To": "SGN"
+    },
+    {
+        "Flight": "MH614",
+        "Date": "14-11-2026",
+        "No. Of": 5.0,
+        "Airline": "MH",
+        "To": "KUL"
+    },
+    {
+        "Flight": "SQ916",
+        "Date": "14-11-2026",
+        "No. Of": 5.0,
+        "Airline": "SQ",
+        "To": "MNL"
     },
     {
         "Flight": "SQ712",
-        "Date": "01-09-2026",
+        "Date": "14-11-2026",
         "No. Of": 5.0,
         "Airline": "SQ",
         "To": "BKK"
     },
     {
         "Flight": "SQ964",
-        "Date": "01-09-2026",
+        "Date": "14-11-2026",
         "No. Of": 5.0,
         "Airline": "SQ",
         "To": "CGK"
     },
     {
         "Flight": "6E1014",
-        "Date": "01-09-2026",
+        "Date": "14-11-2026",
         "No. Of": 3.0,
         "Airline": "6E",
         "To": "DEL"
     },
     {
-        "Flight": "SQ968",
-        "Date": "01-09-2026",
+        "Flight": "TG410",
+        "Date": "14-11-2026",
+        "No. Of": 5.0,
+        "Airline": "TG",
+        "To": "BKK"
+    },
+    {
+        "Flight": "SQ828",
+        "Date": "18-11-2026",
         "No. Of": 5.0,
         "Airline": "SQ",
-        "To": "CGK"
-    },
-    {
-        "Flight": "UL307",
-        "Date": "04-09-2026",
-        "No. Of": 5.0,
-        "Airline": "UL",
-        "To": "CMB"
-    },
-    {
-        "Flight": "SQ217",
-        "Date": "04-09-2026",
-        "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "MEL"
-    },
-    {
-        "Flight": "SQ326",
-        "Date": "04-09-2026",
-        "No. Of": 3.0,
-        "Airline": "SQ",
-        "To": "FRA"
-    },
-    {
-        "Flight": "MU568",
-        "Date": "04-09-2026",
-        "No. Of": 5.0,
-        "Airline": "MU",
         "To": "PVG"
     },
     {
-        "Flight": "SQ215",
-        "Date": "04-09-2026",
-        "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "PER"
-    },
-    {
-        "Flight": "VN656",
-        "Date": "04-09-2026",
-        "No. Of": 5.0,
-        "Airline": "VN",
-        "To": "SGN"
-    },
-    {
-        "Flight": "SQ285",
-        "Date": "04-09-2026",
+        "Flight": "SQ281",
+        "Date": "18-11-2026",
         "No. Of": 5.0,
         "Airline": "SQ",
         "To": "AKL"
     },
     {
-        "Flight": "TR624",
-        "Date": "07-09-2026",
+        "Flight": "MU546",
+        "Date": "18-11-2026",
         "No. Of": 5.0,
-        "Airline": "TR",
-        "To": "BKK"
+        "Airline": "MU",
+        "To": "PVG"
     },
     {
-        "Flight": "TR288",
-        "Date": "07-09-2026",
-        "No. Of": 5.0,
-        "Airline": "TR",
-        "To": "DPS"
-    },
-    {
-        "Flight": "TR514",
-        "Date": "07-09-2026",
-        "No. Of": 5.0,
-        "Airline": "TR",
-        "To": "HAN"
-    },
-    {
-        "Flight": "MF852",
-        "Date": "07-09-2026",
-        "No. Of": 5.0,
-        "Airline": "MF",
-        "To": "XMN"
-    },
-    {
-        "Flight": "TR882",
-        "Date": "07-09-2026",
-        "No. Of": 5.0,
-        "Airline": "TR",
-        "To": "HND"
-    },
-    {
-        "Flight": "SQ012",
-        "Date": "10-09-2026",
+        "Flight": "SQ878",
+        "Date": "18-11-2026",
         "No. Of": 5.0,
         "Airline": "SQ",
-        "To": "NRT"
+        "To": "TPE"
     },
     {
-        "Flight": "SQ334",
-        "Date": "10-09-2026",
+        "Flight": "MU568",
+        "Date": "18-11-2026",
         "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "AMS"
+        "Airline": "MU",
+        "To": "PVG"
     },
     {
-        "Flight": "SQ326",
-        "Date": "10-09-2026",
-        "No. Of": 4.0,
-        "Airline": "SQ",
-        "To": "FRA"
-    },
-    {
-        "Flight": "SQ034",
-        "Date": "10-09-2026",
+        "Flight": "GA823",
+        "Date": "18-11-2026",
         "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "SFO"
-    },
-    {
-        "Flight": "SQ235",
-        "Date": "10-09-2026",
-        "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "BNE"
-    },
-    {
-        "Flight": "TR274",
-        "Date": "13-09-2026",
-        "No. Of": 5.0,
-        "Airline": "TR",
+        "Airline": "GA",
         "To": "CGK"
     },
     {
+        "Flight": "SQ510",
+        "Date": "18-11-2026",
+        "No. Of": 5.0,
+        "Airline": "SQ",
+        "To": "BLR"
+    },
+    {
         "Flight": "TR450",
-        "Date": "13-09-2026",
+        "Date": "21-11-2026",
         "No. Of": 5.0,
         "Airline": "TR",
         "To": "KUL"
     },
     {
-        "Flight": "AF181",
-        "Date": "13-09-2026",
-        "No. Of": 5.0,
-        "Airline": "AF",
-        "To": "CDG"
+        "Flight": "EK315",
+        "Date": "21-11-2026",
+        "No. Of": 3.0,
+        "Airline": "EK",
+        "To": "DXB"
     },
     {
-        "Flight": "ZH240",
-        "Date": "13-09-2026",
+        "Flight": "CZ8118",
+        "Date": "21-11-2026",
         "No. Of": 5.0,
-        "Airline": "ZH",
+        "Airline": "CZ",
         "To": "SZX"
     },
     {
-        "Flight": "TR266",
-        "Date": "13-09-2026",
+        "Flight": "CA404",
+        "Date": "21-11-2026",
+        "No. Of": 5.0,
+        "Airline": "CA",
+        "To": "TFU"
+    },
+    {
+        "Flight": "KL835",
+        "Date": "21-11-2026",
+        "No. Of": 5.0,
+        "Airline": "KL",
+        "To": "DPS"
+    },
+    {
+        "Flight": "TR270",
+        "Date": "21-11-2026",
         "No. Of": 5.0,
         "Airline": "TR",
-        "To": "SUB"
+        "To": "CGK"
+    },
+    {
+        "Flight": "TR766",
+        "Date": "21-11-2026",
+        "No. Of": 5.0,
+        "Airline": "TR",
+        "To": "TRZ"
+    },
+    {
+        "Flight": "SQ600",
+        "Date": "01-12-2026",
+        "No. Of": 5.0,
+        "Airline": "SQ",
+        "To": "ICN"
+    },
+    {
+        "Flight": "6E1026",
+        "Date": "01-12-2026",
+        "No. Of": 3.0,
+        "Airline": "6E",
+        "To": "MAA"
+    },
+    {
+        "Flight": "SQ156",
+        "Date": "01-12-2026",
+        "No. Of": 5.0,
+        "Airline": "SQ",
+        "To": "KTI"
+    },
+    {
+        "Flight": "SQ714",
+        "Date": "01-12-2026",
+        "No. Of": 5.0,
+        "Airline": "SQ",
+        "To": "BKK"
+    },
+    {
+        "Flight": "6E1164",
+        "Date": "01-12-2026",
+        "No. Of": 3.0,
+        "Airline": "6E",
+        "To": "BOM"
+    },
+    {
+        "Flight": "SQ468",
+        "Date": "01-12-2026",
+        "No. Of": 5.0,
+        "Airline": "SQ",
+        "To": "CMB"
+    },
+    {
+        "Flight": "SQ828",
+        "Date": "04-12-2026",
+        "No. Of": 5.0,
+        "Airline": "SQ",
+        "To": "PVG"
+    },
+    {
+        "Flight": "SQ012",
+        "Date": "04-12-2026",
+        "No. Of": 5.0,
+        "Airline": "SQ",
+        "To": "NRT"
+    },
+    {
+        "Flight": "SQ326",
+        "Date": "04-12-2026",
+        "No. Of": 5.0,
+        "Airline": "SQ",
+        "To": "FRA"
+    },
+    {
+        "Flight": "GA833",
+        "Date": "04-12-2026",
+        "No. Of": 5.0,
+        "Airline": "GA",
+        "To": "CGK"
+    },
+    {
+        "Flight": "SQ898",
+        "Date": "04-12-2026",
+        "No. Of": 5.0,
+        "Airline": "SQ",
+        "To": "HKG"
+    },
+    {
+        "Flight": "VN656",
+        "Date": "04-12-2026",
+        "No. Of": 5.0,
+        "Airline": "VN",
+        "To": "SGN"
+    },
+    {
+        "Flight": "EK315",
+        "Date": "07-12-2026",
+        "No. Of": 3.0,
+        "Airline": "EK",
+        "To": "DXB"
+    },
+    {
+        "Flight": "TR474",
+        "Date": "07-12-2026",
+        "No. Of": 5.0,
+        "Airline": "TR",
+        "To": "SZB"
+    },
+    {
+        "Flight": "TR552",
+        "Date": "07-12-2026",
+        "No. Of": 5.0,
+        "Airline": "TR",
+        "To": "SGN"
+    },
+    {
+        "Flight": "TR610",
+        "Date": "07-12-2026",
+        "No. Of": 5.0,
+        "Airline": "TR",
+        "To": "BKK"
     },
     {
         "Flight": "QF036",
-        "Date": "13-09-2026",
+        "Date": "07-12-2026",
         "No. Of": 5.0,
         "Airline": "QF",
         "To": "MEL"
+    },
+    {
+        "Flight": "CZ8048",
+        "Date": "07-12-2026",
+        "No. Of": 3.0,
+        "Airline": "CZ",
+        "To": "SZX"
+    },
+    {
+        "Flight": "TR894",
+        "Date": "07-12-2026",
+        "No. Of": 4.0,
+        "Airline": "TR",
+        "To": "NRT"
+    },
+    {
+        "Flight": "SQ620",
+        "Date": "10-12-2026",
+        "No. Of": 5.0,
+        "Airline": "SQ",
+        "To": "KIX"
+    },
+    {
+        "Flight": "NH842",
+        "Date": "10-12-2026",
+        "No. Of": 5.0,
+        "Airline": "NH",
+        "To": "HND"
+    },
+    {
+        "Flight": "SQ958",
+        "Date": "10-12-2026",
+        "No. Of": 5.0,
+        "Airline": "SQ",
+        "To": "CGK"
+    },
+    {
+        "Flight": "SQ194",
+        "Date": "10-12-2026",
+        "No. Of": 5.0,
+        "Airline": "SQ",
+        "To": "HAN"
+    },
+    {
+        "Flight": "SQ828",
+        "Date": "13-12-2026",
+        "No. Of": 5.0,
+        "Airline": "SQ",
+        "To": "PVG"
+    },
+    {
+        "Flight": "SQ802",
+        "Date": "13-12-2026",
+        "No. Of": 5.0,
+        "Airline": "SQ",
+        "To": "PEK"
+    },
+    {
+        "Flight": "SQ211",
+        "Date": "13-12-2026",
+        "No. Of": 5.0,
+        "Airline": "SQ",
+        "To": "SYD"
+    },
+    {
+        "Flight": "TR552",
+        "Date": "13-12-2026",
+        "No. Of": 5.0,
+        "Airline": "TR",
+        "To": "SGN"
+    },
+    {
+        "Flight": "TR442",
+        "Date": "13-12-2026",
+        "No. Of": 3.0,
+        "Airline": "TR",
+        "To": "KUL"
+    },
+    {
+        "Flight": "TR636",
+        "Date": "13-12-2026",
+        "No. Of": 3.0,
+        "Airline": "TR",
+        "To": "BKK"
     }
 ]    
 
