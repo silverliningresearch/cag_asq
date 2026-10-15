@@ -206,7 +206,7 @@
     },
     {
         "Airline_Dest": "TR-BKK",
-        "Quota": 13.0,
+        "Quota": 18.0,
         "Quarter": "2026-Q4",
         "Notes": ""
     },
@@ -218,7 +218,7 @@
     },
     {
         "Airline_Dest": "TR-KUL",
-        "Quota": 13.0,
+        "Quota": 8.0,
         "Quarter": "2026-Q4",
         "Notes": ""
     },
@@ -403,14 +403,8 @@
         "Notes": ""
     },
     {
-        "Airline_Dest": "AI-BOM",
-        "Quota": 3.0,
-        "Quarter": "2026-Q4",
-        "Notes": ""
-    },
-    {
-        "Airline_Dest": "AI-MAA",
-        "Quota": 3.0,
+        "Airline_Dest": "AI-DEL",
+        "Quota": 6.0,
         "Quarter": "2026-Q4",
         "Notes": ""
     },

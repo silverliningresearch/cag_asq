@@ -31,16 +31,16 @@
     {
         "Flight": "CZ3040",
         "Date": "05-10-2026",
-        "No. Of": 3.0,
+        "No. Of": 5.0,
         "Airline": "CZ",
         "To": "CAN"
     },
     {
-        "Flight": "QR947",
+        "Flight": "QF052",
         "Date": "05-10-2026",
         "No. Of": 5.0,
-        "Airline": "QR",
-        "To": "DOH"
+        "Airline": "QF",
+        "To": "BNE"
     },
     {
         "Flight": "BA016",
@@ -71,11 +71,11 @@
         "To": "MNL"
     },
     {
-        "Flight": "AI349",
+        "Flight": "AI2116",
         "Date": "08-10-2026",
         "No. Of": 3.0,
         "Airline": "AI",
-        "To": "MAA"
+        "To": "DEL"
     },
     {
         "Flight": "SQ944",
@@ -169,11 +169,11 @@
         "To": "KUL"
     },
     {
-        "Flight": "8B152",
+        "Flight": "VJ970",
         "Date": "15-10-2026",
         "No. Of": 5.0,
-        "Airline": "8B",
-        "To": "CGK"
+        "Airline": "VJ",
+        "To": "DAD"
     },
     {
         "Flight": "FD356",
@@ -239,11 +239,11 @@
         "To": "XMN"
     },
     {
-        "Flight": "TR468",
+        "Flight": "KL835",
         "Date": "18-10-2026",
         "No. Of": 5.0,
-        "Airline": "TR",
-        "To": "KUL"
+        "Airline": "KL",
+        "To": "DPS"
     },
     {
         "Flight": "TR652",
@@ -274,11 +274,11 @@
         "To": "PEN"
     },
     {
-        "Flight": "SQ114",
+        "Flight": "AI2116",
         "Date": "21-10-2026",
-        "No. Of": 5.0,
-        "Airline": "SQ",
-        "To": "KUL"
+        "No. Of": 3.0,
+        "Airline": "AI",
+        "To": "DEL"
     },
     {
         "Flight": "SQ606",
@@ -302,11 +302,11 @@
         "To": "DPS"
     },
     {
-        "Flight": "AI2108",
+        "Flight": "SQ128",
         "Date": "21-10-2026",
-        "No. Of": 3.0,
-        "Airline": "AI",
-        "To": "BOM"
+        "No. Of": 5.0,
+        "Airline": "SQ",
+        "To": "KUL"
     },
     {
         "Flight": "MH610",
@@ -407,11 +407,11 @@
         "To": "SGN"
     },
     {
-        "Flight": "VJ882",
+        "Flight": "8B142",
         "Date": "06-11-2026",
         "No. Of": 5.0,
-        "Airline": "VJ",
-        "To": "DAD"
+        "Airline": "8B",
+        "To": "CGK"
     },
     {
         "Flight": "TR264",
@@ -428,11 +428,11 @@
         "To": "IST"
     },
     {
-        "Flight": "TR872",
+        "Flight": "CZ8118",
         "Date": "10-11-2026",
         "No. Of": 5.0,
-        "Airline": "TR",
-        "To": "TPE"
+        "Airline": "CZ",
+        "To": "SZX"
     },
     {
         "Flight": "TR688",
@@ -451,16 +451,16 @@
     {
         "Flight": "CZ3040",
         "Date": "10-11-2026",
-        "No. Of": 5.0,
+        "No. Of": 3.0,
         "Airline": "CZ",
         "To": "CAN"
     },
     {
-        "Flight": "QF052",
+        "Flight": "QR947",
         "Date": "10-11-2026",
         "No. Of": 5.0,
-        "Airline": "QF",
-        "To": "BNE"
+        "Airline": "QR",
+        "To": "DOH"
     },
     {
         "Flight": "SQ632",
@@ -505,7 +505,7 @@
         "To": "CGK"
     },
     {
-        "Flight": "6E1014",
+        "Flight": "6E1204",
         "Date": "14-11-2026",
         "No. Of": 3.0,
         "Airline": "6E",
@@ -582,11 +582,11 @@
         "To": "DXB"
     },
     {
-        "Flight": "CZ8118",
+        "Flight": "TR872",
         "Date": "21-11-2026",
         "No. Of": 5.0,
-        "Airline": "CZ",
-        "To": "SZX"
+        "Airline": "TR",
+        "To": "TPE"
     },
     {
         "Flight": "CA404",
@@ -596,11 +596,11 @@
         "To": "TFU"
     },
     {
-        "Flight": "KL835",
+        "Flight": "TR636",
         "Date": "21-11-2026",
         "No. Of": 5.0,
-        "Airline": "KL",
-        "To": "DPS"
+        "Airline": "TR",
+        "To": "BKK"
     },
     {
         "Flight": "TR270",
